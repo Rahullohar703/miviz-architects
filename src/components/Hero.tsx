@@ -125,7 +125,7 @@ const Hero = () => {
                 <div 
                   className={`flex flex-col items-center gap-3 transition-all duration-500 ${isLoaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
                 >
-                  <span className="text-white/70 text-[9px] sm:text-[10px] tracking-[0.3em] uppercase font-light animate-pulse">
+                  <span className="text-white text-xs sm:text-sm tracking-[0.2em] uppercase font-medium animate-pulse drop-shadow-md">
                     Scroll to explore
                   </span>
                   
