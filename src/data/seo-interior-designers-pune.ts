@@ -86,19 +86,19 @@ export const interiorDesignersPuneData: SEOPageData = {
 
     <h2>Turnkey Interior Designers in Pune: From Concept to Handover</h2>
     <p>Managing an interior design project often involves juggling multiple vendors, carpenters, electricians, and painters. This fragmented approach frequently leads to delays, budget overruns, and a final product that falls short of expectations.</p>
-    <p>MIVIZ solves this by operating as turnkey <strong>interior designers in Pune</strong>. This means we take complete, single-point responsibility for your project. Our design team creates the vision, and our in-house project management team executes it. We handle procurement, vendor management, quality control, and timeline tracking. You simply approve the designs and receive the keys to your beautifully finished space, on time and on budget.</p>
+    <p>MIVIZ solves this by operating as <a href="/turnkey-architecture-pune" style="color:#d9a05b; text-decoration:underline;">turnkey</a> <strong>interior designers in Pune</strong>. This means we take complete, single-point responsibility for your project. Our design team creates the vision, and our in-house project management team executes it. We handle procurement, vendor management, quality control, and timeline tracking. You simply approve the designs and receive the keys to your beautifully finished space, on time and on budget.</p>
 
     <h2>Our Interior Design Expertise</h2>
     <p>Our portfolio as leading interior designers in Pune spans various sectors, each with its own unique challenges and requirements.</p>
 
     <h3>Luxury Residential Interiors</h3>
-    <p>Your home should be your ultimate sanctuary. We design luxury residential interiors that are sophisticated, warm, and highly personalized. Whether it is a sprawling villa or an upscale apartment in Pune, our interior designers focus on spatial flow, customized furniture design, premium material selection, and intelligent lighting to create homes that are as comfortable as they are stunning.</p>
+    <p>Your home should be your ultimate sanctuary. We design <a href="/residential-architects-pune" style="color:#d9a05b; text-decoration:underline;">luxury residential interiors</a> that are sophisticated, warm, and highly personalized. Whether it is a sprawling villa or an upscale apartment in Pune, our interior designers focus on spatial flow, customized furniture design, premium material selection, and intelligent lighting to create homes that are as comfortable as they are stunning.</p>
 
     <h3>High-Performance Commercial Interiors</h3>
-    <p>The design of a workspace directly impacts employee productivity and brand perception. We are highly sought-after interior designers in Pune for commercial spaces. We design offices that foster collaboration, reflect corporate identity, and prioritize employee well-being through ergonomic planning and acoustic management.</p>
+    <p>The design of a workspace directly impacts employee productivity and brand perception. We are highly sought-after interior designers in Pune for <a href="/commercial-architects-pune" style="color:#d9a05b; text-decoration:underline;">commercial spaces</a>. We design offices that foster collaboration, reflect corporate identity, and prioritize employee well-being through ergonomic planning and acoustic management.</p>
 
     <h3>Hospitality and Restaurant Interiors</h3>
-    <p>In the hospitality sector, the interior design is often the main differentiator. We design restaurants, cafes, and lounges in Pune that offer immersive, memorable experiences for guests. Our hospitality interior design focuses on ambiance, durability of materials, and efficient back-of-house flow.</p>
+    <p>In the hospitality sector, the interior design is often the main differentiator. We <a href="/restaurant-interior-design-pune" style="color:#d9a05b; text-decoration:underline;">design restaurants, cafes, and lounges</a> in Pune that offer immersive, memorable experiences for guests. Our hospitality interior design focuses on ambiance, durability of materials, and efficient back-of-house flow.</p>
 
     <h2>The Elements of MIVIZ Interior Design</h2>
     <p>What makes our work stand out among other interior designers in Pune? It is our meticulous attention to the fundamental elements of design:</p>
