@@ -111,7 +111,7 @@ export const houseConstructionCostPuneData: SEOPageData = {
     subtitle: 'Exact Rates, Hidden Fees & Essential Insights for Homeowners',
     ctaText: 'Calculate Your Estimate'
   },
-  content: \`
+  content: `
     <div style="background: #f9f9f9; border-left: 4px solid #d9a05b; padding: 15px; margin-bottom: 30px;">
       <strong>📌 Key Takeaways (2026 Quick Summary)</strong>
       <ul style="margin-top: 10px;">
@@ -291,5 +291,5 @@ export const houseConstructionCostPuneData: SEOPageData = {
       <strong>Can I get a home loan for self-construction in Pune?</strong>
       <p>Yes, all major banks offer self-construction loans. The bank requires an approved PMC/PCMC building plan and a detailed cost estimate signed by a licensed architect before disbursing funds in tranches.</p>
     </div>
-  \`
+  `
 };
