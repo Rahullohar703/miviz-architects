@@ -407,7 +407,7 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
       <h3 style="margin-top:0; color: #d9a05b;">Request a Free Site Feasibility Consultation</h3>
       <p>Schedule a meeting with our Principal Architect to discuss your plot, your vision, and get a realistic estimate for your Turnkey project.</p>
       <br>
-      <a href="/contact" style="background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Book Your Turnkey Consultation Now</a>
+      <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Book Your Turnkey Consultation Now</a>
     </div>
   `
 };

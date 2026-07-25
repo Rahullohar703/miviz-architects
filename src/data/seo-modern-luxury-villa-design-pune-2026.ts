@@ -341,7 +341,7 @@ export const modernLuxuryVillaDesignPune2026Data: SEOPageData = {
       <h3 style="margin-top:0; color: #d9a05b;">Book a Private Design Consultation</h3>
       <p>Sit down with our Principal Architect to discuss your vision, Vastu requirements, and get a realistic roadmap for your dream home.</p>
       <br>
-      <a href="/contact" style="background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Schedule Your Free Consultation Today</a>
+      <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Schedule Your Free Consultation Today</a>
     </div>
   `
 };
