@@ -33,7 +33,7 @@ const SEOPage = ({ data }: SEOPageProps) => {
   return (
     <main className="min-h-screen bg-background">
       <SEOHead {...data.head} />
-      <Header />
+      <Header isBlogPage={true} />
       <SEOHero {...data.hero} />
       <SEOArticle content={data.content} />
       <SEOContactForm />

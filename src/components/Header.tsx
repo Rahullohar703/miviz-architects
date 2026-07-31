@@ -5,7 +5,11 @@ import { Link } from 'react-router-dom';
 import mivizLogoLight from '@/assets/miviz-v-overlay.png';
 import mivizLogoDark from '@/assets/miviz-logo-dark.png';
 
-const Header = () => {
+interface HeaderProps {
+  isBlogPage?: boolean;
+}
+
+const Header = ({ isBlogPage = false }: HeaderProps) => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [hoveredNav, setHoveredNav] = useState<string | null>(null);
@@ -26,12 +30,17 @@ const Header = () => {
     }
   };
 
-  const navItems = [
-    { label: 'Home', id: 'hero', isRoute: false },
-    { label: 'About', id: 'about', isRoute: false },
-    { label: 'Projects', id: 'projects', isRoute: false },
-    { label: 'Contact', id: '/contact', isRoute: true },
-  ];
+  const navItems = isBlogPage 
+    ? [
+        { label: 'Projects', id: 'projects', isRoute: false },
+        { label: 'Contact', id: '/contact', isRoute: true },
+      ]
+    : [
+        { label: 'Home', id: 'hero', isRoute: false },
+        { label: 'About', id: 'about', isRoute: false },
+        { label: 'Projects', id: 'projects', isRoute: false },
+        { label: 'Contact', id: '/contact', isRoute: true },
+      ];
 
   const navItemVariants = {
     hidden: { opacity: 0, y: -10 },
@@ -63,9 +72,10 @@ const Header = () => {
         layout
       >
         {/* Logo */}
-        <button
-          onClick={() => scrollToSection('hero')}
-          className="p-1 rounded-full transition-all duration-300 hover:scale-105"
+        <Link
+          to="/"
+          onClick={() => window.scrollTo(0, 0)}
+          className="p-1 rounded-full transition-all duration-300 hover:scale-105 inline-block"
         >
           <motion.img 
             src={isScrolled ? mivizLogoDark : mivizLogoLight} 
@@ -76,7 +86,7 @@ const Header = () => {
             transition={{ duration: 0.5 }}
             key={isScrolled ? 'dark' : 'light'}
           />
-        </button>
+        </Link>
 
         {/* Divider */}
         <div className={`hidden md:block w-px h-5 transition-colors duration-300 ${isScrolled ? 'bg-border' : 'bg-white/30'}`} />
