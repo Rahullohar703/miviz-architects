@@ -98,8 +98,10 @@ const SeamlessExperience = () => {
             While we do the heavy lifting, all you need to do is walk into your brand new space.
           </p>
           
-          <motion.button
-            onClick={() => scrollToSection('projects')}
+          <motion.a
+            href="https://www.instagram.com/mivizarchitects/"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn-luxury group"
             onMouseEnter={() => setIsButtonHovered(true)}
             onMouseLeave={() => setIsButtonHovered(false)}
@@ -115,7 +117,7 @@ const SeamlessExperience = () => {
                 <ArrowRight className="w-4 h-4" strokeWidth={1.5} />
               </motion.span>
             </span>
-          </motion.button>
+          </motion.a>
         </motion.div>
       </div>
     </section>

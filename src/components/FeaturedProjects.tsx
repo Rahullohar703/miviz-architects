@@ -186,8 +186,10 @@ const FeaturedProjects = () => {
             </p>
           </motion.div>
 
-          <motion.button
-            onClick={() => scrollToSection('projects')}
+          <motion.a
+            href="https://www.instagram.com/mivizarchitects/"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn-luxury self-start whitespace-nowrap"
             initial={{ opacity: 0, y: 20 }}
             animate={isInView ? { opacity: 1, y: 0 } : {}}
@@ -196,7 +198,7 @@ const FeaturedProjects = () => {
             whileTap={{ scale: 0.98 }}
           >
             <span>See All Projects</span>
-          </motion.button>
+          </motion.a>
         </div>
 
         {/* Projects Grid */}
