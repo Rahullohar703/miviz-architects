@@ -107,7 +107,7 @@ const Header = ({ isBlogPage = false }: HeaderProps) => {
                   onClick={() => window.scrollTo(0, 0)}
                   onMouseEnter={() => setHoveredNav(item.id)}
                   onMouseLeave={() => setHoveredNav(null)}
-                  className={`relative px-4 py-2 rounded-full text-[11px] tracking-[0.15em] uppercase transition-all duration-300 ${
+                  className={`relative flex items-center h-full px-4 py-2 rounded-full text-[11px] tracking-[0.15em] uppercase transition-all duration-300 ${
                     isScrolled 
                       ? `text-foreground/70 hover:text-foreground` 
                       : `text-white/80 hover:text-white`
@@ -131,7 +131,7 @@ const Header = ({ isBlogPage = false }: HeaderProps) => {
                   onClick={() => scrollToSection(item.id)}
                   onMouseEnter={() => setHoveredNav(item.id)}
                   onMouseLeave={() => setHoveredNav(null)}
-                  className={`relative px-4 py-2 rounded-full text-[11px] tracking-[0.15em] uppercase transition-all duration-300 ${
+                  className={`relative flex items-center h-full px-4 py-2 rounded-full text-[11px] tracking-[0.15em] uppercase transition-all duration-300 ${
                     isScrolled 
                       ? `text-foreground/70 hover:text-foreground` 
                       : `text-white/80 hover:text-white`
