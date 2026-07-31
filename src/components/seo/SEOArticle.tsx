@@ -6,7 +6,7 @@ interface SEOArticleProps {
 
 const SEOArticle = ({ content }: SEOArticleProps) => {
   return (
-    <section id="seo-content" className="section-padding bg-background border-t border-border">
+    <section id="seo-content" className="py-10 md:py-20 lg:py-24 bg-background border-t border-border">
       <div className="container-luxury">
         <motion.div 
           className="max-w-3xl mx-auto prose prose-stone lg:prose-lg 
