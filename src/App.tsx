@@ -33,6 +33,7 @@ const ArchitectureFirmInPunePage = React.lazy(() => import("./pages/seo/Architec
 const Top10ArchitectsInPunePage = React.lazy(() => import("./pages/seo/Top10ArchitectsInPunePage"));
 const AffordableArchitectNearMePage = React.lazy(() => import("./pages/seo/AffordableArchitectNearMePage"));
 const BestArchitectNearMePage = React.lazy(() => import("./pages/seo/BestArchitectNearMePage"));
+const HomeInteriorDesignerPunePage = React.lazy(() => import("./pages/seo/HomeInteriorDesignerPunePage"));
 
 const queryClient = new QueryClient();
 
@@ -90,6 +91,7 @@ const AnimatedRoutes = () => {
           <Route path="/top-10-architects-in-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><Top10ArchitectsInPunePage /></Suspense>} />
           <Route path="/affordable-architect-near-me" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><AffordableArchitectNearMePage /></Suspense>} />
           <Route path="/best-architect-near-me" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><BestArchitectNearMePage /></Suspense>} />
+          <Route path="/home-interior-designer-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><HomeInteriorDesignerPunePage /></Suspense>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
