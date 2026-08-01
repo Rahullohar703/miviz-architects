@@ -30,6 +30,7 @@ const HomeConstructionTimelinePune2026Page = React.lazy(() => import("./pages/se
 const TopTenArchitectsInPunePage = React.lazy(() => import("./pages/seo/TopTenArchitectsInPunePage"));
 const GoodArchitectsInPunePage = React.lazy(() => import("./pages/seo/GoodArchitectsInPunePage"));
 const ArchitectureFirmInPunePage = React.lazy(() => import("./pages/seo/ArchitectureFirmInPunePage"));
+const Top10ArchitectsInPunePage = React.lazy(() => import("./pages/seo/Top10ArchitectsInPunePage"));
 
 const queryClient = new QueryClient();
 
@@ -84,6 +85,7 @@ const AnimatedRoutes = () => {
           <Route path="/top-ten-architects-in-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><TopTenArchitectsInPunePage /></Suspense>} />
           <Route path="/good-architects-in-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><GoodArchitectsInPunePage /></Suspense>} />
           <Route path="/architecture-firm-in-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ArchitectureFirmInPunePage /></Suspense>} />
+          <Route path="/top-10-architects-in-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><Top10ArchitectsInPunePage /></Suspense>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
