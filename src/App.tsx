@@ -27,6 +27,7 @@ const ArchitectureVsInteriorDesignPune2026Page = React.lazy(() => import("./page
 const HousePlansSmallPlotsPune2026Page = React.lazy(() => import("./pages/seo/HousePlansSmallPlotsPune2026Page"));
 const ModernVastuTipsHomesPune2026Page = React.lazy(() => import("./pages/seo/ModernVastuTipsHomesPune2026Page"));
 const HomeConstructionTimelinePune2026Page = React.lazy(() => import("./pages/seo/HomeConstructionTimelinePune2026Page"));
+const TopTenArchitectsInPunePage = React.lazy(() => import("./pages/seo/TopTenArchitectsInPunePage"));
 
 const queryClient = new QueryClient();
 
@@ -78,6 +79,7 @@ const AnimatedRoutes = () => {
           <Route path="/house-plans-small-plots-pune-2026" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><HousePlansSmallPlotsPune2026Page /></Suspense>} />
           <Route path="/modern-vastu-tips-homes-pune-2026" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ModernVastuTipsHomesPune2026Page /></Suspense>} />
           <Route path="/home-construction-timeline-pune-2026" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><HomeConstructionTimelinePune2026Page /></Suspense>} />
+          <Route path="/top-ten-architects-in-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><TopTenArchitectsInPunePage /></Suspense>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
