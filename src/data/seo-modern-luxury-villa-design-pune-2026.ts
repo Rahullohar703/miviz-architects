@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const modernLuxuryVillaDesignPune2026Data: SEOPageData = {
   slug: 'modern-luxury-villa-design-pune-2026',
   head: {
-    title: 'Modern Luxury Villa Design Ideas in Pune (2026 Trends)',
+    title: 'Modern Luxury Villa Design Ideas for Pune Homes (2026)',
     description: 'Discover 2026\'s top modern luxury villa design ideas for Pune homes. Explore glass facades, courtyards, smart home tech, Vastu tips, and expert architect advice.',
     canonicalUrl: 'https://mivizarchitects.in/modern-luxury-villa-design-pune-2026',
     schema: JSON.stringify([

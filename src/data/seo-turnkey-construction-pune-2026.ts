@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const turnkeyConstructionPune2026Data: SEOPageData = {
   slug: 'turnkey-construction-pune-2026',
   head: {
-    title: 'Turnkey Construction in Pune (2026): Cost, Process & Benefits',
+    title: 'The Complete Guide to Turnkey Construction in Pune (2026)',
     description: 'The ultimate 2026 guide to turnkey construction in Pune. Compare costs (per sq ft), understand the architect-led process, and learn how to avoid contractor scams.',
     canonicalUrl: 'https://mivizarchitects.in/turnkey-construction-pune-2026',
     schema: JSON.stringify([

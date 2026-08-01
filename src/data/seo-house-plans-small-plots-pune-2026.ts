@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const housePlansSmallPlotsPune2026Data: SEOPageData = {
   slug: 'house-plans-small-plots-pune-2026',
   head: {
-    title: 'Best House Plans for Small Plots in Pune (2026 Layouts & Costs)',
+    title: 'Best House Plans for Small Plots in Pune (2026)',
     description: 'Designing a home on a compact plot in Pune? Discover modern G+2 house plans, floor layouts, PMC/PCMC setback rules, and costs for 1000-2000 sq ft plots.',
     canonicalUrl: 'https://mivizarchitects.in/house-plans-small-plots-pune-2026',
     schema: JSON.stringify([

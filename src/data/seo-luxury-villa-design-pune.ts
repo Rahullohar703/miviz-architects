@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const luxuryVillaDesignPuneData: SEOPageData = {
   slug: 'luxury-villa-design-pune',
   head: {
-    title: 'Exquisite Luxury Villa Design in Pune | MIVIZ Architects',
+    title: 'Luxury Villa Design in Pune',
     description: 'Specialists in luxury villa design in Pune. MIVIZ architects create breathtaking, custom-built villas featuring innovative architecture and turnkey delivery.',
     canonicalUrl: 'https://mivizarchitects.in/luxury-villa-design-pune',
     schema: JSON.stringify([

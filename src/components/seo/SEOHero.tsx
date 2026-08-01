@@ -67,36 +67,32 @@ const SEOHero = ({ title, subtitle, ctaText = 'Read Article', imageAlt = 'Modern
             </motion.p>
           </motion.div>
 
-          {/* New elegant image container */}
+          {/* Interactive elegant image container for navigation */}
           <motion.div
-            className="w-full rounded-xl md:rounded-2xl overflow-hidden shadow-2xl mb-12 md:mb-16 aspect-[4/3] md:aspect-[21/9] relative border border-border"
+            className="w-full rounded-xl md:rounded-2xl overflow-hidden shadow-2xl mb-12 md:mb-16 aspect-[4/3] md:aspect-[21/9] relative border border-border group cursor-pointer"
             initial={{ opacity: 0, y: 40 }}
             animate={isLoaded ? { opacity: 1, y: 0 } : {}}
             transition={{ duration: 0.9, delay: 0.3, ease: [0.25, 0.1, 0.25, 1] }}
+            onClick={scrollToContent}
           >
             <img 
               src={isMobile ? heroImageMobile : heroImage} 
               alt={imageAlt}
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               loading="eager"
             />
-          </motion.div>
-
-          <motion.div
-            initial={{ opacity: 0, scale: 0.95 }}
-            animate={isLoaded ? { opacity: 1, scale: 1 } : {}}
-            transition={{ duration: 0.7, delay: 0.5, ease: [0.25, 0.1, 0.25, 1] }}
-            className="flex flex-col items-center"
-          >
-            <button 
-              onClick={scrollToContent}
-              className="group flex flex-col items-center gap-2 md:gap-3 text-xs md:text-sm tracking-[0.15em] uppercase text-foreground/60 hover:text-champagne transition-colors duration-300"
-            >
-              <span>{ctaText}</span>
-              <div className="w-6 h-6 md:w-8 md:h-8 rounded-full border border-border flex items-center justify-center group-hover:border-champagne group-hover:bg-champagne/5 transition-all duration-300">
-                <ArrowDown size={isMobile ? 12 : 14} className="group-hover:translate-y-0.5 transition-transform duration-300" />
+            {/* Dark gradient overlay for text readability */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent pointer-events-none" />
+            
+            {/* Navigation Overlay CTA */}
+            <div className="absolute inset-x-0 bottom-0 p-6 md:p-10 flex flex-col items-center justify-end pointer-events-none text-white">
+              <span className="text-[10px] md:text-xs tracking-[0.2em] uppercase font-medium mb-3 opacity-90 drop-shadow-md">
+                {ctaText}
+              </span>
+              <div className="w-10 h-10 md:w-12 md:h-12 rounded-full border border-white/30 bg-white/10 backdrop-blur-md flex items-center justify-center group-hover:bg-white/20 group-hover:border-white/50 group-hover:shadow-[0_0_15px_rgba(255,255,255,0.2)] transition-all duration-500">
+                <ArrowDown size={isMobile ? 16 : 20} className="group-hover:translate-y-1 transition-transform duration-300" />
               </div>
-            </button>
+            </div>
           </motion.div>
         </div>
       </div>

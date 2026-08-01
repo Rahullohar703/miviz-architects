@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const modernVastuTipsHomesPune2026Data: SEOPageData = {
   slug: 'modern-vastu-tips-homes-pune-2026',
   head: {
-    title: 'Modern Vastu Tips for Homes in Pune (2026 Design Guide)',
+    title: 'Modern Vastu Tips for Homes (2026)',
     description: 'Building a home in Pune? Discover how modern architects balance Vastu Shastra with luxury design, open floor plans, and contemporary aesthetics.',
     canonicalUrl: 'https://mivizarchitects.in/modern-vastu-tips-homes-pune-2026',
     schema: JSON.stringify([

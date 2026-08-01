@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const commercialArchitectsPuneData: SEOPageData = {
   slug: 'commercial-architects-pune',
   head: {
-    title: 'Top Commercial Architects in Pune | Office & Retail Design - MIVIZ',
+    title: 'Commercial Architects in Pune',
     description: 'Elevate your business with MIVIZ, the leading commercial architects in Pune. We design high-performance offices, retail spaces, and commercial buildings.',
     canonicalUrl: 'https://mivizarchitects.in/commercial-architects-pune',
     schema: JSON.stringify([

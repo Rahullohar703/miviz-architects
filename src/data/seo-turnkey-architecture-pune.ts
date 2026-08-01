@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const turnkeyArchitecturePuneData: SEOPageData = {
   slug: 'turnkey-architecture-pune',
   head: {
-    title: 'Expert Turnkey Architecture Pune | End-to-End Design & Build - MIVIZ',
+    title: 'Turnkey Architecture in Pune',
     description: 'Experience stress-free construction with MIVIZ, the premier firm for turnkey architecture in Pune. We handle everything from conceptual design to final handover.',
     canonicalUrl: 'https://mivizarchitects.in/turnkey-architecture-pune',
     schema: JSON.stringify([

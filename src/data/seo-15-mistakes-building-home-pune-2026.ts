@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const mistakesBuildingHomePune2026Data: SEOPageData = {
   slug: '15-mistakes-building-home-pune-2026',
   head: {
-    title: '15 Mistakes to Avoid Before Building a Home in Pune (2026 Guide)',
+    title: '15 Mistakes to Avoid Before Building in Pune (2026)',
     description: 'Planning to build a house in Pune? Avoid these 15 costly construction mistakes covering soil testing, PMC/PCMC rules, budgets, and turnkey execution.',
     canonicalUrl: 'https://mivizarchitects.in/15-mistakes-building-home-pune-2026',
     schema: JSON.stringify([

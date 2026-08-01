@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const architectureVsInteriorDesignPune2026Data: SEOPageData = {
   slug: 'architecture-vs-interior-design-pune-2026',
   head: {
-    title: 'Architecture vs Interior Design in Pune (2026 Comparison)',
+    title: 'Architecture vs Interior Design in Pune (2026)',
     description: 'Building in Pune? Discover the exact differences between an Architect and an Interior Designer, fee comparisons, PMC rules, and why integrated design saves lakhs.',
     canonicalUrl: 'https://mivizarchitects.in/architecture-vs-interior-design-pune-2026',
     schema: JSON.stringify([
