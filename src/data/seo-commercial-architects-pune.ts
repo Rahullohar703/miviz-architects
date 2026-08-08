@@ -104,5 +104,41 @@ export const commercialArchitectsPuneData: SEOPageData = {
 
     <h2>Partner with MIVIZ for Commercial Success</h2>
     <p>Your commercial space is a significant strategic investment. Do not leave its design to chance. If you are seeking visionary <strong>commercial architects in Pune</strong> who understand the intersection of architecture, brand, and business performance, MIVIZ Architects is your ideal partner. Contact us today to discuss your commercial real estate requirements and discover how our design expertise can elevate your business.</p>
-  `
+  
+
+    <!-- BEGIN ENHANCEMENTS -->
+    <div style="margin-top: 50px;">
+        <h2>Visual Inspiration & Architecture Highlights</h2>
+        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
+        <div style="text-align: center; margin: 30px 0;">
+            <img src="/assets/hero-architecture-9kSrcD2B.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+        
+    <div style="margin: 40px 0;">
+        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
+        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
+            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
+            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
+            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
+            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
+            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
+        </ol>
+    </div>
+
+        <div style="text-align: center; margin: 30px 0;">
+            <img src="/assets/baner-villa-case-study.jpg" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
+        </div>
+
+        <div style="background: #111; color: #fff; padding: 30px; border-radius: 8px; margin: 40px 0;">
+            <h2 style="color: #d9a05b; margin-top: 0;">Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h2>
+            <p><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
+            <p><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
+            <p><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
+        </div>
+    </div>
+    <!-- END ENHANCEMENTS -->
+`
 };

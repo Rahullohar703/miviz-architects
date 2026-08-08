@@ -185,5 +185,41 @@ export const homeInteriorDesignerPuneData: SEOPageData = {
       <p style="margin-bottom: 20px;">Don't leave your luxury home to chance. Partner with MIVIZ Architects for flawless architectural interior design, immersive VR planning, and stress-free Turnkey execution.</p>
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Book Your Free Design Consultation</a>
     </div>
-  `
+  
+
+    <!-- BEGIN ENHANCEMENTS -->
+    <div style="margin-top: 50px;">
+        <h2>Visual Inspiration & Architecture Highlights</h2>
+        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
+        <div style="text-align: center; margin: 30px 0;">
+            <img src="/assets/hero-luxury-interior-Dkz_Ed08.jpg" alt="High-end luxury interior design executed by top interior designers in Pune, featuring modern aesthetics and premium lighting." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: High-end luxury interior design executed by top interior designers in Pune, featuring modern aesthetics and premium lighting.</em></p>
+        </div>
+
+        
+    <div style="margin: 40px 0;">
+        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
+        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
+            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
+            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
+            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
+            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
+            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
+        </ol>
+    </div>
+
+        <div style="text-align: center; margin: 30px 0;">
+            <img src="/assets/seamless-experience-interior-BNjltinh.jpg" alt="Turnkey interior design execution process in Pune from 3D concept to flawless factory finish." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Turnkey interior design execution process in Pune from 3D concept to flawless factory finish.</em></p>
+        </div>
+
+        <div style="background: #111; color: #fff; padding: 30px; border-radius: 8px; margin: 40px 0;">
+            <h2 style="color: #d9a05b; margin-top: 0;">Featured Case Study: Luxury Penthouse Makeover in Koregaon Park</h2>
+            <p><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
+            <p><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
+            <p><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
+        </div>
+    </div>
+    <!-- END ENHANCEMENTS -->
+`
 };
