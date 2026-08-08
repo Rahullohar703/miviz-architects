@@ -41,6 +41,8 @@ const BestInteriorsInPunePage = React.lazy(() => import("./pages/seo/BestInterio
 const GoodInteriorDesignersInPunePage = React.lazy(() => import("./pages/seo/GoodInteriorDesignersInPunePage"));
 const BestInteriorDesignerInPunePage = React.lazy(() => import("./pages/seo/BestInteriorDesignerInPunePage"));
 const ArchitectsInBanerPunePage = React.lazy(() => import("./pages/seo/ArchitectsInBanerPunePage"));
+const ArchitectsInKoregaonParkPunePage = React.lazy(() => import("./pages/seo/ArchitectsInKoregaonParkPunePage"));
+
 
 const queryClient = new QueryClient();
 
