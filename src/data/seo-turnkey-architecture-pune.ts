@@ -14,7 +14,7 @@ export const turnkeyArchitecturePuneData: SEOPageData = {
         "image": "https://mivizarchitects.in/og-image.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
-        "telephone": "+918149811468",
+
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "Pune",
