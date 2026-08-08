@@ -108,6 +108,8 @@ const AnimatedRoutes = () => {
           <Route path="/good-interior-designers-in-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><GoodInteriorDesignersInPunePage /></Suspense>} />
           <Route path="/best-interior-designer-in-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><BestInteriorDesignerInPunePage /></Suspense>} />
           <Route path="/architects-in-baner-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ArchitectsInBanerPunePage /></Suspense>} />
+          <Route path="/architects-in-koregaon-park-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ArchitectsInKoregaonParkPunePage /></Suspense>} />
+
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
@@ -129,3 +131,4 @@ const App = () => (
 );
 
 export default App;
+
