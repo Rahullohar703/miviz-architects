@@ -218,11 +218,59 @@ export const bestArchitectNearMeData: SEOPageData = {
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
         </div>
 
-        <div style="background: #111; color: #fff; padding: 30px; border-radius: 8px; margin: 40px 0;">
-            <h2 style="color: #d9a05b; margin-top: 0;">Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h2>
-            <p><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
-            <p><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
-            <p><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
+        
+        
+        <!-- DATA VISUALIZATION BAR GRAPH -->
+        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Timeline Phases</h3>
+            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Percentage time distribution for architectural execution in Pune.</p>
+            
+            <div style="margin-bottom: 15px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
+                    <span style="font-weight: 600; color: #333;">Structural Civil Execution</span>
+                    <span style="font-weight: 600; color: #d9a05b;">50%</span>
+                </div>
+                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 50%; height: 100%; border-radius: 6px;"></div>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 15px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
+                    <span style="font-weight: 600; color: #333;">Concept & Working Drawings</span>
+                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
+                </div>
+                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 15px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
+                    <span style="font-weight: 600; color: #333;">Finishing & Millwork</span>
+                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
+                </div>
+                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
+                    <span style="font-weight: 600; color: #333;">PMC Liaisoning & Sanctions</span>
+                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
+                </div>
+                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
+                </div>
+            </div>
+        </div>
+
+        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
+            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
         </div>
     </div>
     <!-- END ENHANCEMENTS -->
