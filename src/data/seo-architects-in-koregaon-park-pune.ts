@@ -216,7 +216,7 @@ export const architectsInKoregaonParkData: SEOPageData = {
     <div style="background: #fdfbf7; border: 2px solid #d9a05b; color: #222; padding: 30px; text-align: center; margin-top: 40px; border-radius: 12px; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
       <h3 style="margin-top:0; color: #d9a05b;">Request a Site Feasibility Study in KP</h3>
       <p style="margin-bottom: 20px;">Schedule a private meeting with our Principal Architect to discuss FSI, Vastu, and luxury design possibilities for your plot in Koregaon Park.</p>
-      <a href="https://wa.me/918149811468" target="_blank" style="display: inline-block; background: #d9a05b; color: #fff; padding: 12px 25px; text-decoration: none; border-radius: 4px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">BOOK YOUR CONSULTATION NOW</a>
+      <a href="/contact" style="display: inline-block; background: #d9a05b; color: #fff; padding: 12px 25px; text-decoration: none; border-radius: 4px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">BOOK YOUR CONSULTATION NOW</a>
     </div>
   `
 };
