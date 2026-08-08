@@ -290,7 +290,23 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
     A luxury villa might feature a 20-foot tall glass facade, a customized swimming pool, and imported sintered stone cladding on the exterior. These architectural elements cannot be quantified by floor area. For luxury projects, we always quote based on a detailed <strong>Bill of Quantities (BOQ)</strong> after the architectural design is finalized.</p>
     <p><em>(Looking for design inspiration? Check out our guide to <a href="/modern-luxury-villa-design-pune-2026" style="color:#d9a05b; text-decoration:underline;">Modern Luxury Villa Design Ideas</a>).</em></p>
 
-    <p><img src="/images/turnkey-luxury-villa-pune.jpg" alt="A completed luxury turnkey villa in Pune featuring a modern facade and high-end exterior finishes." style="max-width:100%; height:auto;" /></p>
+    <div style="background: #fdfbf7; border: 2px solid #d9a05b; border-radius: 12px; padding: 25px; margin: 30px 0;">
+      <h4 style="text-align:center; color:#d9a05b; margin-top:0;">🏠 Turnkey Villa Snapshot: Premium Build Specifications</h4>
+      <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; text-align:center; margin-top:15px;">
+        <div style="background:#fff; padding:15px; border-radius:8px; border:1px solid #eee;">
+          <span style="font-size:1.8em; color:#d9a05b;">₹3,500</span><br/>
+          <span style="font-size:0.85em;">Per Sq. Ft. (Premium)</span>
+        </div>
+        <div style="background:#fff; padding:15px; border-radius:8px; border:1px solid #eee;">
+          <span style="font-size:1.8em; color:#d9a05b;">18</span><br/>
+          <span style="font-size:0.85em;">Months Timeline</span>
+        </div>
+        <div style="background:#fff; padding:15px; border-radius:8px; border:1px solid #eee;">
+          <span style="font-size:1.8em; color:#27ae60;">✅</span><br/>
+          <span style="font-size:0.85em;">Zero Hidden Costs</span>
+        </div>
+      </div>
+    </div>
 
     <h2>5. The Step-by-Step Turnkey Construction Process</h2>
     <p>How does an empty plot turn into a finished home? Here is the exact 5-phase workflow we use at MIVIZ Architects for our turnkey clients.</p>
@@ -381,7 +397,31 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
       <li><strong>Single Point of Contact:</strong> You do not manage laborers. You receive a weekly WhatsApp update with photos and a monthly site walkthrough with your dedicated Project Manager.</li>
     </ul>
 
-    <p><img src="/images/turnkey-workflow-miviz.jpg" alt="A flowchart demonstrating the MIVIZ 5-step turnkey construction workflow from design to handover." style="max-width:100%; height:auto;" /></p>
+    <div style="background: #fdfbf7; border: 2px solid #d9a05b; border-radius: 12px; padding: 25px; margin: 30px 0;">
+      <h4 style="text-align:center; color:#d9a05b; margin-top:0;">📊 The MIVIZ 5-Step Turnkey Workflow</h4>
+      <div style="margin-top:15px;">
+        <div style="display:flex; align-items:center; gap:15px; padding:12px; background:#fff; border-radius:8px; margin-bottom:8px; border-left:4px solid #d9a05b;">
+          <span style="font-size:1.5em; font-weight:bold; color:#d9a05b;">01</span>
+          <div><strong>Design & Planning</strong><br/><span style="font-size:0.85em; color:#666;">Floor plans, 3D renders, Vastu compliance</span></div>
+        </div>
+        <div style="display:flex; align-items:center; gap:15px; padding:12px; background:#fff; border-radius:8px; margin-bottom:8px; border-left:4px solid #d9a05b;">
+          <span style="font-size:1.5em; font-weight:bold; color:#d9a05b;">02</span>
+          <div><strong>Municipal Approvals</strong><br/><span style="font-size:0.85em; color:#666;">PMC/PCMC sanction drawings & CC</span></div>
+        </div>
+        <div style="display:flex; align-items:center; gap:15px; padding:12px; background:#fff; border-radius:8px; margin-bottom:8px; border-left:4px solid #d9a05b;">
+          <span style="font-size:1.5em; font-weight:bold; color:#d9a05b;">03</span>
+          <div><strong>Civil Construction</strong><br/><span style="font-size:0.85em; color:#666;">Foundation, RCC, brickwork, MEP</span></div>
+        </div>
+        <div style="display:flex; align-items:center; gap:15px; padding:12px; background:#fff; border-radius:8px; margin-bottom:8px; border-left:4px solid #d9a05b;">
+          <span style="font-size:1.5em; font-weight:bold; color:#d9a05b;">04</span>
+          <div><strong>Interior & Finishing</strong><br/><span style="font-size:0.85em; color:#666;">Modular kitchen, flooring, paint</span></div>
+        </div>
+        <div style="display:flex; align-items:center; gap:15px; padding:12px; background:#fff; border-radius:8px; border-left:4px solid #27ae60;">
+          <span style="font-size:1.5em; font-weight:bold; color:#27ae60;">05</span>
+          <div><strong>Handover & Warranty</strong><br/><span style="font-size:0.85em; color:#666;">Snagging, OC, 12-month defect liability</span></div>
+        </div>
+      </div>
+    </div>
     <p><em>(Want to learn more about our architectural design process? Read about our <a href="/luxury-villa-design-pune" style="color:#d9a05b; text-decoration:underline;">Luxury Villa Design Services</a>).</em></p>
 
     <div style="margin-top: 40px;">

@@ -210,7 +210,25 @@ export const architectFeesInPuneData: SEOPageData = {
       </tbody>
     </table>
 
-    <p><img src="/images/architect-vs-draftsman-pune.jpg" alt="Infographic comparing costs, risks, and legal validity of draftsmen versus registered architects in Pune." style="max-width:100%; height:auto;" /></p>
+    <div style="background: #fdfbf7; border: 2px solid #d9a05b; border-radius: 12px; padding: 25px; margin: 30px 0;">
+      <h4 style="text-align:center; color:#d9a05b; margin-top:0;">⚖️ Infographic: Draftsman vs. Registered Architect in Pune</h4>
+      <div style="display:grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 15px;">
+        <div style="background:#fff0f0; padding:15px; border-radius:8px; border-left: 4px solid #e74c3c;">
+          <strong style="color:#e74c3c;">❌ Local Draftsman</strong><br/>
+          <span>Cost: ₹30-₹50/sq.ft.</span><br/>
+          <span>Cannot sign PMC drawings</span><br/>
+          <span>No liability or insurance</span><br/>
+          <span>Risk: <strong>HIGH</strong></span>
+        </div>
+        <div style="background:#f0fff0; padding:15px; border-radius:8px; border-left: 4px solid #27ae60;">
+          <strong style="color:#27ae60;">✅ COA Registered Architect</strong><br/>
+          <span>Cost: ₹150-₹250/sq.ft.</span><br/>
+          <span>Legally authorized for sanctions</span><br/>
+          <span>Professional indemnity covered</span><br/>
+          <span>Risk: <strong>LOW</strong></span>
+        </div>
+      </div>
+    </div>
 
     <h2>The 3 Main Pricing Models Explained</h2>
     <p>Architects generally use one of three methods to calculate professional fees. Understanding these models helps you negotiate better.</p>
@@ -362,7 +380,23 @@ export const architectFeesInPuneData: SEOPageData = {
     </ol>
     <p>By breaking it down, the client realized they were paying approximately ₹37,500 per month for an expert to ensure their ₹75 Lakh investment was safe, legally compliant, and beautifully designed.</p>
 
-    <p><img src="/images/baner-villa-case-study.jpg" alt="Before and after construction photo of a 3000 sq ft luxury villa in Baner, Pune designed by MIVIZ Architects." style="max-width:100%; height:auto;" /></p>
+    <div style="background: #111; color: #fff; padding: 25px; border-radius: 12px; margin: 30px 0;">
+      <h4 style="color:#d9a05b; margin-top:0;">📸 Case Study Snapshot: 3,000 Sq. Ft. Baner Villa</h4>
+      <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; text-align:center; margin-top:15px;">
+        <div style="background:#222; padding:15px; border-radius:8px;">
+          <span style="font-size:2em; color:#d9a05b;">₹75L</span><br/>
+          <span style="font-size:0.85em;">Total Build Cost</span>
+        </div>
+        <div style="background:#222; padding:15px; border-radius:8px;">
+          <span style="font-size:2em; color:#d9a05b;">14</span><br/>
+          <span style="font-size:0.85em;">Months to Complete</span>
+        </div>
+        <div style="background:#222; padding:15px; border-radius:8px;">
+          <span style="font-size:2em; color:#d9a05b;">7%</span><br/>
+          <span style="font-size:0.85em;">Architect Fee</span>
+        </div>
+      </div>
+    </div>
 
     <h2>How to Hire the Right Architect in Pune (Step-by-Step)</h2>
     <p>Choosing the right architect is like choosing a long-term business partner.</p>
