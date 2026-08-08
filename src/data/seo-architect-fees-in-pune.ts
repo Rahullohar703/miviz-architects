@@ -426,18 +426,18 @@ export const architectFeesInPuneData: SEOPageData = {
     </ol>
     <p>By breaking it down, the client realized they were paying approximately ₹37,500 per month for an expert to ensure their ₹75 Lakh investment was safe, legally compliant, and beautifully designed.</p>
 
-    <div style="background: #111; color: #fff; padding: 25px; border-radius: 12px; margin: 30px 0;">
+    <div style="background: #fdfbf7; border: 2px solid #d9a05b; color: #222; padding: 25px; border-radius: 12px; margin: 30px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
       <h4 style="color:#d9a05b; margin-top:0;">📸 Case Study Snapshot: 3,000 Sq. Ft. Baner Villa</h4>
       <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; text-align:center; margin-top:15px;">
-        <div style="background:#222; padding:15px; border-radius:8px;">
+        <div style="background: #ffffff; border: 1px solid #e5e7eb; color: #222; padding: 15px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.03);">
           <span style="font-size:2em; color:#d9a05b;">₹75L</span><br/>
           <span style="font-size:0.85em;">Total Build Cost</span>
         </div>
-        <div style="background:#222; padding:15px; border-radius:8px;">
+        <div style="background: #ffffff; border: 1px solid #e5e7eb; color: #222; padding: 15px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.03);">
           <span style="font-size:2em; color:#d9a05b;">14</span><br/>
           <span style="font-size:0.85em;">Months to Complete</span>
         </div>
-        <div style="background:#222; padding:15px; border-radius:8px;">
+        <div style="background: #ffffff; border: 1px solid #e5e7eb; color: #222; padding: 15px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.03);">
           <span style="font-size:2em; color:#d9a05b;">7%</span><br/>
           <span style="font-size:0.85em;">Architect Fee</span>
         </div>

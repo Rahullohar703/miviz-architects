@@ -479,7 +479,7 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
       <p>No. The actual government premium charges, scrutiny fees, and challans demanded by the municipality are always paid directly by the property owner at actuals. We only charge for the professional service of creating the sanction drawings and coordinating the file.</p>
     </div>
 
-    <div style="background: #111; color: #fff; padding: 30px; text-align: center; margin-top: 40px; border-radius: 8px;">
+    <div style="background: #fdfbf7; border: 2px solid #d9a05b; color: #222; padding: 30px; text-align: center; margin-top: 40px; border-radius: 12px; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
       <h3 style="margin-top:0; color: #d9a05b;">Request a Free Site Feasibility Consultation</h3>
       <p>Schedule a meeting with our Principal Architect to discuss your plot, your vision, and get a realistic estimate for your Turnkey project.</p>
       <br>

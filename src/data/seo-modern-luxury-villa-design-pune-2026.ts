@@ -373,7 +373,7 @@ export const modernLuxuryVillaDesignPune2026Data: SEOPageData = {
       <p>From the first design meeting to handing over the keys, a bespoke luxury villa typically takes between 15 to 20 months, depending on the complexity of the design and the speed of municipal approvals.</p>
     </div>
 
-    <div style="background: #111; color: #fff; padding: 30px; text-align: center; margin-top: 40px; border-radius: 8px;">
+    <div style="background: #fdfbf7; border: 2px solid #d9a05b; color: #222; padding: 30px; text-align: center; margin-top: 40px; border-radius: 12px; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
       <h3 style="margin-top:0; color: #d9a05b;">Book a Private Design Consultation</h3>
       <p>Sit down with our Principal Architect to discuss your vision, Vastu requirements, and get a realistic roadmap for your dream home.</p>
       <br>
