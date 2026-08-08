@@ -82,7 +82,7 @@ export const homeConstructionTimelinePune2026Data: SEOPageData = {
     ctaText: 'Get a Construction Timeline Audit'
   },
   content: `
-    <p><em>Planning to build a bungalow or luxury villa in Pune? Discover the realistic month-by-month construction timeline from plot survey and PMC/PCMC approvals to RCC slab casting, interior finishing, and final key possession.</em></p>
+<p><em>Planning to build a bungalow or luxury villa in Pune? Discover the realistic month-by-month construction timeline from plot survey and PMC/PCMC approvals to RCC slab casting, interior finishing, and final key possession.</em></p>
 
     <div style="background: #f9f9f9; border-left: 4px solid #d9a05b; padding: 15px; margin-bottom: 30px;">
       <strong>📌 Quick Summary: Average Construction Timelines in Pune</strong>
@@ -135,7 +135,14 @@ export const homeConstructionTimelinePune2026Data: SEOPageData = {
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Request a Construction Schedule for Your Plot</a>
     </div>
 
-    <h2>Introduction</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/baner_luxury_villa_1786199200937.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+<h2>Introduction</h2>
 
     <p>Building an independent bungalow or luxury villa in Pune—whether in Baner, Wakad, Kothrud, Ravet, or Kharadi—is one of the most exciting journeys of your life. However, one question plagues every homeowner before ground excavation begins: <strong>"How long will it take from buying the plot to finally moving in?"</strong></p>
 
@@ -152,7 +159,20 @@ export const homeConstructionTimelinePune2026Data: SEOPageData = {
       <p>Phase 1: Pre-Construction & Sanctions (Months 1-3) ➔ Phase 2: Foundation & Substructure (Months 4-5) ➔ Phase 3: RCC Frame & Superstructure (Months 6-8) ➔ Phase 4: Masonry, Plaster & MEP (Months 9-10) ➔ Phase 5: Interiors & Handover (Months 11-12)</p>
     </div>
 
-    <h2>Phase 1: Pre-Construction, Design & Municipal Sanctions (Months 1 – 3)</h2>
+    
+
+<div style="margin: 40px 0;">
+        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
+        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
+            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
+            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
+            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
+            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
+            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
+        </ol>
+    </div>
+
+<h2>Phase 1: Pre-Construction, Design & Municipal Sanctions (Months 1 – 3)</h2>
 
     <p>The pre-construction phase sets the foundation for your entire project. Rushing this stage leads to expensive mid-construction revisions.</p>
 
@@ -162,7 +182,14 @@ export const homeConstructionTimelinePune2026Data: SEOPageData = {
       <li><strong>Month 3: Sanction Approval & Contract BOQ:</strong> Securing the official <strong>Commencement Certificate (CC)</strong> from PMC/PCMC and finalizing line-item BOQs. Read our <a href="/architect-fees-in-pune-2026" style="color:#d9a05b; text-decoration:underline;">Architect Fees Guide</a>.</li>
     </ul>
 
-    <h2>Phase 2: Excavation, Foundation & Substructure (Months 4 – 5)</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/cost_effective_modern_home_1786199115729.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
+        </div>
+
+<h2>Phase 2: Excavation, Foundation & Substructure (Months 4 – 5)</h2>
 
     <p>Once permissions are secured, civil earthwork begins on site.</p>
 
@@ -215,7 +242,16 @@ export const homeConstructionTimelinePune2026Data: SEOPageData = {
     </ul>
 
     <div style="margin-top: 40px;">
-      <h2>Frequently Asked Questions (FAQs)</h2>
+      
+
+<div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
+            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
+        </div>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
       
       <strong>How long does it take to build a 2,500 sq. ft. bungalow in Pune?</strong>
       <p>With a professional turnkey firm like MIVIZ Architects, a 2,500 sq. ft. home takes 10 to 12 months from excavation to key handover. In traditional construction setups, it typically takes 16 to 20 months.</p>
@@ -232,89 +268,5 @@ export const homeConstructionTimelinePune2026Data: SEOPageData = {
       <p style="margin-bottom: 20px;">Turn your dream home vision into a structured, stress-free construction reality with MIVIZ Architects.</p>
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Schedule Your Construction Timeline Audit</a>
     </div>
-  
-
-    <!-- BEGIN ENHANCEMENTS -->
-    <div style="margin-top: 50px;">
-        <h2>Visual Inspiration & Architecture Highlights</h2>
-        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/baner_luxury_villa_1786199200937.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
-        </div>
-
-        
-    <div style="margin: 40px 0;">
-        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
-        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
-            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
-            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
-            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
-            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
-            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
-        </ol>
-    </div>
-
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/cost_effective_modern_home_1786199115729.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
-        </div>
-
-        
-        
-        <!-- DATA VISUALIZATION BAR GRAPH -->
-        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Timeline Phases</h3>
-            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Percentage time distribution for architectural execution in Pune.</p>
-            
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Structural Civil Execution</span>
-                    <span style="font-weight: 600; color: #d9a05b;">50%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 50%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Concept & Working Drawings</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Finishing & Millwork</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 10px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">PMC Liaisoning & Sanctions</span>
-                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-        </div>
-
-        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
-            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
-            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
-        </div>
-    </div>
-    <!-- END ENHANCEMENTS -->
 `
 };

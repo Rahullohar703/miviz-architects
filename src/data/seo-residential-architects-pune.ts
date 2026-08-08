@@ -73,7 +73,12 @@ export const residentialArchitectsPuneData: SEOPageData = {
     ctaText: 'Start Your Home Project'
   },
   content: `
-    <h2>Crafting Dream Homes with Top Residential Architects in Pune</h2>
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/house_construction_site_1786199173816.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+<h2>Crafting Dream Homes with Top Residential Architects in Pune</h2>
     <p>Designing a home is a deeply personal journey. It is more than just assembling walls and a roof; it is about creating a sanctuary that perfectly encapsulates your lifestyle, values, and aspirations. As leading <strong>residential architects in Pune</strong>, MIVIZ Architects is dedicated to designing bespoke living spaces that offer an unparalleled blend of luxury, functionality, and timeless elegance.</p>
     <p>The urban landscape of Pune is evolving rapidly, and the demand for intelligently designed, highly personalized homes is at an all-time high. Whether you are looking to build a multi-generational family home in a bustling neighborhood or a serene, minimalist retreat on the outskirts of the city, you need <strong>house architects in Pune</strong> who can listen deeply and design masterfully. At MIVIZ, we specialize in turning abstract dreams into concrete reality through an innovative, client-first approach.</p>
 
@@ -97,7 +102,20 @@ export const residentialArchitectsPuneData: SEOPageData = {
     <h3>3. Meticulous Space Planning</h3>
     <p>Great residential architecture is defined by excellent space planning. Our team of house architects in Pune excels at optimizing every square foot of your plot. We ensure that the circulation spaces are efficient, the private zones are secluded and quiet, and the public entertaining zones are expansive and welcoming.</p>
 
-    <h2>Our Residential Architecture Portfolio in Pune</h2>
+    
+
+<div style="margin: 40px 0;">
+        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
+        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
+            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
+            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
+            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
+            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
+            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
+        </ol>
+    </div>
+
+<h2>Our Residential Architecture Portfolio in Pune</h2>
     <p>MIVIZ has a diverse portfolio of residential architecture across Pune. Our expertise spans various typologies, ensuring we have the experience to handle your specific requirements.</p>
     
     <h3>Independent Bungalows and Villas</h3>
@@ -109,95 +127,27 @@ export const residentialArchitectsPuneData: SEOPageData = {
     <h3>Renovations and Extensions</h3>
     <p>Breathing new life into an existing structure requires a delicate touch. We assess the structural integrity of older homes in Pune and design modern extensions or complete internal renovations that respect the original character while introducing contemporary amenities and spatial flow.</p>
 
-    <h2>The Journey of Building Your Home with MIVIZ</h2>
-    <p>When you engage our residential architects in Pune, you are embarking on a structured, transparent journey. We begin with a detailed discovery workshop. Next, our house architects present the initial concept, utilizing 3D models and VR for your review. Once the design is locked in, we move to the rigorous technical detailing phase, creating the working drawings required for flawless execution.</p>
-    <p>Finally, our turnkey execution team takes the helm. Because the architects who designed your home are overseeing the construction, the transition is seamless. We manage the procurement, the labor, the quality control, and the timeline, delivering a meticulously finished home ready for you to move into.</p>
+    
 
-    <h2>Partner with Pune's Premier Residential Architects</h2>
-    <p>Your home is a significant investment of time, emotion, and resources. Trust it to the experts. If you are searching for house architects in Pune who combine cutting-edge design with stress-free turnkey execution, MIVIZ Architects is your ideal partner. Contact us today to schedule a consultation and take the first step toward building your dream home.</p>
-  
-
-    <!-- BEGIN ENHANCEMENTS -->
-    <div style="margin-top: 50px;">
-        <h2>Visual Inspiration & Architecture Highlights</h2>
-        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/house_construction_site_1786199173816.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
-        </div>
-
-        
-    <div style="margin: 40px 0;">
-        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
-        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
-            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
-            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
-            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
-            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
-            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
-        </ol>
-    </div>
-
-        <div style="text-align: center; margin: 30px 0;">
+<div style="text-align: center; margin: 30px 0;">
             <img src="/images/mistakes_foundation_pune_1786199068222.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
         </div>
 
-        
-        
-        <!-- DATA VISUALIZATION BAR GRAPH -->
-        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Timeline Phases</h3>
-            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Percentage time distribution for architectural execution in Pune.</p>
-            
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Structural Civil Execution</span>
-                    <span style="font-weight: 600; color: #d9a05b;">50%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 50%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
+<h2>The Journey of Building Your Home with MIVIZ</h2>
+    <p>When you engage our residential architects in Pune, you are embarking on a structured, transparent journey. We begin with a detailed discovery workshop. Next, our house architects present the initial concept, utilizing 3D models and VR for your review. Once the design is locked in, we move to the rigorous technical detailing phase, creating the working drawings required for flawless execution.</p>
+    <p>Finally, our turnkey execution team takes the helm. Because the architects who designed your home are overseeing the construction, the transition is seamless. We manage the procurement, the labor, the quality control, and the timeline, delivering a meticulously finished home ready for you to move into.</p>
 
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Concept & Working Drawings</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
+    
 
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Finishing & Millwork</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 10px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">PMC Liaisoning & Sanctions</span>
-                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-        </div>
-
-        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+<div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
             <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
             <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
             <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
             <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
         </div>
-    </div>
-    <!-- END ENHANCEMENTS -->
+
+<h2>Partner with Pune's Premier Residential Architects</h2>
+    <p>Your home is a significant investment of time, emotion, and resources. Trust it to the experts. If you are searching for house architects in Pune who combine cutting-edge design with stress-free turnkey execution, MIVIZ Architects is your ideal partner. Contact us today to schedule a consultation and take the first step toward building your dream home.</p>
 `
 };

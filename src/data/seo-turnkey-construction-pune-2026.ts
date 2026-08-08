@@ -104,7 +104,7 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
     ctaText: 'Get a Turnkey Estimate'
   },
   content: `
-    <p><strong>Written by:</strong> Principal Architect, MIVIZ Architects<br>
+<p><strong>Written by:</strong> Principal Architect, MIVIZ Architects<br>
     <strong>Fact-checked by:</strong> MIVIZ Project Management Team<br>
     <strong>Last Updated:</strong> July 2026</p>
 
@@ -123,7 +123,14 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
       Turnkey construction is an end-to-end building model where a single company manages everything from architectural design, municipal approvals (PMC/PCMC), material procurement, and civil construction, right down to the final interior finishing, allowing the homeowner to simply 'turn the key' and move in.
     </blockquote>
 
-    <h2>1. Demystifying the Build: What is Turnkey Construction?</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/mistakes_foundation_pune_1786199068222.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+<h2>1. Demystifying the Build: What is Turnkey Construction?</h2>
 
     <h3>The Core Concept: One Point of Accountability</h3>
     <p>In a traditional build, you hire an architect to draw the plans, a civil contractor to pour the concrete, a separate plumbing contractor, an electrician, and maybe an interior designer later. When a pipe leaks behind a newly plastered wall, the plumber blames the civil contractor, the civil contractor blames the architect's drawings, and you—the homeowner—are left paying the bill to fix it.</p>
@@ -219,7 +226,20 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
       </tbody>
     </table>
 
-    <h2>3. The Pros and Cons: Is It Right for You?</h2>
+    
+
+<div style="margin: 40px 0;">
+        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
+        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
+            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
+            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
+            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
+            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
+            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
+        </ol>
+    </div>
+
+<h2>3. The Pros and Cons: Is It Right for You?</h2>
 
     <h3>Advantages of Turnkey Construction</h3>
     <ol>
@@ -237,7 +257,14 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
     <h3>When Should You Choose Turnkey Construction?</h3>
     <p>You should choose Turnkey if you are a working professional, if you live outside of Pune (NRI), if you have a strict budget cap that you cannot exceed, or if you simply value your time and peace of mind over trying to save a few rupees by managing labor yourself.</p>
 
-    <h2>4. The Financials: Turnkey Construction Cost in Pune (2026)</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/perfect_planning_home_1786199083695.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
+        </div>
+
+<h2>4. The Financials: Turnkey Construction Cost in Pune (2026)</h2>
     <p>The first question every client asks is: <em>"What is your rate per square foot?"</em></p>
     <p>While we provide averages below, understand that giving a flat rate without seeing the plot or knowing your taste in finishes is like asking a car dealer, "How much does a car cost?" (A Maruti and a Mercedes are both cars).</p>
 
@@ -425,7 +452,16 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
     <p><em>(Want to learn more about our architectural design process? Read about our <a href="/luxury-villa-design-pune" style="color:#d9a05b; text-decoration:underline;">Luxury Villa Design Services</a>).</em></p>
 
     <div style="margin-top: 40px;">
-      <h2>Frequently Asked Questions (FAQs)</h2>
+      
+
+<div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: End-to-End Turnkey Villa Construction in Baner</h3>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
+            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
+        </div>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
       
       <strong>Can I take a home loan for a turnkey construction project?</strong>
       <p>Yes. Nationalized and private banks readily provide home construction loans based on the architect’s formal estimate (BOQ) and the approved municipal drawings. MIVIZ provides all the necessary documentation required by the bank for loan disbursement stages.</p>
@@ -449,89 +485,5 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
       <br>
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Book Your Turnkey Consultation Now</a>
     </div>
-  
-
-    <!-- BEGIN ENHANCEMENTS -->
-    <div style="margin-top: 50px;">
-        <h2>Visual Inspiration & Architecture Highlights</h2>
-        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/mistakes_foundation_pune_1786199068222.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
-        </div>
-
-        
-    <div style="margin: 40px 0;">
-        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
-        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
-            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
-            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
-            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
-            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
-            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
-        </ol>
-    </div>
-
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/perfect_planning_home_1786199083695.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
-        </div>
-
-        
-        
-        <!-- DATA VISUALIZATION BAR GRAPH -->
-        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Timeline Phases</h3>
-            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Percentage time distribution for architectural execution in Pune.</p>
-            
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Structural Civil Execution</span>
-                    <span style="font-weight: 600; color: #d9a05b;">50%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 50%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Concept & Working Drawings</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Finishing & Millwork</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 10px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">PMC Liaisoning & Sanctions</span>
-                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-        </div>
-
-        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
-            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: End-to-End Turnkey Villa Construction in Baner</h3>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
-            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
-        </div>
-    </div>
-    <!-- END ENHANCEMENTS -->
 `
 };

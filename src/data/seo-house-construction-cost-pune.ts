@@ -112,7 +112,7 @@ export const houseConstructionCostPuneData: SEOPageData = {
     ctaText: 'Calculate Your Estimate'
   },
   content: `
-    <div style="background: #f9f9f9; border-left: 4px solid #d9a05b; padding: 15px; margin-bottom: 30px;">
+<div style="background: #f9f9f9; border-left: 4px solid #d9a05b; padding: 15px; margin-bottom: 30px;">
       <strong>📌 Key Takeaways (2026 Quick Summary)</strong>
       <ul style="margin-top: 10px;">
         <li><strong>Average Cost:</strong> The base house construction cost in Pune ranges from <strong>₹1,500 to ₹4,500 per sq. ft.</strong> of built-up area, depending on the finishing tier.</li>
@@ -129,7 +129,14 @@ export const houseConstructionCostPuneData: SEOPageData = {
     
     <p>Recognized among the <a href="/architects-in-pune" style="color:#d9a05b; text-decoration:underline;">best architects in Pune</a>, our COA-registered team with over 15 years of on-site experience executing residential projects across Pune, we are pulling back the curtain. We will show you exactly where every rupee goes, how contractors calculate their final bills, and the hidden municipal costs that drain budgets.</p>
 
-    <h2>1. The 2026 Pune Construction Cost Snapshot (Per Sq. Ft.)</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/mistakes_foundation_pune_1786199068222.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+<h2>1. The 2026 Pune Construction Cost Snapshot (Per Sq. Ft.)</h2>
     <p>Let's address the most common question first: <em>How much money is required to build a 1000 sq ft house in Pune?</em></p>
     <p>When a contractor quotes a "per square foot" rate, they are referring to the <strong>built-up area (slab area)</strong> of the house. For 2026, residential construction costs in Pune fall into three distinct tiers based on material quality.</p>
     
@@ -180,7 +187,39 @@ export const houseConstructionCostPuneData: SEOPageData = {
       <strong>Ask The Architect:</strong> "Never skip a geotechnical soil test. A standard soil test in Pune costs between ₹8,000 and ₹12,000. If a local civil contractor quotes a final price without testing the soil or reviewing structural load calculations, they are guessing. You will pay the price when your walls crack five years later."
     </blockquote>
 
-    <h2>3. Detailed Cost Breakdown: Where Does Your Money Go?</h2>
+    
+
+<div style="margin: 40px 0;">
+        <h3 style="color: #d9a05b;">Infographic: Cost & Process Comparison</h3>
+        <table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse; min-width: 600px; margin-bottom: 20px;">
+            <thead>
+                <tr style="background:#f1f1f1;">
+                    <th>Parameter</th>
+                    <th>Standard Approach</th>
+                    <th>Premium / Turnkey Approach</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Cost Predictability</strong></td>
+                    <td>High Variance (Hidden Costs)</td>
+                    <td>Fixed Price (BOQ Guaranteed)</td>
+                </tr>
+                <tr>
+                    <td><strong>Time Required</strong></td>
+                    <td>18-24 Months</td>
+                    <td>12-14 Months</td>
+                </tr>
+                <tr>
+                    <td><strong>Material Quality</strong></td>
+                    <td>Locally Sourced, Handcrafted</td>
+                    <td>Factory Finished, European Hardware</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+<h2>3. Detailed Cost Breakdown: Where Does Your Money Go?</h2>
     <p>To prevent budget overruns, you must understand how funds are distributed. We divide construction into two main phases: Civil Work (the skeleton) and Finishing Work (the skin).</p>
 
     <h3>Phase 1: Civil and Structural Work (55% - 60% of Budget)</h3>
@@ -200,7 +239,14 @@ export const houseConstructionCostPuneData: SEOPageData = {
       <li><strong>Painting and Polishing (5% - 7%):</strong> Wall putty, primer, internal emulsion, and weather-proof exterior paint.</li>
     </ul>
 
-    <h2>4. Material Cost Trends in Pune (2026 Rate Card)</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/perfect_planning_home_1786199083695.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
+        </div>
+
+<h2>4. Material Cost Trends in Pune (2026 Rate Card)</h2>
     <h3>The Big Three: Steel, Cement, and Sand</h3>
     <ul>
       <li><strong>TMT Steel (Fe500D / Fe550D):</strong> Primary brands (Tata Tiscon, JSW) range from <strong>₹68 to ₹75 per kg</strong>. Secondary brands are ₹62 to ₹66 per kg. A 2,000 sq ft house requires roughly 7 to 9 metric tons of steel.</li>
@@ -271,7 +317,16 @@ export const houseConstructionCostPuneData: SEOPageData = {
     <p>At MIVIZ Architects, we bridge the gap between high-end architectural design and flawless, transparent execution. When you work with us on a Turnkey basis, you get COA-registered, visionary architects who manage your project from concept to key-handover. We provide a <strong>100% transparent Bill of Quantities</strong>. Before we lay a single brick, we provide <strong>VR (Virtual Reality) Walkthroughs</strong> so you can physically experience your home, ensuring zero regrets once construction begins.</p>
     
     <div style="margin-top: 40px;">
-      <h2>Frequently Asked Questions (FAQs)</h2>
+      
+
+<div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
+            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
+        </div>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
       
       <strong>What is the cost of building a 1000 sq ft house in Pune?</strong>
       <p>For a standard quality finish in 2026, building a 1000 sq ft house costs approximately ₹22 Lakhs to ₹30 Lakhs (inclusive of civil structure and internal finishing, exclusive of land and municipal fees).</p>
@@ -291,108 +346,5 @@ export const houseConstructionCostPuneData: SEOPageData = {
       <strong>Can I get a home loan for self-construction in Pune?</strong>
       <p>Yes, all major banks offer self-construction loans. The bank requires an approved PMC/PCMC building plan and a detailed cost estimate signed by a licensed architect before disbursing funds in tranches.</p>
     </div>
-  
-
-    <!-- BEGIN ENHANCEMENTS -->
-    <div style="margin-top: 50px;">
-        <h2>Visual Inspiration & Architecture Highlights</h2>
-        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/mistakes_foundation_pune_1786199068222.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
-        </div>
-
-        
-    <div style="margin: 40px 0;">
-        <h3 style="color: #d9a05b;">Infographic: Cost & Process Comparison</h3>
-        <table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse; min-width: 600px; margin-bottom: 20px;">
-            <thead>
-                <tr style="background:#f1f1f1;">
-                    <th>Parameter</th>
-                    <th>Standard Approach</th>
-                    <th>Premium / Turnkey Approach</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td><strong>Cost Predictability</strong></td>
-                    <td>High Variance (Hidden Costs)</td>
-                    <td>Fixed Price (BOQ Guaranteed)</td>
-                </tr>
-                <tr>
-                    <td><strong>Time Required</strong></td>
-                    <td>18-24 Months</td>
-                    <td>12-14 Months</td>
-                </tr>
-                <tr>
-                    <td><strong>Material Quality</strong></td>
-                    <td>Locally Sourced, Handcrafted</td>
-                    <td>Factory Finished, European Hardware</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/perfect_planning_home_1786199083695.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
-        </div>
-
-        
-        
-        <!-- DATA VISUALIZATION BAR GRAPH -->
-        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Cost Allocation Breakdown</h3>
-            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Benchmark expenditure distribution for residential construction & design in Pune.</p>
-            
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Structural Civil Construction</span>
-                    <span style="font-weight: 600; color: #d9a05b;">45%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 45%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Interior Fit-out & Millwork</span>
-                    <span style="font-weight: 600; color: #d9a05b;">30%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 30%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Architecture & Structural Engineering</span>
-                    <span style="font-weight: 600; color: #d9a05b;">15%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 15%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 10px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">PMC Approvals & Sanctions</span>
-                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-        </div>
-
-        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
-            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
-            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
-        </div>
-    </div>
-    <!-- END ENHANCEMENTS -->
 `
 };

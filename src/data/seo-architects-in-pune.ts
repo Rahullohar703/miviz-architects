@@ -78,7 +78,12 @@ export const architectsInPuneData: SEOPageData = {
     ctaText: 'Discuss Your Project'
   },
   content: `
-    <h2>Redefining Spaces with the Leading Architecture Firm in Pune</h2>
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/premium_villa_pune_1786199143803.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+<h2>Redefining Spaces with the Leading Architecture Firm in Pune</h2>
     <p>Finding the right <strong>architects in Pune</strong> is the most critical step in translating your vision into a physical reality. At MIVIZ Architects, we believe that architecture goes far beyond mere aesthetics; it is about creating environments that resonate with the people who inhabit them, enhancing functionality, and standing the test of time.</p>
     <p>Pune is a city that beautifully bridges historical heritage with rapid modern urbanization. As a premier <strong>architecture firm in Pune</strong>, we understand this unique duality. We specialize in developing architectural designs that respond to the local climate, cultural context, and modern lifestyle demands. Whether you are envisioning a sprawling luxury villa, a cutting-edge commercial office space, or a bespoke residential development, our team of dedicated architects is equipped to bring your aspirations to life with unparalleled precision.</p>
 
@@ -102,32 +107,9 @@ export const architectsInPuneData: SEOPageData = {
     <h3>Hospitality and Retail</h3>
     <p>In the highly competitive hospitality and retail sectors in Pune, the architectural design of your space is a crucial component of your brand experience. We <a href="/restaurant-interior-design-pune" style="color:#d9a05b; text-decoration:underline;">design restaurants, cafes, and retail spaces</a> that captivate customers from the moment they walk through the door. Our focus is on creating immersive environments that drive foot traffic and enhance customer engagement.</p>
 
-    <h2>Why Choose MIVIZ as Your Architects in Pune?</h2>
-    <p>Choosing an architecture firm in Pune is a significant decision. You need a partner who listens, innovates, and delivers on their promises. Here is why MIVIZ Architects is the preferred choice for discerning clients across the city:</p>
-    <p><strong>1. Uncompromising Quality and Precision:</strong> We are obsessed with details. From the macro-level site planning to the micro-level joinery details, our architectural team ensures that every element of the design is meticulously planned and executed.</p>
-    <p><strong>2. Transparent Communication:</strong> We believe that a successful architectural project is built on a foundation of trust and transparency. We maintain clear, open lines of communication throughout the design and construction phases, keeping you informed of progress, budgets, and timelines.</p>
-    <p><strong>3. Sustainable Practices:</strong> As responsible architects in Pune, we are committed to sustainable design practices. We strive to minimize the environmental footprint of our buildings by incorporating energy-efficient systems, maximizing natural light, and specifying eco-friendly materials whenever possible.</p>
-    <p><strong>4. A Passion for Innovation:</strong> We are not bound by conventional design rules. We continually explore new materials, construction techniques, and architectural forms to create spaces that are truly unique and forward-thinking.</p>
-
-    <h2>The MIVIZ Architectural Process</h2>
-    <p>Our methodology as an architecture firm in Pune is structured, collaborative, and entirely client-centric. We guide you through a phased process to ensure your project is a resounding success.</p>
-    <p>The journey begins with an in-depth consultation, where we listen to your ideas, analyze the site, and define the project brief. Following this, our design team develops initial concepts, utilizing 3D modeling and VR to help you visualize the proposed architecture. Once the design is refined and approved, we move into the technical detailing phase, producing comprehensive construction drawings, evaluating <a href="/house-construction-cost-pune-2026" style="color:#d9a05b; text-decoration:underline;">house construction cost in Pune</a>, and specifications. Finally, our turnkey execution team takes over, managing the construction process with exacting standards to bring the architectural vision to life perfectly.</p>
     
-    <h2>Connect with a Premier Architecture Firm in Pune</h2>
-    <p>If you are looking for architects in Pune who can elevate your next project, MIVIZ Architects is ready to collaborate. We invite you to explore our portfolio and experience the difference that thoughtful, tech-enabled architecture can make. Let us build something extraordinary together.</p>
-  
 
-    <!-- BEGIN ENHANCEMENTS -->
-    <div style="margin-top: 50px;">
-        <h2>Visual Inspiration & Architecture Highlights</h2>
-        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/premium_villa_pune_1786199143803.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
-        </div>
-
-        
-    <div style="margin: 40px 0;">
+<div style="margin: 40px 0;">
         <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
         <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
             <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
@@ -138,66 +120,34 @@ export const architectsInPuneData: SEOPageData = {
         </ol>
     </div>
 
-        <div style="text-align: center; margin: 30px 0;">
+<h2>Why Choose MIVIZ as Your Architects in Pune?</h2>
+    <p>Choosing an architecture firm in Pune is a significant decision. You need a partner who listens, innovates, and delivers on their promises. Here is why MIVIZ Architects is the preferred choice for discerning clients across the city:</p>
+    <p><strong>1. Uncompromising Quality and Precision:</strong> We are obsessed with details. From the macro-level site planning to the micro-level joinery details, our architectural team ensures that every element of the design is meticulously planned and executed.</p>
+    <p><strong>2. Transparent Communication:</strong> We believe that a successful architectural project is built on a foundation of trust and transparency. We maintain clear, open lines of communication throughout the design and construction phases, keeping you informed of progress, budgets, and timelines.</p>
+    <p><strong>3. Sustainable Practices:</strong> As responsible architects in Pune, we are committed to sustainable design practices. We strive to minimize the environmental footprint of our buildings by incorporating energy-efficient systems, maximizing natural light, and specifying eco-friendly materials whenever possible.</p>
+    <p><strong>4. A Passion for Innovation:</strong> We are not bound by conventional design rules. We continually explore new materials, construction techniques, and architectural forms to create spaces that are truly unique and forward-thinking.</p>
+
+    
+
+<div style="text-align: center; margin: 30px 0;">
             <img src="/images/pune_architecture_firm_1786199224083.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
         </div>
 
-        
-        
-        <!-- DATA VISUALIZATION BAR GRAPH -->
-        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Timeline Phases</h3>
-            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Percentage time distribution for architectural execution in Pune.</p>
-            
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Structural Civil Execution</span>
-                    <span style="font-weight: 600; color: #d9a05b;">50%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 50%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
+<h2>The MIVIZ Architectural Process</h2>
+    <p>Our methodology as an architecture firm in Pune is structured, collaborative, and entirely client-centric. We guide you through a phased process to ensure your project is a resounding success.</p>
+    <p>The journey begins with an in-depth consultation, where we listen to your ideas, analyze the site, and define the project brief. Following this, our design team develops initial concepts, utilizing 3D modeling and VR to help you visualize the proposed architecture. Once the design is refined and approved, we move into the technical detailing phase, producing comprehensive construction drawings, evaluating <a href="/house-construction-cost-pune-2026" style="color:#d9a05b; text-decoration:underline;">house construction cost in Pune</a>, and specifications. Finally, our turnkey execution team takes over, managing the construction process with exacting standards to bring the architectural vision to life perfectly.</p>
+    
+    
 
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Concept & Working Drawings</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Finishing & Millwork</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 10px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">PMC Liaisoning & Sanctions</span>
-                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-        </div>
-
-        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+<div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
             <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
             <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
             <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
             <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
         </div>
-    </div>
-    <!-- END ENHANCEMENTS -->
+
+<h2>Connect with a Premier Architecture Firm in Pune</h2>
+    <p>If you are looking for architects in Pune who can elevate your next project, MIVIZ Architects is ready to collaborate. We invite you to explore our portfolio and experience the difference that thoughtful, tech-enabled architecture can make. Let us build something extraordinary together.</p>
 `
 };

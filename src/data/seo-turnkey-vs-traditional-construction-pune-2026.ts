@@ -90,7 +90,7 @@ export const turnkeyVsTraditionalConstructionPune2026Data: SEOPageData = {
     ctaText: 'Get a Turnkey Feasibility Quote'
   },
   content: `
-    <p><em>Planning to build your dream bungalow or luxury villa in Pune? Discover the exact differences between Turnkey and Traditional construction, true cost comparisons, PMC/PCMC approval realities, and which method saves you time, stress, and lakhs of rupees.</em></p>
+<p><em>Planning to build your dream bungalow or luxury villa in Pune? Discover the exact differences between Turnkey and Traditional construction, true cost comparisons, PMC/PCMC approval realities, and which method saves you time, stress, and lakhs of rupees.</em></p>
 
     <div style="background: #f9f9f9; border-left: 4px solid #d9a05b; padding: 15px; margin-bottom: 30px;">
       <strong>📌 Quick Summary: Turnkey vs Traditional at a Glance</strong>
@@ -148,7 +148,14 @@ export const turnkeyVsTraditionalConstructionPune2026Data: SEOPageData = {
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Get an Exact Turnkey Quote for Your Plot</a>
     </div>
 
-    <h2>Introduction</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/premium_villa_pune_1786199143803.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+<h2>Introduction</h2>
 
     <p>Building an independent home or luxury villa in Pune is one of the most significant emotional and financial milestones of your life. Whether you own a plot in Baner, Wakad, Ravet, Kalyani Nagar, or Kharadi, turning that piece of land into a sanctuary requires navigating dozens of decisions.</p>
 
@@ -188,7 +195,20 @@ export const turnkeyVsTraditionalConstructionPune2026Data: SEOPageData = {
       <li><strong>Cost Overruns:</strong> Due to uncoordinated teams, material wastage, and mid-project rework, traditional builds in Pune routinely exceed their initial budget by 20% to 35%.</li>
     </ul>
 
-    <h2>What is Turnkey Construction in Pune?</h2>
+    
+
+<div style="margin: 40px 0;">
+        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
+        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
+            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
+            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
+            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
+            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
+            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
+        </ol>
+    </div>
+
+<h2>What is Turnkey Construction in Pune?</h2>
 
     <p>Turnkey construction (also known as the <strong>Design-Build Model</strong>) is a modern, streamlined approach where a single professional firm manages your entire project from conceptual design to final key handover.</p>
 
@@ -215,7 +235,14 @@ export const turnkeyVsTraditionalConstructionPune2026Data: SEOPageData = {
       <li><strong>Requires Upfront Trust:</strong> You must thoroughly vet the firm’s track record, past projects, and contract transparency before signing.</li>
     </ul>
 
-    <h2>Head-to-Head Comparison: Turnkey vs Traditional</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/pune_architecture_firm_1786199224083.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
+        </div>
+
+<h2>Head-to-Head Comparison: Turnkey vs Traditional</h2>
 
     <h3>1. Cost Predictability & Transparency</h3>
     <div style="overflow-x: auto; margin-bottom: 20px;">
@@ -378,7 +405,16 @@ export const turnkeyVsTraditionalConstructionPune2026Data: SEOPageData = {
     </ul>
 
     <div style="margin-top: 40px;">
-      <h2>Frequently Asked Questions (FAQs)</h2>
+      
+
+<div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: End-to-End Turnkey Villa Construction in Baner</h3>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
+            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
+        </div>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
       
       <strong>Is turnkey construction more expensive than traditional construction in Pune?</strong>
       <p>No. While turnkey construction has a higher upfront quoted rate, it is often more cost-effective in reality due to zero material wastage costs, fixed contracts, and included design fees.</p>
@@ -395,89 +431,5 @@ export const turnkeyVsTraditionalConstructionPune2026Data: SEOPageData = {
       <p style="margin-bottom: 20px;">Stop worrying about contractor delays, labor disputes, and budget overruns. Let Pune’s leading architects build your dream home with total transparency and zero stress.</p>
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Schedule Your Free Turnkey Consultation</a>
     </div>
-  
-
-    <!-- BEGIN ENHANCEMENTS -->
-    <div style="margin-top: 50px;">
-        <h2>Visual Inspiration & Architecture Highlights</h2>
-        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/premium_villa_pune_1786199143803.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
-        </div>
-
-        
-    <div style="margin: 40px 0;">
-        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
-        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
-            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
-            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
-            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
-            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
-            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
-        </ol>
-    </div>
-
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/pune_architecture_firm_1786199224083.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
-        </div>
-
-        
-        
-        <!-- DATA VISUALIZATION BAR GRAPH -->
-        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Timeline Phases</h3>
-            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Percentage time distribution for architectural execution in Pune.</p>
-            
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Structural Civil Execution</span>
-                    <span style="font-weight: 600; color: #d9a05b;">50%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 50%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Concept & Working Drawings</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Finishing & Millwork</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 10px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">PMC Liaisoning & Sanctions</span>
-                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-        </div>
-
-        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
-            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: End-to-End Turnkey Villa Construction in Baner</h3>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
-            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
-        </div>
-    </div>
-    <!-- END ENHANCEMENTS -->
 `
 };

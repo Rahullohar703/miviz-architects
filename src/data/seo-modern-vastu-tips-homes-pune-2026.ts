@@ -82,7 +82,7 @@ export const modernVastuTipsHomesPune2026Data: SEOPageData = {
     ctaText: 'Get a Vastu Architectural Review'
   },
   content: `
-    <p><em>Building or designing a home in Pune? Discover how modern architects blend ancient Vastu Shastra principles with contemporary aesthetics, natural ventilation, and functional space planning.</em></p>
+<p><em>Building or designing a home in Pune? Discover how modern architects blend ancient Vastu Shastra principles with contemporary aesthetics, natural ventilation, and functional space planning.</em></p>
 
     <div style="background: #f9f9f9; border-left: 4px solid #d9a05b; padding: 15px; margin-bottom: 30px;">
       <strong>📌 Quick Summary: Modern Vastu Directional Guidelines</strong>
@@ -136,7 +136,14 @@ export const modernVastuTipsHomesPune2026Data: SEOPageData = {
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Book a Vastu Consultation for Your Plot</a>
     </div>
 
-    <h2>Introduction</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/cost_effective_modern_home_1786199115729.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+<h2>Introduction</h2>
 
     <p>In India—and particularly across Pune's vibrant residential markets like Baner, Kothrud, Wakad, and Kalyani Nagar—<strong>Vastu Shastra</strong> is deeply embedded in the home-building process. Families want the peace of mind and positive energy that traditional Vastu brings.</p>
 
@@ -160,7 +167,20 @@ export const modernVastuTipsHomesPune2026Data: SEOPageData = {
       <li><strong>Wind Direction in Pune:</strong> Pune's prevailing winds blow from the South-West and West during monsoon, and North-East during winter. Proper door and window positioning channels these natural breezes.</li>
     </ol>
 
-    <h2>Room-by-Room Modern Vastu Guidelines</h2>
+    
+
+<div style="margin: 40px 0;">
+        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
+        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
+            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
+            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
+            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
+            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
+            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
+        </ol>
+    </div>
+
+<h2>Room-by-Room Modern Vastu Guidelines</h2>
 
     <h3>1. Main Entrance (North or East Facing)</h3>
     <p><strong>Vastu Tip:</strong> Position the main door in the North, North-East, or East.</p>
@@ -182,7 +202,14 @@ export const modernVastuTipsHomesPune2026Data: SEOPageData = {
     <p><strong>Vastu Tip:</strong> Position the Mandir in the North-East quadrant.</p>
     <p><strong>Modern Architectural Solution:</strong> Rather than an enclosed dark room, design a floating marble mandir niche with backlit onyx stone panels integrated into the living room foyer.</p>
 
-    <h2>Modern Vastu Solutions for Common Apartment & Plot Challenges</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/design_studio_pune_1786199159834.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
+        </div>
+
+<h2>Modern Vastu Solutions for Common Apartment & Plot Challenges</h2>
 
     <p>Many homeowners buying apartments or compact plots in Pune encounter non-ideal Vastu layouts. Here is how modern architects resolve them without demolition:</p>
 
@@ -246,7 +273,16 @@ export const modernVastuTipsHomesPune2026Data: SEOPageData = {
     </ul>
 
     <div style="margin-top: 40px;">
-      <h2>Frequently Asked Questions (FAQs)</h2>
+      
+
+<div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
+            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
+        </div>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
       
       <strong>Is Vastu Shastra scientifically relevant for modern homes in Pune?</strong>
       <p>Yes! Ancient Vastu principles are rooted in solar geometry, magnetic fields, and prevailing wind patterns. Aligning your home with these forces improves natural lighting, indoor air quality, and thermal comfort.</p>
@@ -263,89 +299,5 @@ export const modernVastuTipsHomesPune2026Data: SEOPageData = {
       <p style="margin-bottom: 20px;">Balance ancient tradition with modern luxury design with MIVIZ Architects.</p>
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Schedule Your Vastu Design Consultation</a>
     </div>
-  
-
-    <!-- BEGIN ENHANCEMENTS -->
-    <div style="margin-top: 50px;">
-        <h2>Visual Inspiration & Architecture Highlights</h2>
-        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/cost_effective_modern_home_1786199115729.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
-        </div>
-
-        
-    <div style="margin: 40px 0;">
-        <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
-        <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
-            <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
-            <li><strong>Step 2:</strong> 3D Concept Design & Space Planning</li>
-            <li><strong>Step 3:</strong> BOQ Finalization & Legal Approvals</li>
-            <li><strong>Step 4:</strong> Material Procurement & Factory Production</li>
-            <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
-        </ol>
-    </div>
-
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/design_studio_pune_1786199159834.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
-        </div>
-
-        
-        
-        <!-- DATA VISUALIZATION BAR GRAPH -->
-        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Timeline Phases</h3>
-            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Percentage time distribution for architectural execution in Pune.</p>
-            
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Structural Civil Execution</span>
-                    <span style="font-weight: 600; color: #d9a05b;">50%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 50%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Concept & Working Drawings</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Finishing & Millwork</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 10px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">PMC Liaisoning & Sanctions</span>
-                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-        </div>
-
-        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
-            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
-            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
-        </div>
-    </div>
-    <!-- END ENHANCEMENTS -->
 `
 };

@@ -107,7 +107,7 @@ export const architectFeesInPune2026Data: SEOPageData = {
     ctaText: 'Get a Custom Fee Estimate'
   },
   content: `
-    <p><em>Pune's real estate landscape is evolving rapidly. From bespoke luxury villas in Koregaon Park to smart independent bungalows in Baner and Wakad, the demand for highly customized, architect-designed homes is at an all-time high. But budgeting for construction is incredibly stressful, and architect fees are often shrouded in secrecy.</em></p>
+<p><em>Pune's real estate landscape is evolving rapidly. From bespoke luxury villas in Koregaon Park to smart independent bungalows in Baner and Wakad, the demand for highly customized, architect-designed homes is at an all-time high. But budgeting for construction is incredibly stressful, and architect fees are often shrouded in secrecy.</em></p>
 
     <p>If you are planning to build or renovate in Pune this year, you probably have one burning question: <strong>"How much is this going to cost me?"</strong></p>
 
@@ -131,7 +131,14 @@ export const architectFeesInPune2026Data: SEOPageData = {
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase; margin: 10px 0;">Get an Exact Quote for Your Plot</a>
     </div>
 
-    <h2>Average Architect Fees in Pune (2026)</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/baner_luxury_villa_1786199200937.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+<h2>Average Architect Fees in Pune (2026)</h2>
 
     <p>The short answer to "How much does an architect charge?" is: <strong>It depends entirely on the complexity of your project, the level of detailing required, and the firm's reputation.</strong></p>
 
@@ -184,7 +191,39 @@ export const architectFeesInPune2026Data: SEOPageData = {
       <li><strong>Best for:</strong> Vastu consultations, site feasibility studies, or second opinions on ongoing projects.</li>
     </ul>
 
-    <h2>Architect Charges by Project Type</h2>
+    
+
+<div style="margin: 40px 0;">
+        <h3 style="color: #d9a05b;">Infographic: Cost & Process Comparison</h3>
+        <table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse; min-width: 600px; margin-bottom: 20px;">
+            <thead>
+                <tr style="background:#f1f1f1;">
+                    <th>Parameter</th>
+                    <th>Standard Approach</th>
+                    <th>Premium / Turnkey Approach</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Cost Predictability</strong></td>
+                    <td>High Variance (Hidden Costs)</td>
+                    <td>Fixed Price (BOQ Guaranteed)</td>
+                </tr>
+                <tr>
+                    <td><strong>Time Required</strong></td>
+                    <td>18-24 Months</td>
+                    <td>12-14 Months</td>
+                </tr>
+                <tr>
+                    <td><strong>Material Quality</strong></td>
+                    <td>Locally Sourced, Handcrafted</td>
+                    <td>Factory Finished, European Hardware</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+<h2>Architect Charges by Project Type</h2>
 
     <p>The type of building dictates the amount of detailing required. Here is how fees fluctuate based on what you are building in Pune.</p>
 
@@ -233,7 +272,14 @@ export const architectFeesInPune2026Data: SEOPageData = {
       </table>
     </div>
 
-    <h2>What is Included in Architect Fees?</h2>
+    
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/cost_effective_modern_home_1786199115729.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
+        </div>
+
+<h2>What is Included in Architect Fees?</h2>
 
     <p>When you sign a contract with a reputable firm like MIVIZ Architects, you are paying for a comprehensive suite of services that takes your project from an empty plot to a fully realized building. A standard comprehensive architectural package includes:</p>
 
@@ -408,7 +454,16 @@ export const architectFeesInPune2026Data: SEOPageData = {
     </ul>
 
     <div style="margin-top: 40px;">
-      <h2>Frequently Asked Questions (FAQs)</h2>
+      
+
+<div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
+            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
+            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
+        </div>
+
+<h2>Frequently Asked Questions (FAQs)</h2>
       
       <strong>Are municipal approval (PMC/PCMC) fees included in the architect's charges?</strong>
       <p>No. The architect's fee only covers the <em>professional service</em> of creating the sanction drawings and coordinating with the municipal office. The actual premium charges, scrutiny fees, and challans demanded by the PMC/PCMC are paid directly by the property owner.</p>
@@ -428,108 +483,5 @@ export const architectFeesInPune2026Data: SEOPageData = {
       <p style="margin-bottom: 20px;">Budgeting for a new building is stressful enough without playing guessing games with your architect's fees. Partner with MIVIZ Architects for 100% transparent pricing and uncompromising quality.</p>
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Schedule Your Free Plot Feasibility Consultation</a>
     </div>
-  
-
-    <!-- BEGIN ENHANCEMENTS -->
-    <div style="margin-top: 50px;">
-        <h2>Visual Inspiration & Architecture Highlights</h2>
-        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/baner_luxury_villa_1786199200937.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
-        </div>
-
-        
-    <div style="margin: 40px 0;">
-        <h3 style="color: #d9a05b;">Infographic: Cost & Process Comparison</h3>
-        <table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse: collapse; min-width: 600px; margin-bottom: 20px;">
-            <thead>
-                <tr style="background:#f1f1f1;">
-                    <th>Parameter</th>
-                    <th>Standard Approach</th>
-                    <th>Premium / Turnkey Approach</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td><strong>Cost Predictability</strong></td>
-                    <td>High Variance (Hidden Costs)</td>
-                    <td>Fixed Price (BOQ Guaranteed)</td>
-                </tr>
-                <tr>
-                    <td><strong>Time Required</strong></td>
-                    <td>18-24 Months</td>
-                    <td>12-14 Months</td>
-                </tr>
-                <tr>
-                    <td><strong>Material Quality</strong></td>
-                    <td>Locally Sourced, Handcrafted</td>
-                    <td>Factory Finished, European Hardware</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/cost_effective_modern_home_1786199115729.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
-        </div>
-
-        
-        
-        <!-- DATA VISUALIZATION BAR GRAPH -->
-        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Cost Allocation Breakdown</h3>
-            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Benchmark expenditure distribution for residential construction & design in Pune.</p>
-            
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Structural Civil Construction</span>
-                    <span style="font-weight: 600; color: #d9a05b;">45%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 45%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Interior Fit-out & Millwork</span>
-                    <span style="font-weight: 600; color: #d9a05b;">30%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 30%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Architecture & Structural Engineering</span>
-                    <span style="font-weight: 600; color: #d9a05b;">15%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 15%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 10px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">PMC Approvals & Sanctions</span>
-                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-        </div>
-
-        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
-            <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
-            <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
-            <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
-        </div>
-    </div>
-    <!-- END ENHANCEMENTS -->
 `
 };

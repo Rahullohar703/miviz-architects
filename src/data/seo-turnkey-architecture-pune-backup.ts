@@ -73,6 +73,8 @@ export const turnkeyArchitecturePuneData: SEOPageData = {
     ctaText: 'Start Your Turnkey Project'
   },
   content: `
+    
+
 <div style="text-align: center; margin: 30px 0;">
             <img src="/images/design_studio_pune_1786199159834.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
@@ -106,6 +108,57 @@ export const turnkeyArchitecturePuneData: SEOPageData = {
 
     
 
+<!-- DATA VISUALIZATION BAR GRAPH -->
+        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Timeline Phases</h3>
+            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Percentage time distribution for architectural execution in Pune.</p>
+            
+            <div style="margin-bottom: 15px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
+                    <span style="font-weight: 600; color: #333;">Structural Civil Execution</span>
+                    <span style="font-weight: 600; color: #d9a05b;">50%</span>
+                </div>
+                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 50%; height: 100%; border-radius: 6px;"></div>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 15px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
+                    <span style="font-weight: 600; color: #333;">Concept & Working Drawings</span>
+                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
+                </div>
+                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 15px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
+                    <span style="font-weight: 600; color: #333;">Finishing & Millwork</span>
+                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
+                </div>
+                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 10px;">
+                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
+                    <span style="font-weight: 600; color: #333;">PMC Liaisoning & Sanctions</span>
+                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
+                </div>
+                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
+                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
+                </div>
+            </div>
+        </div>
+
+<h2>VR Technology Meets Turnkey Execution</h2>
+    <p>What makes our turnkey service truly exceptional is our integration of advanced technology. We begin every project with immersive Virtual Reality (VR) walkthroughs. You experience the space virtually before we build it physically. This ensures that the design is exactly what you want, allowing us to proceed into the turnkey execution phase with absolute certainty and zero ambiguity.</p>
+
+    
+
 <div style="margin: 40px 0;">
         <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
         <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
@@ -116,16 +169,6 @@ export const turnkeyArchitecturePuneData: SEOPageData = {
             <li><strong>Step 5:</strong> On-Site Execution & Final Handover</li>
         </ol>
     </div>
-
-<h2>VR Technology Meets Turnkey Execution</h2>
-    <p>What makes our turnkey service truly exceptional is our integration of advanced technology. We begin every project with immersive Virtual Reality (VR) walkthroughs. You experience the space virtually before we build it physically. This ensures that the design is exactly what you want, allowing us to proceed into the turnkey execution phase with absolute certainty and zero ambiguity.</p>
-
-    
-
-<div style="text-align: center; margin: 30px 0;">
-            <img src="/images/house_construction_site_1786199173816.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
-        </div>
 
 
 
@@ -138,5 +181,15 @@ export const turnkeyArchitecturePuneData: SEOPageData = {
 
 <h2>Experience True Single-Point Responsibility</h2>
     <p>If you value your time, demand uncompromising quality, and want a stress-free building experience, a turnkey approach is the only logical choice. Trust the experts at MIVIZ Architects for your <strong>turnkey architecture in Pune</strong>. Let us transform your vision into reality seamlessly. Contact us today to discuss your project requirements.</p>
+  
+
+    
 `
 };
+
+
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/house_construction_site_1786199173816.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
+        </div>
+

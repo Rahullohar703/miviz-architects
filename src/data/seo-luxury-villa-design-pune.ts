@@ -73,7 +73,12 @@ export const luxuryVillaDesignPuneData: SEOPageData = {
     ctaText: 'Build Your Masterpiece'
   },
   content: `
-    <h2>Masterpieces of Modern Living: Luxury Villa Design in Pune</h2>
+<div style="text-align: center; margin: 30px 0;">
+            <img src="/images/architect_client_meeting_1786199129803.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
+        </div>
+
+<h2>Masterpieces of Modern Living: Luxury Villa Design in Pune</h2>
     <p>A luxury villa is the ultimate expression of personal success, taste, and lifestyle. It is a canvas where architectural grandeur meets intimate, bespoke living. At MIVIZ Architects, we are the foremost experts in <strong>luxury villa design in Pune</strong>, dedicated to conceptualizing and constructing estates that are as breathtaking as they are comfortable.</p>
     <p>The concept of luxury has evolved. Today, true luxury in architecture is defined by space, natural light, seamless integration with nature, and an uncompromising attention to detail. Whether you possess a scenic plot in the hills surrounding Pune or a premium parcel within the city limits, our team has the expertise to deliver a <strong>luxury villa design in Pune</strong> that exceeds your highest expectations.</p>
 
@@ -89,32 +94,9 @@ export const luxuryVillaDesignPuneData: SEOPageData = {
     <p>When investing in a luxury villa, surprises during construction are unacceptable. Our clients demand absolute certainty, and we provide it through our cutting-edge visualization technology.</p>
     <p>As pioneers in tech-enabled <strong>luxury villa design in Pune</strong>, MIVIZ utilizes advanced Virtual Reality (VR). We build a complete 1:1 scale digital twin of your proposed villa. Long before the foundation is excavated, you can put on a VR headset and walk through the grand entrance, stand on the master bedroom balcony, and look out over your future garden. This immersive experience allows you to make confident decisions about spatial flow, window placements, and material finishes, ensuring the final build is exactly what you envisioned.</p>
 
-    <h2>Turnkey Execution: Delivering the Dream</h2>
-    <p>The most exquisite luxury villa design on paper means nothing if it cannot be executed flawlessly on-site. Managing multiple contractors, sourcing rare materials, and maintaining strict quality control can quickly turn a dream project into a stressful ordeal.</p>
-    <p>MIVIZ Architects provides a comprehensive <a href="/turnkey-architecture-pune" style="color:#d9a05b; text-decoration:underline;">turnkey solution for luxury villa design in Pune</a>. By handling both the <a href="/architects-in-pune" style="color:#d9a05b; text-decoration:underline;">architectural design</a> and the physical construction under one roof, we guarantee absolute fidelity to the design intent. Our in-house project managers, engineers, and master craftsmen work in perfect synchronization with our design team. This single-point responsibility ensures adherence to strict timelines, meticulous budget management, and a level of finishing that is unparalleled in Pune.</p>
+    
 
-    <h2>Key Features of a MIVIZ Luxury Villa</h2>
-    <p>While every villa we design is entirely bespoke, certain hallmarks define a MIVIZ luxury villa design in Pune:</p>
-    <p><strong>1. Seamless Indoor-Outdoor Flow:</strong> We utilize expansive, floor-to-ceiling sliding glass systems that disappear into the walls, effectively blurring the line between the <a href="/interior-designers-pune" style="color:#d9a05b; text-decoration:underline;">interior living spaces</a> and the exterior decks, courtyards, and pools.</p>
-    <p><strong>2. Intelligent Home Automation:</strong> Modern luxury requires effortless control. We integrate cutting-edge smart home systems directly into the architectural design, allowing you to control lighting, climate, security, and entertainment systems with a touch.</p>
-    <p><strong>3. Bespoke Wellness Spaces:</strong> We frequently incorporate private spas, state-of-the-art gymnasiums, and serene meditation pavilions into our luxury villa designs, ensuring your home is a holistic sanctuary for health and relaxation.</p>
-    <p><strong>4. Sustainable Luxury:</strong> Opulence and environmental responsibility can coexist. We integrate passive cooling strategies, solar energy harvesting, and advanced water recycling systems, making your luxury villa a beacon of <a href="/residential-architects-pune" style="color:#d9a05b; text-decoration:underline;">sustainable living</a>.</p>
-
-    <h2>Your Vision, Our Expertise</h2>
-    <p>Building a luxury villa is a monumental undertaking that requires a partnership built on trust, transparency, and shared vision. If you demand the very best in architectural innovation and construction quality, MIVIZ Architects is your definitive choice for <strong>luxury villa design in Pune</strong>. Connect with us today to discuss your vision, and let us begin the journey of creating your architectural masterpiece.</p>
-  
-
-    <!-- BEGIN ENHANCEMENTS -->
-    <div style="margin-top: 50px;">
-        <h2>Visual Inspiration & Architecture Highlights</h2>
-        <p>Explore some of our premium design features that elevate spaces in Pune.</p>
-        <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/architect_client_meeting_1786199129803.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-            <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
-        </div>
-
-        
-    <div style="margin: 40px 0;">
+<div style="margin: 40px 0;">
         <h3 style="color: #d9a05b;">Flowchart: The 5-Step Execution Process</h3>
         <ol style="background: #fdfbf7; padding: 20px 40px; border-radius: 8px; border-left: 4px solid #d9a05b;">
             <li><strong>Step 1:</strong> Initial Consultation & Site Analysis</li>
@@ -125,66 +107,34 @@ export const luxuryVillaDesignPuneData: SEOPageData = {
         </ol>
     </div>
 
-        <div style="text-align: center; margin: 30px 0;">
+<h2>Turnkey Execution: Delivering the Dream</h2>
+    <p>The most exquisite luxury villa design on paper means nothing if it cannot be executed flawlessly on-site. Managing multiple contractors, sourcing rare materials, and maintaining strict quality control can quickly turn a dream project into a stressful ordeal.</p>
+    <p>MIVIZ Architects provides a comprehensive <a href="/turnkey-architecture-pune" style="color:#d9a05b; text-decoration:underline;">turnkey solution for luxury villa design in Pune</a>. By handling both the <a href="/architects-in-pune" style="color:#d9a05b; text-decoration:underline;">architectural design</a> and the physical construction under one roof, we guarantee absolute fidelity to the design intent. Our in-house project managers, engineers, and master craftsmen work in perfect synchronization with our design team. This single-point responsibility ensures adherence to strict timelines, meticulous budget management, and a level of finishing that is unparalleled in Pune.</p>
+
+    
+
+<div style="text-align: center; margin: 30px 0;">
             <img src="/images/award_winning_architecture_1786199253133.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
         </div>
 
-        
-        
-        <!-- DATA VISUALIZATION BAR GRAPH -->
-        <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
-            <h3 style="color: #d9a05b; margin-top: 0; font-size: 1.3em;">📊 Data Visualization: Project Timeline Phases</h3>
-            <p style="font-size: 0.9em; color: #666; margin-bottom: 20px;">Percentage time distribution for architectural execution in Pune.</p>
-            
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Structural Civil Execution</span>
-                    <span style="font-weight: 600; color: #d9a05b;">50%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 50%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
+<h2>Key Features of a MIVIZ Luxury Villa</h2>
+    <p>While every villa we design is entirely bespoke, certain hallmarks define a MIVIZ luxury villa design in Pune:</p>
+    <p><strong>1. Seamless Indoor-Outdoor Flow:</strong> We utilize expansive, floor-to-ceiling sliding glass systems that disappear into the walls, effectively blurring the line between the <a href="/interior-designers-pune" style="color:#d9a05b; text-decoration:underline;">interior living spaces</a> and the exterior decks, courtyards, and pools.</p>
+    <p><strong>2. Intelligent Home Automation:</strong> Modern luxury requires effortless control. We integrate cutting-edge smart home systems directly into the architectural design, allowing you to control lighting, climate, security, and entertainment systems with a touch.</p>
+    <p><strong>3. Bespoke Wellness Spaces:</strong> We frequently incorporate private spas, state-of-the-art gymnasiums, and serene meditation pavilions into our luxury villa designs, ensuring your home is a holistic sanctuary for health and relaxation.</p>
+    <p><strong>4. Sustainable Luxury:</strong> Opulence and environmental responsibility can coexist. We integrate passive cooling strategies, solar energy harvesting, and advanced water recycling systems, making your luxury villa a beacon of <a href="/residential-architects-pune" style="color:#d9a05b; text-decoration:underline;">sustainable living</a>.</p>
 
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Concept & Working Drawings</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
+    
 
-            <div style="margin-bottom: 15px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">Finishing & Millwork</span>
-                    <span style="font-weight: 600; color: #d9a05b;">20%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 20%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-
-            <div style="margin-bottom: 10px;">
-                <div style="display: flex; justify-content: space-between; font-size: 0.9em; margin-bottom: 5px;">
-                    <span style="font-weight: 600; color: #333;">PMC Liaisoning & Sanctions</span>
-                    <span style="font-weight: 600; color: #d9a05b;">10%</span>
-                </div>
-                <div style="background: #f3f4f6; border-radius: 6px; height: 12px; overflow: hidden;">
-                    <div style="background: linear-gradient(90deg, #d9a05b, #b8860b); width: 10%; height: 100%; border-radius: 6px;"></div>
-                </div>
-            </div>
-        </div>
-
-        <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
+<div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
             <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: Modern Eco-Friendly Bungalow in Balewadi</h3>
             <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Challenge:</strong> The client wanted a seamless, modern living space that maximized natural light without compromising on privacy in a densely populated urban area of Pune.</p>
             <p style="color: #222; margin-bottom: 12px; font-size: 1em;"><strong>The Solution:</strong> Our team deployed a custom Vastu-compliant spatial layout featuring double-height ceilings, automated smart-lighting, and factory-finished modular units to minimize on-site clutter.</p>
             <p style="color: #222; margin-bottom: 0; font-size: 1em;"><strong>The Result:</strong> Delivered 45 days ahead of schedule, the project achieved a 30% improvement in natural airflow and set a new benchmark for luxury residential design in the locality.</p>
         </div>
-    </div>
-    <!-- END ENHANCEMENTS -->
+
+<h2>Your Vision, Our Expertise</h2>
+    <p>Building a luxury villa is a monumental undertaking that requires a partnership built on trust, transparency, and shared vision. If you demand the very best in architectural innovation and construction quality, MIVIZ Architects is your definitive choice for <strong>luxury villa design in Pune</strong>. Connect with us today to discuss your vision, and let us begin the journey of creating your architectural masterpiece.</p>
 `
 };
