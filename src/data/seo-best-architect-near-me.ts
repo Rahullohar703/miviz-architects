@@ -197,7 +197,7 @@ export const bestArchitectNearMeData: SEOPageData = {
         <h2>Visual Inspiration & Architecture Highlights</h2>
         <p>Explore some of our premium design features that elevate spaces in Pune.</p>
         <div style="text-align: center; margin: 30px 0;">
-            <img src="/assets/hero-architecture-9kSrcD2B.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <img src="/images/baner_architect_planning_1786199212112.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
         </div>
 
@@ -214,7 +214,7 @@ export const bestArchitectNearMeData: SEOPageData = {
     </div>
 
         <div style="text-align: center; margin: 30px 0;">
-            <img src="/assets/baner-villa-case-study.jpg" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <img src="/images/baner_luxury_villa_1786199200937.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
         </div>
 
