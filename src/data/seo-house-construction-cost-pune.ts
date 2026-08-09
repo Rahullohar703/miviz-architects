@@ -314,7 +314,7 @@ export const houseConstructionCostPuneData: SEOPageData = {
     <p><strong>Option B: The <a href="/turnkey-architecture-pune" style="color:#d9a05b; text-decoration:underline;">Turnkey Construction</a> Contract (Recommended):</strong> You hire a professional architectural design-build firm to handle everything. The firm buys materials, manages labor, handles logistics, and guarantees quality. Peace of mind, fixed budgets, zero logistical headaches, and a single point of accountability.</p>
 
     <h2>10. Why Choose MIVIZ Architects for Your Pune Home?</h2>
-    <p>At MIVIZ Architects, we bridge the gap between high-end architectural design and flawless, transparent execution. When you work with us on a Turnkey basis, you get COA-registered, visionary architects who manage your project from concept to key-handover. We provide a <strong>100% transparent Bill of Quantities</strong>. Before we lay a single brick, we provide <strong>VR (Virtual Reality) Walkthroughs</strong> so you can physically experience your home, ensuring zero regrets once construction begins.</p>
+    <p>At MIVIZ Architects, we bridge the gap between high-end architectural design and flawless, transparent execution. When you work with us on a Turnkey basis, you get COA-registered, visionary architects who manage your project from concept to key-handover. We provide a <strong>100% transparent Bill of Quantities</strong>. Before we lay a single brick, we provide <strong>High-Fidelity 3D Renders Walkthroughs</strong> so you can physically experience your home, ensuring zero regrets once construction begins.</p>
     
     <div style="margin-top: 40px;">
       

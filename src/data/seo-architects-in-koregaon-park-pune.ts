@@ -140,7 +140,7 @@ export const architectsInKoregaonParkData: SEOPageData = {
     </div>
 
     <h3>1. Turnkey Villa Construction</h3>
-    <p>For clients looking to build a new home from the ground up, our <a href="/turnkey-construction-pune-2026" style="color:#d9a05b; text-decoration:underline;">turnkey architecture services</a> are the ultimate solution. We handle everything: concept design, 3D VR walkthroughs, civil construction, interior finishing, and bespoke furniture curation. You simply "turn the key" and step into a finished masterpiece.</p>
+    <p>For clients looking to build a new home from the ground up, our <a href="/turnkey-construction-pune-2026" style="color:#d9a05b; text-decoration:underline;">turnkey architecture services</a> are the ultimate solution. We handle everything: concept design, 3D 3D design walkthroughs, civil construction, interior finishing, and bespoke furniture curation. You simply "turn the key" and step into a finished masterpiece.</p>
 
     <h3>2. High-End Interior Design</h3>
     <p>Already have the structure built? Our <a href="/interior-designers-pune" style="color:#d9a05b; text-decoration:underline;">interior design division</a> transforms bare shells into spectacular living spaces. We source imported marble, premium European sanitaryware, and custom-crafted joinery to ensure every square inch exudes luxury.</p>
@@ -167,7 +167,7 @@ export const architectsInKoregaonParkData: SEOPageData = {
                 <tr style="border-bottom: 1px solid #eee; background-color: #fafafa;">
                     <td style="padding: 12px;"><strong>2. Immersion</strong></td>
                     <td style="padding: 12px;">Development of 3D models and material selection.</td>
-                    <td style="padding: 12px;">Virtual Reality (VR) Walkthrough</td>
+                    <td style="padding: 12px;">High-Fidelity 3D Renders Walkthrough</td>
                 </tr>
                 <tr style="border-bottom: 1px solid #eee;">
                     <td style="padding: 12px;"><strong>3. Engineering</strong></td>

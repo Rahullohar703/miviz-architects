@@ -299,7 +299,7 @@ export const architectFeesInPune2026Data: SEOPageData = {
       <li><strong>Interior Design:</strong> Civil architecture involves the shell of the house. It does not include selecting your sofa or false ceilings. <a href="/interior-designers-pune" style="color:#d9a05b; text-decoration:underline;">Interior design services</a> are highly specialized and billed separately (often another 8% to 15% of the interior budget).</li>
       <li><strong>Structural Engineering:</strong> The architect designs the spaces; the structural engineer calculates the steel and concrete required so the building doesn't collapse. Structural engineers charge separately (usually ₹10 - ₹20 per sq. ft.).</li>
       <li><strong>MEP Consulting:</strong> Mechanical, Electrical, and Plumbing engineering consultants charge their own separate fees for large scale bungalows.</li>
-      <li><strong>High-End 3D Rendering & VR Walkthroughs:</strong> Photorealistic renders and Virtual Reality walkthroughs take days of computer processing time and are charged as premium add-ons.</li>
+      <li><strong>High-End 3D Rendering & 3D design walkthroughs:</strong> Photorealistic renders and High-Fidelity 3D Renders walkthroughs take days of computer processing time and are charged as premium add-ons.</li>
       <li><strong>Government Challans:</strong> The actual official fees paid to the PMC/PCMC for permissions are paid by you, directly to the government.</li>
       <li><strong>GST:</strong> An 18% Goods and Services Tax is applicable on all professional fees.</li>
     </ul>

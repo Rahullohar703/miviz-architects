@@ -85,7 +85,7 @@ export const turnkeyArchitecturePuneData: SEOPageData = {
     <h3>What is Turnkey Architecture?</h3>
     <p>In essence, turnkey architecture means we handle it all. When you partner with MIVIZ for a turnkey project, our scope of work encompasses:</p>
     <ul>
-      <li><strong>Comprehensive <a href="/architects-in-pune" style="color:#d9a05b; text-decoration:underline;">Architectural</a> & <a href="/interior-designers-pune" style="color:#d9a05b; text-decoration:underline;">Interior Design</a>:</strong> We develop the complete design concept, spatial planning, and 3D VR visualizations, ensuring you know exactly what will be built.</li>
+      <li><strong>Comprehensive <a href="/architects-in-pune" style="color:#d9a05b; text-decoration:underline;">Architectural</a> & <a href="/interior-designers-pune" style="color:#d9a05b; text-decoration:underline;">Interior Design</a>:</strong> We develop the complete design concept, spatial planning, and 3D 3D visualizations, ensuring you know exactly what will be built.</li>
       <li><strong>Technical Detailing & Engineering:</strong> We produce all necessary structural, MEP (Mechanical, Electrical, Plumbing), and working drawings required for flawless execution.</li>
       <li><strong>Procurement & Material Sourcing:</strong> We leverage our extensive network of premium vendors to source the highest quality materials, often at better rates than retail, ensuring strict quality control.</li>
       <li><strong>Construction & Site Management:</strong> Our in-house execution team manages all on-site labor, coordinates construction schedules, and enforces rigorous quality standards.</li>
@@ -117,8 +117,8 @@ export const turnkeyArchitecturePuneData: SEOPageData = {
         </ol>
     </div>
 
-<h2>VR Technology Meets Turnkey Execution</h2>
-    <p>What makes our turnkey service truly exceptional is our integration of advanced technology. We begin every project with immersive Virtual Reality (VR) walkthroughs. You experience the space virtually before we build it physically. This ensures that the design is exactly what you want, allowing us to proceed into the turnkey execution phase with absolute certainty and zero ambiguity.</p>
+<h2>3D Technology Meets Turnkey Execution</h2>
+    <p>What makes our turnkey service truly exceptional is our integration of advanced technology. We begin every project with immersive High-Fidelity 3D Renders walkthroughs. You experience the space virtually before we build it physically. This ensures that the design is exactly what you want, allowing us to proceed into the turnkey execution phase with absolute certainty and zero ambiguity.</p>
 
     
 

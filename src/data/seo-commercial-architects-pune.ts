@@ -92,7 +92,7 @@ export const commercialArchitectsPuneData: SEOPageData = {
 
     <h2>Tech-Enabled Commercial Design and Turnkey Delivery</h2>
     <p>Time is money in the commercial sector. Delays in construction mean delayed operations and lost revenue. MIVIZ mitigates these risks through our advanced tech-enabled approach and turnkey delivery model.</p>
-    <p>Unlike traditional <strong>commercial architects in Pune</strong>, we utilize Virtual Reality (VR) to present our designs. Before construction begins, your management team can walk through the proposed office in VR. You can assess sightlines, experience the scale of the boardroom, and verify that the layout supports your operational workflow. This eliminates ambiguity and ensures rapid design approval.</p>
+    <p>Unlike traditional <strong>commercial architects in Pune</strong>, we utilize High-Fidelity 3D Renders to present our designs. Before construction begins, your management team can walk through the proposed office in 3D. You can assess sightlines, experience the scale of the boardroom, and verify that the layout supports your operational workflow. This eliminates ambiguity and ensures rapid design approval.</p>
     <p>Once the design is finalized, our in-house <a href="/turnkey-architecture-pune" style="color:#d9a05b; text-decoration:underline;">turnkey execution</a> team takes over. Having the architects and the construction managers under one roof ensures perfect fidelity to the design, stringent quality control, and rigorous adherence to strict commercial timelines. We manage the entire build-out, delivering a fully functional space ready for immediate occupancy.</p>
 
     

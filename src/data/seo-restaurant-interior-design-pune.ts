@@ -91,7 +91,7 @@ export const restaurantInteriorDesignPuneData: SEOPageData = {
     </ul>
 
     <h2>Tech-Enabled Design for the F&B Sector</h2>
-    <p>Visualizing a restaurant concept from a 2D floor plan is difficult for most restaurateurs. MIVIZ removes the guesswork by employing Virtual Reality (VR) in our design process. Before you invest in construction, we allow you to walk through your restaurant in VR. You can sit at a virtual table, assess the sightlines to the bar, and experience the ambiance of the space. This ensures complete alignment on the vision before turnkey execution begins.</p>
+    <p>Visualizing a restaurant concept from a 2D floor plan is difficult for most restaurateurs. MIVIZ removes the guesswork by employing High-Fidelity 3D Renders in our design process. Before you invest in construction, we allow you to walk through your restaurant in 3D. You can sit at a virtual table, assess the sightlines to the bar, and experience the ambiance of the space. This ensures complete alignment on the vision before turnkey execution begins.</p>
 
     
 

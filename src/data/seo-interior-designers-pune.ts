@@ -4,7 +4,7 @@ export const interiorDesignersPuneData: SEOPageData = {
   slug: 'interior-designers-pune',
   head: {
     title: 'Interior Designers in Pune',
-    description: 'Looking for the best interior designers in Pune? MIVIZ specializes in luxury residential and commercial interior design with turnkey execution and VR walkthroughs.',
+    description: 'Looking for the best interior designers in Pune? MIVIZ specializes in luxury residential and commercial interior design with turnkey execution and 3D design walkthroughs.',
     canonicalUrl: 'https://mivizarchitects.in/interior-designers-pune',
     schema: JSON.stringify([
       {
@@ -52,7 +52,7 @@ export const interiorDesignersPuneData: SEOPageData = {
             "name": "How do your interior designers in Pune approach a new project?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Our interior design approach starts with a deep understanding of your functional needs and aesthetic preferences. We then use 3D modeling and VR to let you visualize the space before we begin our turnkey execution process."
+              "text": "Our interior design approach starts with a deep understanding of your functional needs and aesthetic preferences. We then use 3D modeling and 3D to let you visualize the space before we begin our turnkey execution process."
             }
           },
           {
@@ -85,7 +85,7 @@ export const interiorDesignersPuneData: SEOPageData = {
     <h3>A Tech-Driven Approach to Interior Design</h3>
     <p>One of the primary anxieties clients face when hiring interior designers in Pune is the fear that the final physical result will not match the initial vision or the 3D renders. At MIVIZ, we have entirely eliminated this uncertainty through our technology-first approach.</p>
     <ul>
-      <li><strong>Virtual Reality (VR) Integration:</strong> We don't expect you to make critical decisions based on 2D floor plans or static images. We build your entire interior space in Virtual Reality. Put on the headset, and walk through your new living room or office before a single piece of furniture is ordered. You can see exactly how the lighting interacts with the materials, ensuring total confidence in the design.</li>
+      <li><strong>High-Fidelity 3D Renders Integration:</strong> We don't expect you to make critical decisions based on 2D floor plans or static images. We build your entire interior space in High-Fidelity 3D Renders. review the models, and walk through your new living room or office before a single piece of furniture is ordered. You can see exactly how the lighting interacts with the materials, ensuring total confidence in the design.</li>
       <li><strong>Precision Modeling:</strong> Our interior designers in Pune use advanced BIM (Building Information Modeling) software to ensure that every millimeter is accounted for. This precision prevents on-site errors and allows for perfect integration of HVAC, plumbing, and electrical services without compromising the aesthetics.</li>
     </ul>
 

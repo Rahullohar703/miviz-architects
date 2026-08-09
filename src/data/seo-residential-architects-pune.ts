@@ -60,7 +60,7 @@ export const residentialArchitectsPuneData: SEOPageData = {
             "name": "Can I see the house design before construction begins?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Absolutely. We provide high-fidelity 3D renders and Virtual Reality (VR) walkthroughs so you can experience your new home's scale, lighting, and materials before any physical work starts."
+              "text": "Absolutely. We provide high-fidelity 3D renders and High-Fidelity 3D Renders walkthroughs so you can experience your new home's scale, lighting, and materials before any physical work starts."
             }
           }
         ]
@@ -93,8 +93,8 @@ export const residentialArchitectsPuneData: SEOPageData = {
     <h2>Why We Are the Preferred House Architects in Pune</h2>
     <p>Building a home can be a complex and stressful endeavor, but it doesn't have to be. We have structured our services to completely eliminate the anxiety traditionally associated with residential construction.</p>
 
-    <h3>1. Immersive VR Technology</h3>
-    <p>One of the biggest challenges homeowners face is visualizing the final product from 2D floor plans. As pioneering residential architects in Pune, we utilize advanced Virtual Reality (VR) technology. We don't just show you blueprints; we let you walk through your future home. You can experience the ceiling heights, see how sunlight enters the kitchen at noon, and feel the flow of the spaces long before construction begins. This eliminates expensive rework and ensures you are 100% confident in the design.</p>
+    <h3>1. immersive 3D Technology</h3>
+    <p>One of the biggest challenges homeowners face is visualizing the final product from 2D floor plans. As pioneering residential architects in Pune, we utilize advanced High-Fidelity 3D Renders technology. We don't just show you blueprints; we let you walk through your future home. You can experience the ceiling heights, see how sunlight enters the kitchen at noon, and feel the flow of the spaces long before construction begins. This eliminates expensive rework and ensures you are 100% confident in the design.</p>
 
     <h3>2. End-to-End Turnkey Execution</h3>
     <p>The traditional model of hiring a separate house architect in Pune and a different civil contractor often leads to miscommunication, <a href="/house-construction-cost-pune-2026" style="color:#d9a05b; text-decoration:underline;">budget overruns</a>, and compromised quality. MIVIZ operates on a <a href="/turnkey-architecture-pune" style="color:#d9a05b; text-decoration:underline;">Turnkey Execution</a> model. This means we take single-point responsibility for your entire residential project. Our architectural design team works seamlessly with our in-house construction and execution team. What we design on the screen is exactly what gets built on the ground, down to the last millimeter.</p>
@@ -135,7 +135,7 @@ export const residentialArchitectsPuneData: SEOPageData = {
         </div>
 
 <h2>The Journey of Building Your Home with MIVIZ</h2>
-    <p>When you engage our residential architects in Pune, you are embarking on a structured, transparent journey. We begin with a detailed discovery workshop. Next, our house architects present the initial concept, utilizing 3D models and VR for your review. Once the design is locked in, we move to the rigorous technical detailing phase, creating the working drawings required for flawless execution.</p>
+    <p>When you engage our residential architects in Pune, you are embarking on a structured, transparent journey. We begin with a detailed discovery workshop. Next, our house architects present the initial concept, utilizing 3D models and 3D for your review. Once the design is locked in, we move to the rigorous technical detailing phase, creating the working drawings required for flawless execution.</p>
     <p>Finally, our turnkey execution team takes the helm. Because the architects who designed your home are overseeing the construction, the transition is seamless. We manage the procurement, the labor, the quality control, and the timeline, delivering a meticulously finished home ready for you to move into.</p>
 
     

@@ -239,7 +239,7 @@ export const top10InteriorDesignersInPuneData: SEOPageData = {
     
     <ul>
       <li><strong>Integrated Design & Build:</strong> We are a true Turnkey firm. No third-party carpenters. No excuses.</li>
-      <li><strong>Immersive VR Presentations:</strong> Walk through your future living room in Virtual Reality before you spend a single rupee on materials.</li>
+      <li><strong>Immersive 3D presentations:</strong> Walk through your future living room in High-Fidelity 3D Renders before you spend a single rupee on materials.</li>
       <li><strong>Uncompromising Quality:</strong> We use only premium BWP plywood, imported veneers, and German hardware, ensuring your home lasts for generations.</li>
     </ul>
 

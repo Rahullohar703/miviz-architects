@@ -200,7 +200,7 @@ export const affordableArchitectNearMeData: SEOPageData = {
     <ul>
       <li>[ ] Is your Council of Architecture (COA) registration current?</li>
       <li>[ ] Does your quoted fee include structural engineering and plumbing layouts?</li>
-      <li>[ ] Are 3D renderings and VR walkthroughs included in this price?</li>
+      <li>[ ] Are 3D renderings and 3D design walkthroughs included in this price?</li>
       <li>[ ] Do you provide a detailed, itemized Bill of Quantities (BOQ)?</li>
       <li>[ ] Do you offer Turnkey execution with a fixed-price guarantee?</li>
       <li>[ ] How many physical site visits are included in your fee?</li>

@@ -355,7 +355,7 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
     <h3>Phase 3: The Build (Months 4-12)</h3>
     <ul>
       <li><strong>Construction Execution:</strong> Excavation begins. The foundation is laid, columns are cast, and the slabs are poured.</li>
-      <li><strong>Site Supervision & Quality Control:</strong> A dedicated MIVIZ site engineer is present daily. We use a 50-point checklist before every concrete pour (checking steel tying, cover blocks, and shuttering alignment).</li>
+      <li><strong>Site Supervision & Quality Control:</strong> A dedicated MIVIZ site engineer is present daily. We use a rigorous quality checklist before every concrete pour (checking steel tying, cover blocks, and shuttering alignment).</li>
       <li><strong>MEP (Electrical & Plumbing):</strong> Before plastering, we cut channels into the brickwork for concealed plumbing pipes and electrical conduits.</li>
     </ul>
 

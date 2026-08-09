@@ -57,7 +57,7 @@ export const architectsInPuneData: SEOPageData = {
             "name": "What makes MIVIZ stand out among architects in Pune?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "MIVIZ combines modern design aesthetics with deep functional understanding, offering VR walkthroughs before construction begins and turnkey execution to ensure a seamless experience from concept to completion."
+              "text": "MIVIZ combines modern design aesthetics with deep functional understanding, offering 3D design walkthroughs before construction begins and turnkey execution to ensure a seamless experience from concept to completion."
             }
           },
           {
@@ -90,7 +90,7 @@ export const architectsInPuneData: SEOPageData = {
     <h3>Our Approach to Architecture in Pune</h3>
     <p>What sets us apart from other architects in Pune is our holistic, tech-enabled approach to design and execution. We recognize that the architectural process can often feel overwhelming for clients. To counter this, we have integrated advanced visualization technologies and a turnkey delivery model that guarantees peace of mind.</p>
     <ul>
-      <li><strong>Immersive VR Walkthroughs:</strong> Before a single brick is laid, we invite you to step inside your future space. Our Virtual Reality walkthroughs allow you to experience the scale, lighting, and material finishes of your project, eliminating guesswork and ensuring complete alignment with your vision.</li>
+      <li><strong>detailed 3D design walkthroughs:</strong> Before a single brick is laid, we invite you to step inside your future space. Our High-Fidelity 3D Renders walkthroughs allow you to experience the scale, lighting, and material finishes of your project, eliminating guesswork and ensuring complete alignment with your vision.</li>
       <li><strong><a href="/turnkey-architecture-pune" style="color:#d9a05b; text-decoration:underline;">Turnkey Execution</a>:</strong> As a leading architecture firm in Pune, we don't just hand over blueprints. We take single-point responsibility for the entire lifecycle of the project—from the initial conceptual sketches to the final handover. This seamless integration of design and build prevents the common miscommunications that occur between disparate contractors and designers.</li>
       <li><strong>Context-Driven Design:</strong> Every plot of land in Pune has its own unique characteristics. Our architectural designs are deeply rooted in context, taking advantage of natural light, wind direction, and topography to create sustainable and energy-efficient spaces.</li>
     </ul>
@@ -136,7 +136,7 @@ export const architectsInPuneData: SEOPageData = {
 
 <h2>The MIVIZ Architectural Process</h2>
     <p>Our methodology as an architecture firm in Pune is structured, collaborative, and entirely client-centric. We guide you through a phased process to ensure your project is a resounding success.</p>
-    <p>The journey begins with an in-depth consultation, where we listen to your ideas, analyze the site, and define the project brief. Following this, our design team develops initial concepts, utilizing 3D modeling and VR to help you visualize the proposed architecture. Once the design is refined and approved, we move into the technical detailing phase, producing comprehensive construction drawings, evaluating <a href="/house-construction-cost-pune-2026" style="color:#d9a05b; text-decoration:underline;">house construction cost in Pune</a>, and specifications. Finally, our turnkey execution team takes over, managing the construction process with exacting standards to bring the architectural vision to life perfectly.</p>
+    <p>The journey begins with an in-depth consultation, where we listen to your ideas, analyze the site, and define the project brief. Following this, our design team develops initial concepts, utilizing 3D modeling and 3D to help you visualize the proposed architecture. Once the design is refined and approved, we move into the technical detailing phase, producing comprehensive construction drawings, evaluating <a href="/house-construction-cost-pune-2026" style="color:#d9a05b; text-decoration:underline;">house construction cost in Pune</a>, and specifications. Finally, our turnkey execution team takes over, managing the construction process with exacting standards to bring the architectural vision to life perfectly.</p>
     
     
 

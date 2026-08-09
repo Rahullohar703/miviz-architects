@@ -191,7 +191,7 @@ export const goodArchitectsInPuneData: SEOPageData = {
     <p>At MIVIZ Architects, we don't believe in handing over a stack of blueprints and leaving you to fight with contractors. We believe in taking complete ownership of your dream.</p>
     <p>As one of Pune's premier Architect-Led Turnkey firms, we specialize in high-end residential architecture, luxury villas, and bespoke interiors.</p>
     <ul>
-      <li><strong>Immersive Virtual Reality:</strong> We build your home in VR first. You will put on a headset and walk through your future living room before a single brick is laid.</li>
+      <li><strong>Immersive High-Fidelity 3D Renders:</strong> We build your home in 3D first. You will review the detailed 3D models and walk through your future living room before a single brick is laid.</li>
       <li><strong>In-House Construction Quality:</strong> Our dedicated engineering and construction teams execute our designs flawlessly, ensuring no corners are cut.</li>
       <li><strong>Absolute Transparency:</strong> Our contracts are meticulous. You will know exactly where every rupee of your budget is going.</li>
     </ul>

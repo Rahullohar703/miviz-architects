@@ -168,7 +168,7 @@ export const homeInteriorDesignerPuneData: SEOPageData = {
     <ol>
       <li><strong>Evaluate the Portfolio:</strong> Do not just look at 3D renders. Demand to see actual, physical photos of completed projects. Anyone can buy a beautiful 3D model online; executing it flawlessly is the real test.</li>
       <li><strong>Check Material Knowledge:</strong> Ask them the difference between MR (Moisture Resistant) and BWP (Boiling Water Proof) plywood. If they stumble, they lack technical depth.</li>
-      <li><strong>Request Virtual Reality:</strong> The best firms (like MIVIZ) will put a VR headset on you, allowing you to walk through your future living room to check clearances and sightlines before construction starts.</li>
+      <li><strong>Request High-Fidelity 3D Renders:</strong> The best firms (like MIVIZ) will put a 3D headset on you, allowing you to walk through your future living room to check clearances and sightlines before construction starts.</li>
       <li><strong>Review the Warranty:</strong> A premium interior designer will always offer a warranty on hardware (hinges, channels) and modular woodwork.</li>
     </ol>
 
@@ -189,7 +189,7 @@ export const homeInteriorDesignerPuneData: SEOPageData = {
     
     <ul>
       <li><strong>Integrated Design & Build:</strong> We are a true Turnkey firm. No third-party carpenters. No excuses.</li>
-      <li><strong>Immersive VR Presentations:</strong> See, feel, and walk through your home before you spend a single rupee on materials.</li>
+      <li><strong>Immersive 3D presentations:</strong> See, feel, and walk through your home before you spend a single rupee on materials.</li>
       <li><strong>Uncompromising Quality:</strong> We use only premium BWP plywood, imported veneers, and German hardware, ensuring your home lasts for generations.</li>
     </ul>
     <p><strong>See our capabilities:</strong> <a href="/interior-design-pune">Explore our Interior Design Portfolio.</a></p>
@@ -218,7 +218,7 @@ export const homeInteriorDesignerPuneData: SEOPageData = {
 
     <div style="background: #fdfbf7; border: 1px solid #d9a05b; padding: 30px; text-align: center; margin-top: 40px; border-radius: 8px;">
       <h3 style="margin-top:0; color: #d9a05b; font-size: 1.5em;">Transform Your Bare Shell into a Masterpiece</h3>
-      <p style="margin-bottom: 20px;">Don't leave your luxury home to chance. Partner with MIVIZ Architects for flawless architectural interior design, immersive VR planning, and stress-free Turnkey execution.</p>
+      <p style="margin-bottom: 20px;">Don't leave your luxury home to chance. Partner with MIVIZ Architects for flawless architectural interior design, immersive 3D planning, and stress-free Turnkey execution.</p>
       <a href="/contact" style="display: inline-block; background: #d9a05b; color: #111; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; text-transform: uppercase;">Book Your Free Design Consultation</a>
     </div>
 `

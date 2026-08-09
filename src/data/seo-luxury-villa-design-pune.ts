@@ -52,7 +52,7 @@ export const luxuryVillaDesignPuneData: SEOPageData = {
             "name": "What makes your luxury villa design in Pune unique?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Our luxury villa design in Pune is characterized by bespoke architectural detailing, a seamless blend of indoor and outdoor living spaces, and our immersive VR presentation that lets you experience the villa before construction begins."
+              "text": "Our luxury villa design in Pune is characterized by bespoke architectural detailing, a seamless blend of indoor and outdoor living spaces, and our immersive 3D presentation that lets you experience the villa before construction begins."
             }
           },
           {
@@ -92,7 +92,7 @@ export const luxuryVillaDesignPuneData: SEOPageData = {
 
     <h2>Experiencing Your Villa Before It Exists</h2>
     <p>When investing in a luxury villa, surprises during construction are unacceptable. Our clients demand absolute certainty, and we provide it through our cutting-edge visualization technology.</p>
-    <p>As pioneers in tech-enabled <strong>luxury villa design in Pune</strong>, MIVIZ utilizes advanced Virtual Reality (VR). We build a complete 1:1 scale digital twin of your proposed villa. Long before the foundation is excavated, you can put on a VR headset and walk through the grand entrance, stand on the master bedroom balcony, and look out over your future garden. This immersive experience allows you to make confident decisions about spatial flow, window placements, and material finishes, ensuring the final build is exactly what you envisioned.</p>
+    <p>As pioneers in tech-enabled <strong>luxury villa design in Pune</strong>, MIVIZ utilizes advanced High-Fidelity 3D Renders. We build a complete 1:1 scale digital twin of your proposed villa. Long before the foundation is excavated, you can review the detailed 3D models and walk through the grand entrance, stand on the master bedroom balcony, and look out over your future garden. This immersive experience allows you to make confident decisions about spatial flow, window placements, and material finishes, ensuring the final build is exactly what you envisioned.</p>
 
     
 

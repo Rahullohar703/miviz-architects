@@ -88,7 +88,7 @@ export const bestArchitectNearMeData: SEOPageData = {
       <li><strong>Local Topographical Knowledge:</strong> Pune's terrain varies from the rocky hills of Baner to the softer soils near the Mula-Mutha river. The best architect knows exactly what kind of foundation your specific plot needs.</li>
       <li><strong>Municipal Expertise:</strong> Designing a beautiful house is useless if the PMC (Pune Municipal Corporation) rejects the plan. Top architects know the local FSI (Floor Space Index) and marginal distance rules flawlessly.</li>
       <li><strong>Multi-Disciplinary Team:</strong> They do not work alone. They have in-house structural engineers, MEP (Mechanical, Electrical, Plumbing) consultants, and interior designers.</li>
-      <li><strong>Technological Fluency:</strong> They design using advanced BIM (Building Information Modeling) and offer Virtual Reality (VR) walkthroughs so you can see your home before it is built.</li>
+      <li><strong>Technological Fluency:</strong> They design using advanced BIM (Building Information Modeling) and offer High-Fidelity 3D Renders walkthroughs so you can see your home before it is built.</li>
     </ul>
 
     <h2>The Risk of Hiring the "Wrong" Architect</h2>
@@ -185,7 +185,7 @@ export const bestArchitectNearMeData: SEOPageData = {
       <li>[ ] Do you provide an itemized BOQ before construction starts?</li>
       <li>[ ] Do you offer Turnkey execution, or will I have to find my own civil contractor?</li>
       <li>[ ] Are MEP (Mechanical, Electrical, Plumbing) designs included in your fee?</li>
-      <li>[ ] Can you show me your portfolio in Virtual Reality?</li>
+      <li>[ ] Can you show me your portfolio in High-Fidelity 3D Renders?</li>
     </ul>
 
     <h2>Why MIVIZ is the Best Architect Near You in Pune</h2>

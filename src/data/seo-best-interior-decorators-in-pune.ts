@@ -97,8 +97,8 @@ export const bestInteriorDecoratorsInPuneData: SEOPageData = {
     <h3>2. Bespoke Modular Manufacturing</h3>
     <p>The best interior firms do not send carpenters to your house with handsaws. They use 3D software to design your wardrobes and kitchens, and then manufacture them using high-precision CNC machines in a factory. The pieces are simply assembled at your home, ensuring a flawless, scratch-free finish.</p>
 
-    <h3>3. Immersive Virtual Reality (VR)</h3>
-    <p>Elite firms use advanced VR. Before you spend a single rupee on materials, you will put on a headset and walk through your future living room. You will know exactly how the Italian marble looks against the walnut veneer before it is even purchased.</p>
+    <h3>3. Immersive High-Fidelity 3D Renders</h3>
+    <p>Elite firms use advanced 3D. Before you spend a single rupee on materials, you will review the detailed 3D models and walk through your future living room. You will know exactly how the Italian marble looks against the walnut veneer before it is even purchased.</p>
 
     
 
@@ -205,7 +205,7 @@ export const bestInteriorDecoratorsInPuneData: SEOPageData = {
       <p>Yes. A premium Turnkey interior firm will source, customize, and procure loose furniture (sofas, dining tables, accent chairs) so that the fabrics perfectly match the fixed woodwork.</p>
       
       <strong>How long does a luxury interior project take?</strong>
-      <p>By utilizing factory-finished modular manufacturing, MIVIZ Architects can typically execute a premium 3BHK interior in 45 to 60 days post-design approval. Custom luxury villas take slightly longer based on scale.</p>
+      <p>By utilizing factory-finished modular manufacturing, MIVIZ Architects can typically execute a premium 3BHK interior within a strict timeline post-design approval. Custom luxury villas take slightly longer based on scale.</p>
     </div>
 
     <div style="background: #fdfbf7; border: 1px solid #d9a05b; padding: 30px; text-align: center; margin-top: 40px; border-radius: 8px;">
