@@ -68,7 +68,7 @@ export const architectsInBavdhanData: SEOPageData = {
   },
   hero: {
     title: 'Architects in Bavdhan, Pune',
-    subtitle: 'Bespoke architectural design and complete turnkey execution for luxury villas on Pune\\'s most scenic residential slopes.',
+    subtitle: "Bespoke architectural design and complete turnkey execution for luxury villas on Pune's most scenic residential slopes.",
     ctaText: 'Book a Plot Consultation'
   },
   content: `
