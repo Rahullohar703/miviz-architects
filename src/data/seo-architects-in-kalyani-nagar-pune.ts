@@ -147,7 +147,7 @@ export const architectsInKalyaniNagarData: SEOPageData = {
     <h2>Expert Architect Tips for Luxury Homes</h2>
     <div style="background: #f4f6f8; border-left: 4px solid #3b82f6; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0;">
         <h4 style="margin-top: 0; color: #1e3a8a;">🌍 Pro Tip for NRIs Building in Pune</h4>
-        <p style="margin-bottom: 0;">If you are an NRI managing your Kalyani Nagar build from the US, UK, or UAE, demand a firm that uses Cloud-Based Project Management. At MIVIZ, we provide our clients with a dedicated app for daily site photos, live budget tracking, and remote material selection approvals.</p>
+        <p style="margin-bottom: 0;">If you are an NRI managing your Kalyani Nagar build from the US, UK, or UAE, demand a firm that offers complete Turnkey Execution. At MIVIZ, we serve as your single point of contact on the ground, providing weekly video updates, transparent billing, and remote material selection over video calls.</p>
     </div>
     
     <p><strong>Double-Height Volumes:</strong> To make a bungalow feel grand, incorporate double-height living areas with skylights. It dramatically improves natural light and cross-ventilation.</p>
