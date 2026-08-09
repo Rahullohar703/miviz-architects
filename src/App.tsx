@@ -45,6 +45,7 @@ const ArchitectsInKoregaonParkPunePage = React.lazy(() => import("./pages/seo/Ar
 const ArchitectsInKalyaniNagarPunePage = React.lazy(() => import("./pages/seo/ArchitectsInKalyaniNagarPunePage"));
 const ArchitectsInAundhPunePage = React.lazy(() => import("./pages/seo/ArchitectsInAundhPunePage"));
 const ArchitectsInBoatClubRoadPunePage = React.lazy(() => import("./pages/seo/ArchitectsInBoatClubRoadPunePage"));
+const ArchitectsInPashanPunePage = React.lazy(() => import("./pages/seo/ArchitectsInPashanPunePage"));
 const ArchitectsInBavdhanPunePage = React.lazy(() => import("./pages/seo/ArchitectsInBavdhanPunePage"));
 
 
@@ -118,6 +119,7 @@ const AnimatedRoutes = () => {
           <Route path="/architects-in-bavdhan-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ArchitectsInBavdhanPunePage /></Suspense>} />
           <Route path="/architects-in-aundh-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ArchitectsInAundhPunePage /></Suspense>} />
           <Route path="/architects-in-boat-club-road-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ArchitectsInBoatClubRoadPunePage /></Suspense>} />
+          <Route path="/architects-in-pashan-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ArchitectsInPashanPunePage /></Suspense>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
