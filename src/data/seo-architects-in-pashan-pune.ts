@@ -73,7 +73,7 @@ export const architectsInPashanData: SEOPageData = {
   },
   content: `
     <div style="text-align: center; margin: 30px 0;">
-        <img src="/images/modern_villa_exterior_1786268542687.png" alt="Luxury modern villa in Pashan designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <img src="/images/pashan_hillside_bungalow_1786296883888.png" alt="Luxury modern villa in Pashan designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
         <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Scenic Elevation: Custom-designed modern bungalow capturing the essence of Pashan's natural beauty.</em></p>
     </div>
 

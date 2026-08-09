@@ -73,7 +73,7 @@ export const interiorDesignersInBanerData: SEOPageData = {
   },
   content: `
     <div style="text-align: center; margin: 30px 0;">
-        <img src="/images/modern_home_office_1786269048987.png" alt="High-tech luxury home office interior in Baner designed by top interior designers in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <img src="/images/baner_minimalist_living_1786296940210.png" alt="High-tech luxury home office interior in Baner designed by top interior designers in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
         <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Modern Ergonomics: A bespoke home office designed for an IT executive residing in Baner.</em></p>
     </div>
 

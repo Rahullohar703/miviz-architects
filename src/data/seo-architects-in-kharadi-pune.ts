@@ -73,7 +73,7 @@ export const architectsInKharadiData: SEOPageData = {
   },
   content: `
     <div style="text-align: center; margin: 30px 0;">
-        <img src="/images/modern_villa_exterior_1786268542687.png" alt="Ultra-luxury modern villa in Kharadi designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <img src="/images/kharadi_tech_home_office_1786296913776.png" alt="Ultra-luxury modern villa in Kharadi designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
         <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Modern Elevation: A tech-enabled luxury villa custom-designed for Kharadi's urban landscape.</em></p>
     </div>
 

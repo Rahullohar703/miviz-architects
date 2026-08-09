@@ -73,7 +73,7 @@ export const interiorDesignersInKoregaonParkData: SEOPageData = {
   },
   content: `
     <div style="text-align: center; margin: 30px 0;">
-        <img src="/images/luxury_modern_bathroom_1786268994970.png" alt="Ultra-luxury bathroom interior in Koregaon Park designed by top interior designers in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <img src="/images/koregaon_park_luxury_1786296925894.png" alt="Ultra-luxury bathroom interior in Koregaon Park designed by top interior designers in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
         <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Bespoke Styling: Seamless integration of premium marble and high-end bath fittings for a Koregaon Park penthouse.</em></p>
     </div>
 

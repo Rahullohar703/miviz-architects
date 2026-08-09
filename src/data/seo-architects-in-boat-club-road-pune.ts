@@ -73,7 +73,7 @@ export const architectsInBoatClubRoadData: SEOPageData = {
   },
   content: `
     <div style="text-align: center; margin: 30px 0;">
-        <img src="/images/modern_villa_exterior_1786268542687.png" alt="Ultra-luxury bungalow on Boat Club Road designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <img src="/images/boat_club_road_villa_1786296867822.png" alt="Ultra-luxury bungalow on Boat Club Road designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
         <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Bespoke Elevation: A modern ultra-luxury residence befitting Boat Club Road's legacy.</em></p>
     </div>
 

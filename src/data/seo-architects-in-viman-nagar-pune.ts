@@ -73,7 +73,7 @@ export const architectsInVimanNagarData: SEOPageData = {
   },
   content: `
     <div style="text-align: center; margin: 30px 0;">
-        <img src="/images/minimalist_living_room_1786268570473.png" alt="Ultra-luxury living room interior in Viman Nagar designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <img src="/images/viman_nagar_penthouse_1786296898332.png" alt="Ultra-luxury living room interior in Viman Nagar designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
         <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Bespoke Interiors: Custom-designed luxury apartment capturing the essence of Viman Nagar's cosmopolitan lifestyle.</em></p>
     </div>
 
