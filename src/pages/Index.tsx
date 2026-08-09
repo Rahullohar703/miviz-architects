@@ -13,6 +13,7 @@ import Footer from '@/components/Footer';
 const Index = () => {
   return (
     <main className="min-h-screen bg-background">
+      <h1 className="sr-only">MIVIZ Architects: Premium Architecture and Interior Design Firm in Pune</h1>
       <Header />
       <Hero />
       <Essence />
