@@ -74,7 +74,7 @@ export const luxuryVillaDesignPuneData: SEOPageData = {
   },
   content: `
 <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/architect_client_meeting_1786199129803.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <img src="/images/cozy_contemporary_bedroom_1786269022779.png" alt="Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: Modern residential architecture in Pune, showcasing contemporary facade design and sustainable materials.</em></p>
         </div>
 
@@ -114,7 +114,7 @@ export const luxuryVillaDesignPuneData: SEOPageData = {
     
 
 <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/award_winning_architecture_1786199253133.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <img src="/images/elegant_dining_room_1786269008797.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
         </div>
 

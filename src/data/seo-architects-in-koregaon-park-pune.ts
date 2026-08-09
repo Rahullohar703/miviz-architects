@@ -73,7 +73,7 @@ export const architectsInKoregaonParkData: SEOPageData = {
   },
   content: `
     <div style="text-align: center; margin: 30px 0;">
-        <img src="/images/premium_villa_pune_1786199143803.png" alt="Ultra-luxury modern villa in Koregaon Park designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <img src="/images/modern_home_office_1786269048987.png" alt="Ultra-luxury modern villa in Koregaon Park designed by top architects in Pune." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
         <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Bespoke Design: Ultra-luxury modern villa concept for a prime plot in Koregaon Park, Pune.</em></p>
     </div>
 
@@ -193,7 +193,7 @@ export const architectsInKoregaonParkData: SEOPageData = {
     <p>Architectural fees for such highly detailed, bespoke projects generally range from 8% to 12% of the total project cost. At MIVIZ, we believe in absolute transparency. We provide a detailed Bill of Quantities (BOQ) before construction begins, ensuring there are zero hidden surprises.</p>
 
     <div style="text-align: center; margin: 30px 0;">
-        <img src="/images/architect_client_meeting_1786199129803.png" alt="Architects in Pune discussing luxury villa blueprints with a client." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+        <img src="/images/modern_kitchen_island_1786269079744.png" alt="Architects in Pune discussing luxury villa blueprints with a client." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
         <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Collaborative Process: Transparent material selection and budget discussions at the MIVIZ design studio.</em></p>
     </div>
 

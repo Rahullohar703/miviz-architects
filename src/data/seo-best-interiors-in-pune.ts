@@ -75,7 +75,7 @@ export const bestInteriorsInPuneData: SEOPageData = {
     
 
 <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/perfect_planning_home_1786199083695.png" alt="High-end luxury interior design executed by top interior designers in Pune, featuring modern aesthetics and premium lighting." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <img src="/images/elegant_dining_room_1786269008797.png" alt="High-end luxury interior design executed by top interior designers in Pune, featuring modern aesthetics and premium lighting." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Visual Inspiration: High-end luxury interior design executed by top interior designers in Pune, featuring modern aesthetics and premium lighting.</em></p>
         </div>
 
@@ -151,7 +151,7 @@ export const bestInteriorsInPuneData: SEOPageData = {
     
 
 <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/premium_villa_pune_1786199143803.png" alt="Turnkey interior design execution process in Pune from 3D concept to flawless factory finish." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <img src="/images/house_construction_site_1786199173816.png" alt="Turnkey interior design execution process in Pune from 3D concept to flawless factory finish." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Turnkey interior design execution process in Pune from 3D concept to flawless factory finish.</em></p>
         </div>
 
