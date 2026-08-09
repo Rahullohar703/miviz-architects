@@ -199,7 +199,7 @@ export const architectsInKoregaonParkData: SEOPageData = {
 
     <h2>Why NRIs Trust MIVIZ Architects</h2>
     <p>A significant portion of property owners in Koregaon Park are Non-Resident Indians (NRIs) who require a reliable partner on the ground in Pune. Managing a multi-crore project from thousands of miles away can be incredibly stressful.</p>
-    <p>MIVIZ is the preferred choice for NRIs because of our highly tech-driven approach. We provide immersive VR design approvals over video calls, weekly video progress updates, and a dedicated project manager who serves as your single point of contact. We take total ownership of the site, allowing you to build your dream home in Pune seamlessly from anywhere in the world.</p>
+    <p>MIVIZ is the preferred choice for NRIs because we provide complete Turnkey execution. We offer 3D design approvals, regular progress updates, and a dedicated project manager who serves as your single point of contact. We take total ownership of the site, allowing you to build your dream home in Pune seamlessly from anywhere in the world.</p>
 
     <div style="background: #fdfbf7; border: 2px solid #d9a05b; padding: 25px; border-radius: 12px; margin: 40px 0; box-shadow: 0 4px 15px rgba(217,160,91,0.1);">
         <h3 style="color: #b8860b; margin-top: 0; font-size: 1.4em;">🏛️ Featured Case Study: The Courtyard House in Lane 5, KP</h3>

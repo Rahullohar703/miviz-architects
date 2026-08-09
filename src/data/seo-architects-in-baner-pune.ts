@@ -261,7 +261,7 @@ export const architectsInBanerPuneData: SEOPageData = {
 
     <ul>
       <li><strong>Hire a Single Turnkey Firm:</strong> Do not try to coordinate between an architect, an interior designer, and a civil contractor from a different timezone. Hire one unified design-and-build firm.</li>
-      <li><strong>Demand Digital Transparency:</strong> Ensure your architect uses modern project management tools. You should receive weekly video walk-throughs, drone footage, and digital progress reports.</li>
+      <li><strong>Demand Complete Transparency:</strong> Ensure your architect provides regular on-site updates and clear communication so you know exactly what is happening at every stage of construction.</li>
       <li><strong>Pre-Select Materials:</strong> Spend a week in Pune finalizing all hard materials (tiles, marble, bathroom fittings) before you fly back. This prevents delays later.</li>
       <li><strong>Clear Payment Milestones:</strong> Tie your payments strictly to physical construction milestones (e.g., Plinth completion, 1st Slab casting) rather than arbitrary calendar dates.</li>
     </ul>
