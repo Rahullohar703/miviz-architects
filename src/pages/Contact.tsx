@@ -34,7 +34,7 @@ const Contact = () => {
           </h1>
           
           {/* Google Form Embed */}
-          <div className="max-w-3xl mx-auto w-full overflow-hidden rounded-lg shadow-sm border border-border/50 pb-24 md:pb-0" style={{ height: '750px' }}>
+          <div className="max-w-3xl mx-auto w-full overflow-hidden rounded-lg shadow-sm border border-border/50 pb-40 md:pb-0" style={{ height: '800px' }}>
             <iframe
               src="https://docs.google.com/forms/d/e/1FAIpQLSegWQ4xHTVS9L_Z41XHO-xaydkIrEzjD4MBgZyMVcJlJFdKiQ/viewform?embedded=true"
               className="w-full h-full bg-white border-0"
