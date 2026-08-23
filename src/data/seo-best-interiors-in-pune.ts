@@ -13,7 +13,7 @@ export const bestInteriorsInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/best-interiors-in-pune/#article",
         "headline": "The Best Interiors in Pune (2026): A Guide to Luxury Home Execution",
         "description": "A deep dive into what defines the best interiors in Pune, covering premium material selection, 2026 design trends, and the necessity of turnkey architectural execution.",
-        "image": "https://mivizarchitects.in/images/best-interiors-in-pune-hero.jpg",
+        "image": "https://mivizarchitects.in/images/luxury_villa_facade_1787470154268.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

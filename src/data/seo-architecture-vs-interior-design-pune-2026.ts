@@ -13,7 +13,7 @@ export const architectureVsInteriorDesignPune2026Data: SEOPageData = {
         "@id": "https://mivizarchitects.in/architecture-vs-interior-design-pune-2026/#article",
         "headline": "Architecture vs Interior Design: Do You Need Both When Building a Home in Pune? (2026 Guide)",
         "description": "In-depth guide comparing roles, fees, municipal permissions, and benefits of integrated architecture and interior design services in Pune.",
-        "image": "https://mivizarchitects.in/images/architecture-vs-interior-design-pune.jpg",
+        "image": "https://mivizarchitects.in/images/patio_design_1787470502889.png",
         "author": {
           "@type": "Person",
           "name": "Rahul",

@@ -13,7 +13,7 @@ export const turnkeyVsTraditionalConstructionPune2026Data: SEOPageData = {
         "@id": "https://mivizarchitects.in/turnkey-vs-traditional-construction-pune-2026/#article",
         "headline": "Turnkey Construction vs Traditional Construction: Which is Better for Building a Home in Pune? (2026 Complete Guide)",
         "description": "Comprehensive comparison between Turnkey and Traditional construction in Pune covering costs, PMC/PCMC approvals, timelines, and expert recommendations.",
-        "image": "https://mivizarchitects.in/images/turnkey-vs-traditional-pune-guide.jpg",
+        "image": "https://mivizarchitects.in/images/eco_friendly_home_1787470211596.png",
         "author": {
           "@type": "Person",
           "name": "Rahul",

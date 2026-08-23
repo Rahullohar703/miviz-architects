@@ -13,7 +13,7 @@ export const topInteriorDesignersInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/top-interior-designers-in-pune/#article",
         "headline": "Top Interior Designers in Pune (2026): How to Hire Elite Talent",
         "description": "An essential guide to identifying and hiring the top interior designers in Pune for luxury residential projects, featuring cost analysis and turnkey benefits.",
-        "image": "https://mivizarchitects.in/images/top-interior-designers-pune.jpg",
+        "image": "https://mivizarchitects.in/images/luxury_villa_facade_1787470154268.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

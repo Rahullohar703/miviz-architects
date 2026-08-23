@@ -13,7 +13,7 @@ export const affordableArchitectNearMeData: SEOPageData = {
         "@id": "https://mivizarchitects.in/affordable-architect-near-me/#article",
         "headline": "Affordable Architect Near Me in Pune (2026): The Ultimate Budget Guide",
         "description": "Learn the true cost of hiring an architect in Pune, how to avoid cheap contractor scams, and why turnkey design actually saves you money.",
-        "image": "https://mivizarchitects.in/images/affordable-architect-near-me-hero.jpg",
+        "image": "https://mivizarchitects.in/images/modern_office_interior_1787470169869.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

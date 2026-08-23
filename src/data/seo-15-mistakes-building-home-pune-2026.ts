@@ -13,7 +13,7 @@ export const mistakesBuildingHomePune2026Data: SEOPageData = {
         "@id": "https://mivizarchitects.in/15-mistakes-building-home-pune-2026/#article",
         "headline": "15 Mistakes to Avoid Before Building Your Dream Home in Pune (2026 Guide)",
         "description": "Comprehensive guide covering the 15 most common house construction mistakes in Pune including soil testing, PMC rules, budgeting, and contractor management.",
-        "image": "https://mivizarchitects.in/images/home-construction-mistakes-pune.jpg",
+        "image": "https://mivizarchitects.in/images/luxury_villa_facade_1787470154268.png",
         "author": {
           "@type": "Person",
           "name": "Rahul",

@@ -13,7 +13,7 @@ export const homeConstructionTimelinePune2026Data: SEOPageData = {
         "@id": "https://mivizarchitects.in/home-construction-timeline-pune-2026/#article",
         "headline": "Complete Home Construction Timeline: From Plot to Possession in Pune (2026)",
         "description": "Comprehensive month-by-month architectural guide on home construction stages, municipal approvals, RCC framing, and interior finishing in Pune.",
-        "image": "https://mivizarchitects.in/images/home-construction-timeline-pune.jpg",
+        "image": "https://mivizarchitects.in/images/eco_friendly_home_1787470211596.png",
         "author": {
           "@type": "Person",
           "name": "Rahul",

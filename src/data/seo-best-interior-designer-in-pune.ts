@@ -13,7 +13,7 @@ export const bestInteriorDesignerInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/best-interior-designer-in-pune/#article",
         "headline": "How to Hire the Best Interior Designer in Pune (2026 Guide)",
         "description": "An authoritative guide to identifying the single best interior designer in Pune for your luxury residential project, focusing on Turnkey Architecture and factory-finished execution.",
-        "image": "https://mivizarchitects.in/images/best-interior-designer-pune-hero.jpg",
+        "image": "https://mivizarchitects.in/images/interior_decor_1787470569759.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

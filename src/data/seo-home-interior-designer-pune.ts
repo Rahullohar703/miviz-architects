@@ -13,7 +13,7 @@ export const homeInteriorDesignerPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/home-interior-designer-pune/#article",
         "headline": "Home Interior Designer in Pune (2026): The Ultimate Hiring Guide",
         "description": "A comprehensive guide to hiring a home interior designer in Pune, including cost breakdowns, the difference between decorators and architects, and how to avoid contractor scams.",
-        "image": "https://mivizarchitects.in/images/home-interior-designer-pune-hero.jpg",
+        "image": "https://mivizarchitects.in/images/modern_kitchen_1787470474863.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

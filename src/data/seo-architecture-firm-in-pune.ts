@@ -13,7 +13,7 @@ export const architectureFirmInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/architecture-firm-in-pune/#article",
         "headline": "Architecture Firm in Pune (2026): The Ultimate Guide to Hiring",
         "description": "Learn what to look for in a top-tier architecture firm in Pune, how much they charge, and why turnkey firms offer the best value for luxury homeowners.",
-        "image": "https://mivizarchitects.in/images/architecture-firm-pune-hero.jpg",
+        "image": "https://mivizarchitects.in/images/luxury_bathroom_1787470489994.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

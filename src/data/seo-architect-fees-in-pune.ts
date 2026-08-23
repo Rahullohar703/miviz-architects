@@ -13,7 +13,7 @@ export const architectFeesInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/architect-fees-in-pune/#article",
         "headline": "Architect Fees in Pune 2026: Cost per Sq Ft, Percentage & Hidden Charges",
         "description": "Discover the exact 2026 architect fees in Pune, including per sq. ft. rates, percentage models, PMC approval charges, and hidden costs to avoid.",
-        "image": "https://mivizarchitects.in/images/baner-villa-case-study.jpg",
+        "image": "https://mivizarchitects.in/images/eco_friendly_home_1787470211596.png",
         "author": {
           "@type": "Person",
           "name": "Rahul",

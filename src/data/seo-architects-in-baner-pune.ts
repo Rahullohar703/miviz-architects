@@ -13,7 +13,7 @@ export const architectsInBanerPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/architects-in-baner-pune/#article",
         "headline": "Best Architects in Baner, Pune: Complete Guide to Building Your Dream Home",
         "description": "Looking for the best architects in Baner, Pune? Discover expert tips, architect fees, and the complete step-by-step guide to building your luxury dream home.",
-        "image": "https://mivizarchitects.in/images/modern-luxury-villa-design-baner-pune.jpg",
+        "image": "https://mivizarchitects.in/images/modern_kitchen_1787470474863.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

@@ -13,7 +13,7 @@ export const bestArchitectNearMeData: SEOPageData = {
         "@id": "https://mivizarchitects.in/best-architect-near-me/#article",
         "headline": "Best Architect Near Me in Pune (2026): The Ultimate Guide to Hiring Top Talent",
         "description": "Discover how to identify, vet, and hire the best architect near you in Pune for your luxury residential project.",
-        "image": "https://mivizarchitects.in/images/best-architect-near-me-hero.jpg",
+        "image": "https://mivizarchitects.in/images/wada_architecture_1787470531836.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

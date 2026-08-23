@@ -13,7 +13,7 @@ export const top10InteriorDesignersInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/top-10-interior-designers-in-pune/#article",
         "headline": "The Top 10 Interior Designers in Pune (2026 Rankings)",
         "description": "An expert evaluation of the top 10 interior designers in Pune, focusing on premium residential execution, turnkey capabilities, and architectural integration.",
-        "image": "https://mivizarchitects.in/images/top-10-interior-designers-pune-hero.jpg",
+        "image": "https://mivizarchitects.in/images/interior_decor_1787470569759.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

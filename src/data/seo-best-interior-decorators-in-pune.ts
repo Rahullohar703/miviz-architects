@@ -13,7 +13,7 @@ export const bestInteriorDecoratorsInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/best-interior-decorators-in-pune/#article",
         "headline": "Best Interior Decorators in Pune (2026): A Complete Hiring Guide",
         "description": "Discover how to hire the best interior decorators in Pune, why luxury homes actually require interior architects, and average turnkey costs for 2026.",
-        "image": "https://mivizarchitects.in/images/best-interior-decorators-pune-hero.jpg",
+        "image": "https://mivizarchitects.in/images/small_plot_house_1787470555805.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",
