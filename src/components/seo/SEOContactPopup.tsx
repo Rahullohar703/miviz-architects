@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import {
   Dialog,
   DialogContent,
@@ -9,23 +9,34 @@ import {
 
 const SEOContactPopup = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const timerRef = useRef<NodeJS.Timeout | null>(null);
 
+  // Initial 10-second timer on mount
   useEffect(() => {
-    // Check if the user has already seen the popup in this session
-    const hasSeenPopup = sessionStorage.getItem('hasSeenContactPopup');
+    timerRef.current = setTimeout(() => {
+      setIsOpen(true);
+    }, 10000); // 10 seconds
 
-    if (!hasSeenPopup) {
-      const timer = setTimeout(() => {
-        setIsOpen(true);
-        sessionStorage.setItem('hasSeenContactPopup', 'true');
-      }, 10000); // 10 seconds
-
-      return () => clearTimeout(timer);
-    }
+    return () => {
+      if (timerRef.current) clearTimeout(timerRef.current);
+    };
   }, []);
 
+  const handleOpenChange = (open: boolean) => {
+    setIsOpen(open);
+
+    if (!open) {
+      // If the user closes the popup, set a new timer to reopen it after 35 seconds
+      if (timerRef.current) clearTimeout(timerRef.current);
+      
+      timerRef.current = setTimeout(() => {
+        setIsOpen(true);
+      }, 35000); // 35 seconds
+    }
+  };
+
   return (
-    <Dialog open={isOpen} onOpenChange={setIsOpen}>
+    <Dialog open={isOpen} onOpenChange={handleOpenChange}>
       <DialogContent className="sm:max-w-xl p-0 overflow-hidden border-border/50 bg-background/95 backdrop-blur-md">
         <div className="p-6 md:p-8 bg-black/40">
           <DialogHeader className="mb-6 text-center sm:text-center">
