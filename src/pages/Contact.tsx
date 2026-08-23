@@ -27,7 +27,7 @@ const Contact = () => {
       </header>
 
       {/* Main Content */}
-      <main className="py-3 md:py-4">
+      <main className="py-3 md:py-4 pb-32 md:pb-12">
         <div className="container-luxury">
           <h1 className="font-cormorant text-3xl md:text-4xl lg:text-5xl text-champagne font-medium text-center mb-4">
             Contact Us
