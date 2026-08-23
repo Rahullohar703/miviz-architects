@@ -20,17 +20,15 @@ const SEOContactForm = () => {
           </p>
           
           {/* Google Form Embed */}
-          <div className="max-w-3xl mx-auto overflow-auto -webkit-overflow-scrolling-touch" style={{ WebkitOverflowScrolling: 'touch' }}>
-            <div className="relative w-full" style={{ paddingBottom: '200%' }}>
-              <iframe
-                src="https://docs.google.com/forms/d/e/1FAIpQLSegWQ4xHTVS9L_Z41XHO-xaydkIrEzjD4MBgZyMVcJlJFdKiQ/viewform?embedded=true"
-                className="absolute inset-0 w-full h-full rounded-lg border border-border/50 bg-white"
-                title="Contact Form"
-                allowFullScreen
-              >
-                Loading…
-              </iframe>
-            </div>
+          <div className="max-w-3xl mx-auto w-full">
+            <iframe
+              src="https://docs.google.com/forms/d/e/1FAIpQLSegWQ4xHTVS9L_Z41XHO-xaydkIrEzjD4MBgZyMVcJlJFdKiQ/viewform?embedded=true"
+              className="w-full h-[900px] rounded-lg border border-border/50 bg-white"
+              title="Contact Form"
+              allowFullScreen
+            >
+              Loading…
+            </iframe>
           </div>
         </motion.div>
       </div>
