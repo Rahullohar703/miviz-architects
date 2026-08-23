@@ -23,7 +23,7 @@ const SEOContactForm = () => {
           <div className="max-w-3xl mx-auto w-full">
             <iframe
               src="https://docs.google.com/forms/d/e/1FAIpQLSegWQ4xHTVS9L_Z41XHO-xaydkIrEzjD4MBgZyMVcJlJFdKiQ/viewform?embedded=true"
-              className="w-full h-[900px] rounded-lg border border-border/50 bg-white"
+              className="w-full h-[1300px] md:h-[900px] rounded-lg border border-border/50 bg-white"
               title="Contact Form"
               allowFullScreen
             >
