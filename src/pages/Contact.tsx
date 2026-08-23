@@ -27,14 +27,14 @@ const Contact = () => {
       </header>
 
       {/* Main Content */}
-      <main className="py-3 md:py-4 pb-32 md:pb-12">
+      <main className="py-3 md:py-4">
         <div className="container-luxury">
           <h1 className="font-cormorant text-3xl md:text-4xl lg:text-5xl text-champagne font-medium text-center mb-4">
             Contact Us
           </h1>
           
           {/* Google Form Embed */}
-          <div className="max-w-3xl mx-auto w-full overflow-hidden rounded-lg shadow-sm border border-border/50" style={{ height: '700px' }}>
+          <div className="max-w-3xl mx-auto w-full overflow-hidden rounded-lg shadow-sm border border-border/50 pb-24 md:pb-0" style={{ height: '750px' }}>
             <iframe
               src="https://docs.google.com/forms/d/e/1FAIpQLSegWQ4xHTVS9L_Z41XHO-xaydkIrEzjD4MBgZyMVcJlJFdKiQ/viewform?embedded=true"
               className="w-full h-full bg-white border-0"
