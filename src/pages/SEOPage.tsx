@@ -3,6 +3,7 @@ import SEOHead, { SEOHeadProps } from '@/components/seo/SEOHead';
 import SEOHero from '@/components/seo/SEOHero';
 import SEOArticle from '@/components/seo/SEOArticle';
 import SEOContactForm from '@/components/seo/SEOContactForm';
+import SEOContactPopup from '@/components/seo/SEOContactPopup';
 import FeaturedProjects from '@/components/FeaturedProjects';
 import Testimonials from '@/components/Testimonials';
 import ContactSection from '@/components/Contact';
@@ -41,6 +42,7 @@ const SEOPage = ({ data }: SEOPageProps) => {
       <Testimonials />
       <ContactSection />
       <Footer />
+      <SEOContactPopup />
     </main>
   );
 };
