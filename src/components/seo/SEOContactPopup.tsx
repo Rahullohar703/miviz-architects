@@ -11,11 +11,11 @@ const SEOContactPopup = () => {
   const [isOpen, setIsOpen] = useState(false);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
-  // Initial 10-second timer on mount
+  // Initial 15-second timer on mount
   useEffect(() => {
     timerRef.current = setTimeout(() => {
       setIsOpen(true);
-    }, 10000); // 10 seconds
+    }, 15000); // 15 seconds
 
     return () => {
       if (timerRef.current) clearTimeout(timerRef.current);
@@ -26,12 +26,12 @@ const SEOContactPopup = () => {
     setIsOpen(open);
 
     if (!open) {
-      // If the user closes the popup, set a new timer to reopen it after 35 seconds
+      // If the user closes the popup, set a new timer to reopen it after 45 seconds
       if (timerRef.current) clearTimeout(timerRef.current);
       
       timerRef.current = setTimeout(() => {
         setIsOpen(true);
-      }, 35000); // 35 seconds
+      }, 45000); // 45 seconds
     }
   };
 
