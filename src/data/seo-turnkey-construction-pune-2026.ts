@@ -13,7 +13,7 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
         "@id": "https://mivizarchitects.in/turnkey-construction-pune-2026/#article",
         "headline": "Turnkey Construction in Pune (2026): Cost, Process & Benefits",
         "description": "The ultimate 2026 guide to turnkey construction in Pune. Compare costs (per sq ft), understand the architect-led process, and learn how to avoid contractor scams.",
-        "image": "https://mivizarchitects.in/images/cozy_living_room_1787470186231.png",
+        "image": "https://mivizarchitects.in/images/minimalist_living_1787539668837.png",
         "author": {
           "@type": "Organization",
           "name": "MIVIZ Architects",

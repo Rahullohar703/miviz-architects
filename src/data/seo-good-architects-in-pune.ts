@@ -13,7 +13,7 @@ export const goodArchitectsInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/good-architects-in-pune/#article",
         "headline": "Good Architects in Pune (2026): Your Guide to Hiring the Best",
         "description": "Learn what defines a good architect in Pune, how to find them, and how to protect your home-building budget from common contractor scams.",
-        "image": "https://mivizarchitects.in/images/modern_office_interior_1787470169869.png",
+        "image": "https://mivizarchitects.in/images/luxury_bathroom_1787539681378.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

@@ -13,7 +13,7 @@ export const modernVastuTipsHomesPune2026Data: SEOPageData = {
         "@id": "https://mivizarchitects.in/modern-vastu-tips-homes-pune-2026/#article",
         "headline": "Modern Vastu Tips for Homes: Balance Design & Tradition (2026 Guide)",
         "description": "Comprehensive architectural guide combining Vastu Shastra with modern home design, room orientations, solar logic, and non-demolition remedies.",
-        "image": "https://mivizarchitects.in/images/wada_architecture_1787470531836.png",
+        "image": "https://mivizarchitects.in/images/modern_patio_1787539754743.png",
         "author": {
           "@type": "Person",
           "name": "Rahul",

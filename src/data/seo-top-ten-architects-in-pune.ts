@@ -13,7 +13,7 @@ export const topTenArchitectsInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/top-ten-architects-in-pune/#article",
         "headline": "Top 10 Architects in Pune: The Ultimate 2026 Guide to Luxury Home Design",
         "description": "Discover the best residential and commercial architecture firms in Pune. Compare 2026 architect fees, and learn how to avoid costly construction mistakes.",
-        "image": "https://mivizarchitects.in/images/modern_office_interior_1787470169869.png",
+        "image": "https://mivizarchitects.in/images/luxury_facade_1787539628345.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

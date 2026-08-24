@@ -13,7 +13,7 @@ export const modernLuxuryVillaDesignPune2026Data: SEOPageData = {
         "@id": "https://mivizarchitects.in/modern-luxury-villa-design-pune-2026/#article",
         "headline": "Modern Luxury Villa Design Ideas in Pune (2026 Trends)",
         "description": "Discover 2026's top modern luxury villa design ideas for Pune homes. Explore glass facades, courtyards, smart home tech, Vastu tips, and expert architect advice.",
-        "image": "https://mivizarchitects.in/images/patio_design_1787470502889.png",
+        "image": "https://mivizarchitects.in/images/modern_kitchen_island_1786269079744.png",
         "author": {
           "@type": "Organization",
           "name": "MIVIZ Architects",

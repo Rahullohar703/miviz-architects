@@ -13,7 +13,7 @@ export const goodInteriorDesignersInPuneData: SEOPageData = {
         "@id": "https://mivizarchitects.in/good-interior-designers-in-pune/#article",
         "headline": "How to Find Good Interior Designers in Pune (2026 Hiring Guide)",
         "description": "An essential guide for homeowners to identify good, reliable interior designers in Pune, focusing on Turnkey execution, material transparency, and avoiding contractor scams.",
-        "image": "https://mivizarchitects.in/images/cozy_living_room_1787470186231.png",
+        "image": "https://mivizarchitects.in/images/luxury_pool_1787539828515.png",
         "author": {
           "@type": "Person",
           "name": "Principal Architect, MIVIZ Architects",

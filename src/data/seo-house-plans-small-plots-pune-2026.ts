@@ -13,7 +13,7 @@ export const housePlansSmallPlotsPune2026Data: SEOPageData = {
         "@id": "https://mivizarchitects.in/house-plans-small-plots-pune-2026/#article",
         "headline": "Best House Plans for Small Plots in Pune (Modern Design Ideas for 2026)",
         "description": "Comprehensive architectural guide on modern house floor plans, vertical zoning, lighting strategies, and PMC UDCPR rules for small plots in Pune.",
-        "image": "https://mivizarchitects.in/images/luxury_bathroom_1787470489994.png",
+        "image": "https://mivizarchitects.in/images/modern_kitchen_1787539640776.png",
         "author": {
           "@type": "Person",
           "name": "Rahul",
