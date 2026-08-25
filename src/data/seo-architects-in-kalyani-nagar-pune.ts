@@ -11,7 +11,7 @@ export const architectsInKalyaniNagarData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "MIVIZ Architects Kalyani Nagar",
-        "image": "https://mivizarchitects.in/og-image.png",
+        "image": "https://mivizarchitects.in/images/minimalist_living_1787657304160.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
         "address": {

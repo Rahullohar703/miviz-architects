@@ -11,7 +11,7 @@ export const architectsInVimanNagarData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "MIVIZ Architects Viman Nagar",
-        "image": "https://mivizarchitects.in/og-image.png",
+        "image": "https://mivizarchitects.in/images/architectural_blueprint_desk_1786268594634.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
         "address": {

@@ -11,7 +11,7 @@ export const architectsInKoregaonParkData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "MIVIZ Architects Koregaon Park",
-        "image": "https://mivizarchitects.in/og-image.png",
+        "image": "https://mivizarchitects.in/images/cozy_bedroom_1787657336197.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
         "address": {

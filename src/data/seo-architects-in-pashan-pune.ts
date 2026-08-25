@@ -11,7 +11,7 @@ export const architectsInPashanData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "MIVIZ Architects Pashan",
-        "image": "https://mivizarchitects.in/og-image.png",
+        "image": "https://mivizarchitects.in/images/landscape_arch_1787657460749.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
         "address": {

@@ -11,7 +11,7 @@ export const architectsInBoatClubRoadData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "MIVIZ Architects Boat Club Road",
-        "image": "https://mivizarchitects.in/og-image.png",
+        "image": "https://mivizarchitects.in/images/eco_home_1787657289396.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
         "address": {

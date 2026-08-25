@@ -11,7 +11,7 @@ export const restaurantInteriorDesignPuneData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "Architect",
         "name": "MIVIZ Restaurant Interior Design",
-        "image": "https://mivizarchitects.in/og-image.png",
+        "image": "https://mivizarchitects.in/images/cozy_contemporary_bedroom_1786269022779.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
 

@@ -11,7 +11,7 @@ export const interiorDesignersPuneData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "MIVIZ Interior Designers",
-        "image": "https://mivizarchitects.in/og-image.png",
+        "image": "https://mivizarchitects.in/images/baner_minimalist_living_1786296940210.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
 

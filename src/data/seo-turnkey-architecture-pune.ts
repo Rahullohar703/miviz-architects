@@ -11,7 +11,7 @@ export const turnkeyArchitecturePuneData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "MIVIZ Turnkey Architecture",
-        "image": "https://mivizarchitects.in/og-image.png",
+        "image": "https://mivizarchitects.in/images/elegant_dining_room_1786269008797.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
 

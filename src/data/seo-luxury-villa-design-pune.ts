@@ -11,7 +11,7 @@ export const luxuryVillaDesignPuneData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
         "name": "MIVIZ Luxury Villa Architects",
-        "image": "https://mivizarchitects.in/og-image.png",
+        "image": "https://mivizarchitects.in/images/boat_club_road_villa_1786296867822.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
 
