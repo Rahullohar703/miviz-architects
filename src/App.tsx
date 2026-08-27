@@ -54,6 +54,7 @@ const ArchitectsInBavdhanPunePage = React.lazy(() => import("./pages/seo/Archite
 const ElevationDesignMistakesToAvoidPage = React.lazy(() => import("./pages/seo/ElevationDesignMistakesToAvoidPage"));
 const ThingsToMakeKitchenPremiumPage = React.lazy(() => import("./pages/seo/ThingsToMakeKitchenPremiumPage"));
 const ThingsToMakeVillaPremiumPage = React.lazy(() => import("./pages/seo/ThingsToMakeVillaPremiumPage"));
+const ThreeInteriorStylesPage = React.lazy(() => import("./pages/seo/ThreeInteriorStylesPage"));
 
 
 const queryClient = new QueryClient();
@@ -134,6 +135,7 @@ const AnimatedRoutes = () => {
           <Route path="/elevation-design-mistakes-to-avoid" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ElevationDesignMistakesToAvoidPage /></Suspense>} />
           <Route path="/3-things-to-make-kitchen-premium" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ThingsToMakeKitchenPremiumPage /></Suspense>} />
           <Route path="/3-things-to-make-villa-premium" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ThingsToMakeVillaPremiumPage /></Suspense>} />
+          <Route path="/3-interior-styles-youve-never-heard-of" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ThreeInteriorStylesPage /></Suspense>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
