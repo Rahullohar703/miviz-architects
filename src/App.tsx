@@ -51,6 +51,7 @@ const ArchitectsInKharadiPunePage = React.lazy(() => import("./pages/seo/Archite
 const InteriorDesignersInKoregaonParkPunePage = React.lazy(() => import("./pages/seo/InteriorDesignersInKoregaonParkPunePage"));
 const InteriorDesignersInBanerPunePage = React.lazy(() => import("./pages/seo/InteriorDesignersInBanerPunePage"));
 const ArchitectsInBavdhanPunePage = React.lazy(() => import("./pages/seo/ArchitectsInBavdhanPunePage"));
+const ElevationDesignMistakesToAvoidPage = React.lazy(() => import("./pages/seo/ElevationDesignMistakesToAvoidPage"));
 
 
 const queryClient = new QueryClient();
@@ -128,6 +129,7 @@ const AnimatedRoutes = () => {
           <Route path="/architects-in-kharadi-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ArchitectsInKharadiPunePage /></Suspense>} />
           <Route path="/interior-designers-in-koregaon-park-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><InteriorDesignersInKoregaonParkPunePage /></Suspense>} />
           <Route path="/interior-designers-in-baner-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><InteriorDesignersInBanerPunePage /></Suspense>} />
+          <Route path="/elevation-design-mistakes-to-avoid" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ElevationDesignMistakesToAvoidPage /></Suspense>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
