@@ -62,6 +62,8 @@ const ArchitectVsContractorPunePage = React.lazy(() => import("./pages/seo/Archi
 const WhatToCheckBeforeBuyingPlotPunePage = React.lazy(() => import("./pages/seo/WhatToCheckBeforeBuyingPlotPunePage"));
 const BestHouseDesignsPuneClimatePage = React.lazy(() => import("./pages/seo/BestHouseDesignsPuneClimatePage"));
 const AacBlocksVsRedBricksPunePage = React.lazy(() => import("./pages/seo/AacBlocksVsRedBricksPunePage"));
+const ReduceHouseConstructionCostsPunePage = React.lazy(() => import("./pages/seo/ReduceHouseConstructionCostsPunePage"));
+const CompleteHouseDesignProcessPunePage = React.lazy(() => import("./pages/seo/CompleteHouseDesignProcessPunePage"));
 
 
 const queryClient = new QueryClient();
@@ -150,6 +152,8 @@ const AnimatedRoutes = () => {
           <Route path="/what-to-check-before-buying-plot-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><WhatToCheckBeforeBuyingPlotPunePage /></Suspense>} />
           <Route path="/best-house-designs-pune-climate" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><BestHouseDesignsPuneClimatePage /></Suspense>} />
           <Route path="/aac-blocks-vs-red-bricks-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><AacBlocksVsRedBricksPunePage /></Suspense>} />
+          <Route path="/reduce-house-construction-costs-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ReduceHouseConstructionCostsPunePage /></Suspense>} />
+          <Route path="/complete-house-design-process-pune" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><CompleteHouseDesignProcessPunePage /></Suspense>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
