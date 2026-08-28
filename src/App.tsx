@@ -56,6 +56,8 @@ const ThingsToMakeKitchenPremiumPage = React.lazy(() => import("./pages/seo/Thin
 const ThingsToMakeVillaPremiumPage = React.lazy(() => import("./pages/seo/ThingsToMakeVillaPremiumPage"));
 const ThreeInteriorStylesPage = React.lazy(() => import("./pages/seo/ThreeInteriorStylesPage"));
 const ElderlyParentsBedroomDesignPage = React.lazy(() => import("./pages/seo/ElderlyParentsBedroomDesignPage"));
+const ThreeBHKHouseConstructionCostPunePage = React.lazy(() => import("./pages/seo/ThreeBHKHouseConstructionCostPunePage"));
+const FourBHKHouseConstructionCostPunePage = React.lazy(() => import("./pages/seo/FourBHKHouseConstructionCostPunePage"));
 
 
 const queryClient = new QueryClient();
@@ -138,6 +140,8 @@ const AnimatedRoutes = () => {
           <Route path="/3-things-to-make-villa-premium" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ThingsToMakeVillaPremiumPage /></Suspense>} />
           <Route path="/3-interior-styles-youve-never-heard-of" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ThreeInteriorStylesPage /></Suspense>} />
           <Route path="/elderly-parents-bedroom-design" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ElderlyParentsBedroomDesignPage /></Suspense>} />
+          <Route path="/3-bhk-house-construction-cost-pune-2026" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><ThreeBHKHouseConstructionCostPunePage /></Suspense>} />
+          <Route path="/4-bhk-house-construction-cost-pune-2026" element={<Suspense fallback={<div className="min-h-screen bg-background" />}><FourBHKHouseConstructionCostPunePage /></Suspense>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
