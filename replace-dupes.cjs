@@ -14,13 +14,12 @@ files.forEach(f => {
 });
 
 const newImages = [
-  'luxury-facade-modern.png',
-  'eco-friendly-home.png',
-  'modern-kitchen-island.png',
-  'cozy-living-room.png',
-  'contemporary-bedroom.png',
-  'minimalist-bathroom.png',
-  'open-plan-office.png'
+  'luxury-villa-pool.png',
+  'modern-staircase-design.png',
+  'cozy-reading-nook-interior.png',
+  'bright-sunroom-patio.png',
+  'urban-apartment-balcony.png',
+  'minimalist-dining-area.png'
 ];
 let usedNewImages = 0;
 

@@ -242,7 +242,7 @@ export const houseConstructionCostPuneData: SEOPageData = {
     
 
 <div style="text-align: center; margin: 30px 0;">
-            <img src="/images/architect_client_meeting_1786199129803.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
+            <img src="/images/modern-staircase-design.png" alt="Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design." style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
             <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Execution Quality: Completed turnkey residential villa project in Pune highlighting flawless civil construction and elevation design.</em></p>
         </div>
 
