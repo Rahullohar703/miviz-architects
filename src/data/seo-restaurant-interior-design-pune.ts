@@ -3,8 +3,8 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const restaurantInteriorDesignPuneData: SEOPageData = {
   slug: 'restaurant-interior-design-pune',
   head: {
-    title: 'Restaurant Interior Design in Pune',
-    description: 'Create unforgettable dining experiences with MIVIZ, experts in restaurant interior design in Pune. We design cafes, bars, and fine dining spaces that attract customers.',
+    title: 'Restaurant Interior Design in Pune | Top Designers',
+    description: 'Create unforgettable dining experiences with MIVIZ, experts in restaurant interior design in Pune. We design cafes, bars, and premium fine dining spaces.',
     canonicalUrl: 'https://mivizarchitects.in/restaurant-interior-design-pune',
     schema: JSON.stringify([
       {

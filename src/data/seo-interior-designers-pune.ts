@@ -3,8 +3,8 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const interiorDesignersPuneData: SEOPageData = {
   slug: 'interior-designers-pune',
   head: {
-    title: 'Interior Designers in Pune',
-    description: 'Looking for the best interior designers in Pune? MIVIZ specializes in luxury residential and commercial interior design with turnkey execution and 3D design walkthroughs.',
+    title: 'Top Interior Designers in Pune | Premium Luxury Homes',
+    description: 'Looking for the best interior designers in Pune? MIVIZ specializes in luxury residential and commercial interior design with premier turnkey executions.',
     canonicalUrl: 'https://mivizarchitects.in/interior-designers-pune',
     schema: JSON.stringify([
       {

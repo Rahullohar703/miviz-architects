@@ -3,7 +3,7 @@ import { SEOPageData } from '../SEOPage';
 export const aacBlocksVsRedBricksPuneData: SEOPageData = {
   slug: 'aac-blocks-vs-red-bricks-pune',
   head: {
-    title: 'AAC Blocks vs Red Bricks for House Construction in Pune (2026)',
+    title: 'AAC Blocks vs Red Bricks for House Construction in Pune',
     description: 'Confused between AAC blocks (Siporex) and red bricks? A Pune architect explains costs, thermal insulation, structural savings, and common masonry mistakes.',
     canonicalUrl: 'https://mivizarchitects.in/aac-blocks-vs-red-bricks-pune/',
     schema: JSON.stringify([

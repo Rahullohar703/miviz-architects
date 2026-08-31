@@ -4,7 +4,7 @@ export const architectureFirmInPuneData: SEOPageData = {
   slug: 'architecture-firm-in-pune',
   head: {
     title: 'Architecture Firm in Pune (2026): Your Ultimate Hiring Guide',
-    description: 'Looking for the best architecture firm in Pune? Discover the difference between firms and solo architects, compare 2026 fees, and learn how to hire the right team.',
+    description: 'Looking for the best architecture firm in Pune? Discover the difference between firms and solo architects, compare fees, and learn how to hire the best.',
     canonicalUrl: 'https://mivizarchitects.in/architecture-firm-in-pune',
     schema: JSON.stringify([
       {

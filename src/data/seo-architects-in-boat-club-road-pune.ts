@@ -67,7 +67,7 @@ export const architectsInBoatClubRoadData: SEOPageData = {
     ])
   },
   hero: {
-    title: 'Architects in Boat Club Road, Pune',
+    title: 'Top Architects in Boat Club Road, Pune | Luxury Villas',
     subtitle: "Elite architectural design and uncompromising turnkey execution for ultra-luxury residences in Pune's most prestigious neighborhood.",
     ctaText: 'Schedule a Private Consultation'
   },

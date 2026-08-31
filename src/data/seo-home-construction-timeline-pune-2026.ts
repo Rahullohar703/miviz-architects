@@ -3,8 +3,8 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const homeConstructionTimelinePune2026Data: SEOPageData = {
   slug: 'home-construction-timeline-pune-2026',
   head: {
-    title: 'Complete Home Construction Timeline (2026)',
-    description: 'Building a home in Pune? Discover the month-by-month construction timeline from plot survey, PMC/PCMC approvals, and RCC slab casting to final interior handover.',
+    title: 'The Complete Home Construction Timeline in Pune (2026)',
+    description: 'Building a home in Pune? Discover the month-by-month construction timeline from plot survey, PMC/PCMC approvals, and RCC slab casting to the handover.',
     canonicalUrl: 'https://mivizarchitects.in/home-construction-timeline-pune-2026',
     schema: JSON.stringify([
       {

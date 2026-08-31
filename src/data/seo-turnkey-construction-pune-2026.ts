@@ -4,7 +4,7 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
   slug: 'turnkey-construction-pune-2026',
   head: {
     title: 'The Complete Guide to Turnkey Construction in Pune (2026)',
-    description: 'The ultimate 2026 guide to turnkey construction in Pune. Compare costs (per sq ft), understand the architect-led process, and learn how to avoid contractor scams.',
+    description: 'The ultimate 2026 guide to turnkey construction in Pune. Compare costs (per sq ft), understand the architect-led process, and learn how to avoid scams.',
     canonicalUrl: 'https://mivizarchitects.in/turnkey-construction-pune-2026',
     schema: JSON.stringify([
       {
@@ -12,7 +12,7 @@ export const turnkeyConstructionPune2026Data: SEOPageData = {
         "@type": "Article",
         "@id": "https://mivizarchitects.in/turnkey-construction-pune-2026/#article",
         "headline": "Turnkey Construction in Pune (2026): Cost, Process & Benefits",
-        "description": "The ultimate 2026 guide to turnkey construction in Pune. Compare costs (per sq ft), understand the architect-led process, and learn how to avoid contractor scams.",
+        "description": "The ultimate 2026 guide to turnkey construction in Pune. Compare costs (per sq ft), understand the architect-led process, and learn how to avoid scams.",
         "image": "https://mivizarchitects.in/images/minimalist_living_1787539668837.png",
         "author": {
           "@type": "Organization",

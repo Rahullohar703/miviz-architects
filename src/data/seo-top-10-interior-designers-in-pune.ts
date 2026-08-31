@@ -4,7 +4,7 @@ export const top10InteriorDesignersInPuneData: SEOPageData = {
   slug: 'top-10-interior-designers-in-pune',
   head: {
     title: 'Top 10 Interior Designers in Pune (2026 Rankings & Cost)',
-    description: 'Discover the top 10 interior designers in Pune for luxury homes and apartments. Compare execution capabilities, turnkey costs, and find the best firm for your project.',
+    description: 'Discover the top 10 interior designers in Pune for luxury homes and apartments. Compare execution capabilities, turnkey costs, and find the best firms.',
     canonicalUrl: 'https://mivizarchitects.in/top-10-interior-designers-in-pune',
     schema: JSON.stringify([
       {

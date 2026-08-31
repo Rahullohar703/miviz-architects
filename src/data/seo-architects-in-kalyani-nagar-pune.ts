@@ -3,8 +3,8 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const architectsInKalyaniNagarData: SEOPageData = {
   slug: 'architects-in-kalyani-nagar-pune',
   head: {
-    title: 'Top Architects in Kalyani Nagar, Pune | Luxury Villa Designers',
-    description: 'Looking for the best architects in Kalyani Nagar, Pune? MIVIZ Architects specializes in ultra-luxury villas, premium bungalow renovations, and turnkey construction.',
+    title: 'Top Architects in Kalyani Nagar | Luxury Villa Designers',
+    description: 'Looking for the best architects in Kalyani Nagar, Pune? MIVIZ Architects specializes in ultra-luxury villas, premium bungalow renovations, and turnkey.',
     canonicalUrl: 'https://mivizarchitects.in/architects-in-kalyani-nagar-pune',
     schema: JSON.stringify([
       {

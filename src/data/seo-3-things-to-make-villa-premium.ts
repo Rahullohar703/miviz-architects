@@ -4,7 +4,7 @@ export const thingsToMakeVillaPremiumData: SEOPageData = {
   slug: '3-things-to-make-villa-premium',
   head: {
     title: '3 Things to Make Your Villa Premium (Pune Architect)',
-    description: 'Planning a luxury villa in Pune? Architect Manohar reveals 3 architectural secrets to make it look truly premium: floating walls, frameless doors, and corner windows.',
+    description: 'Planning a luxury villa in Pune? Architect Manohar reveals 3 architectural secrets to make it look truly premium: floating walls, and frameless doors.',
     canonicalUrl: 'https://mivizarchitects.in/3-things-to-make-villa-premium',
     schema: JSON.stringify([
       {
@@ -12,7 +12,7 @@ export const thingsToMakeVillaPremiumData: SEOPageData = {
         "@type": "Article",
         "@id": "https://mivizarchitects.in/3-things-to-make-villa-premium/#article",
         "headline": "3 Things to Make Your Villa Premium | Architect's Guide",
-        "description": "Planning a luxury villa in Pune? Architect Manohar reveals 3 architectural secrets to make it look truly premium: floating walls, frameless doors, and corner windows.",
+        "description": "Planning a luxury villa in Pune? Architect Manohar reveals 3 architectural secrets to make it look truly premium: floating walls, and frameless doors.",
         "image": "https://mivizarchitects.in/images/luxury-villa-interior-pune.jpg",
         "author": {
           "@type": "Person",

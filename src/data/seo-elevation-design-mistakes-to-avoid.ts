@@ -3,8 +3,8 @@ import { SEOPageData } from '../SEOPage';
 export const elevationDesignMistakesToAvoidData: SEOPageData = {
   slug: 'elevation-design-mistakes-to-avoid',
   head: {
-    title: 'Avoid These 3 Home Elevation Design Mistakes (Pune Architect)',
-    description: 'Planning a villa in Pune? Architect Manohar explains the 3 biggest front elevation design mistakes: drainage failures, ignoring night views, & high-maintenance materials.',
+    title: 'Avoid These 3 Home Elevation Design Mistakes in Pune',
+    description: 'Planning a villa in Pune? Architect Manohar explains the 3 biggest front elevation design mistakes: drainage failures, and high-maintenance materials.',
     canonicalUrl: 'https://mivizarchitects.in/elevation-design-mistakes-to-avoid',
     schema: JSON.stringify([
       {
@@ -12,7 +12,7 @@ export const elevationDesignMistakesToAvoidData: SEOPageData = {
         "@type": "Article",
         "@id": "https://mivizarchitects.in/elevation-design-mistakes-to-avoid/#article",
         "headline": "3 Elevation Design Mistakes to Avoid in Pune | Architect's Guide",
-        "description": "Planning a villa in Pune? Architect Manohar explains the 3 biggest front elevation design mistakes: drainage failures, ignoring night views, & high-maintenance materials.",
+        "description": "Planning a villa in Pune? Architect Manohar explains the 3 biggest front elevation design mistakes: drainage failures, and high-maintenance materials.",
         "image": "https://mivizarchitects.in/images/modern-villa-elevation-design-pune.jpg",
         "author": {
           "@type": "Person",

@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const residentialArchitectsPuneData: SEOPageData = {
   slug: 'residential-architects-pune',
   head: {
-    title: 'Residential Architects Pune',
+    title: 'Top Residential Architects in Pune | Villa Designers',
     description: 'Build your dream home with MIVIZ, the premier residential architects in Pune. We specialize in bespoke house designs, luxury villas, and turnkey execution.',
     canonicalUrl: 'https://mivizarchitects.in/residential-architects-pune',
     schema: JSON.stringify([

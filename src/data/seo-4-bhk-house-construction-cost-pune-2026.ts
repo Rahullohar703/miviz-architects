@@ -4,7 +4,7 @@ export const fourBHKHouseConstructionCostPune2026Data: SEOPageData = {
   slug: '4-bhk-house-construction-cost-pune-2026',
   head: {
     title: '4 BHK House Construction Cost in Pune (2026 Architect Guide)',
-    description: 'Planning to build a 4 BHK duplex or villa in Pune? Discover the exact house construction cost per sq ft for 2026. Get room sizes, budget splits, and expert tips.',
+    description: 'Planning to build a 4 BHK duplex or villa in Pune? Discover the exact house construction cost per sq ft for 2026. Get room sizes, and precise budget splits.',
     canonicalUrl: 'https://mivizarchitects.in/4-bhk-house-construction-cost-pune-2026/',
     schema: JSON.stringify([
       {
@@ -12,7 +12,7 @@ export const fourBHKHouseConstructionCostPune2026Data: SEOPageData = {
         "@type": "Article",
         "@id": "https://mivizarchitects.in/4-bhk-house-construction-cost-pune-2026/#article",
         "headline": "4 BHK House Construction Cost in Pune: 2026 Architect Guide",
-        "description": "Planning to build a 4 BHK duplex or villa in Pune? Discover the exact house construction cost per sq ft for 2026. Get room sizes, budget splits, and expert tips.",
+        "description": "Planning to build a 4 BHK duplex or villa in Pune? Discover the exact house construction cost per sq ft for 2026. Get room sizes, and precise budget splits.",
         "image": "https://mivizarchitects.in/images/4-bhk-luxury-duplex-construction-cost-pune.jpg",
         "author": {
           "@type": "Organization",

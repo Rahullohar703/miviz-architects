@@ -4,7 +4,7 @@ export const modernLuxuryVillaDesignPune2026Data: SEOPageData = {
   slug: 'modern-luxury-villa-design-pune-2026',
   head: {
     title: 'Modern Luxury Villa Design Ideas for Pune Homes (2026)',
-    description: 'Discover 2026\'s top modern luxury villa design ideas for Pune homes. Explore glass facades, courtyards, smart home tech, Vastu tips, and expert architect advice.',
+    description: 'Discover the 2026 trends for modern luxury villa design in Pune. We explore open floor plans, premium materials, sustainable features, and smart automation.'s top modern luxury villa design ideas for Pune homes. Explore glass facades, courtyards, smart home tech, Vastu tips, and expert architect advice.',
     canonicalUrl: 'https://mivizarchitects.in/modern-luxury-villa-design-pune-2026',
     schema: JSON.stringify([
       {

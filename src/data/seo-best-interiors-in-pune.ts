@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const bestInteriorsInPuneData: SEOPageData = {
   slug: 'best-interiors-in-pune',
   head: {
-    title: 'Best Interiors in Pune (2026): Trends, Costs, & Luxury Execution',
+    title: 'Best Interiors in Pune (2026): Trends & Luxury Execs',
     description: 'Explore the best interiors in Pune. Discover 2026 luxury design trends, cost breakdowns, and why turnkey execution creates the ultimate living spaces.',
     canonicalUrl: 'https://mivizarchitects.in/best-interiors-in-pune',
     schema: JSON.stringify([

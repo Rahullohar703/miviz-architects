@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const bestArchitectNearMeData: SEOPageData = {
   slug: 'best-architect-near-me',
   head: {
-    title: 'Best Architect Near Me (Pune 2026): Your Ultimate Hiring Guide',
+    title: 'Best Architect Near Me in Pune: Ultimate 2026 Guide',
     description: 'Looking for the best architect near me in Pune? Learn how to find top residential architects, compare turnkey vs traditional services, and vet the perfect firm.',
     canonicalUrl: 'https://mivizarchitects.in/best-architect-near-me',
     schema: JSON.stringify([

@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const architectsInBanerPuneData: SEOPageData = {
   slug: 'architects-in-baner-pune',
   head: {
-    title: 'Best Architects in Baner, Pune | Luxury Villa & Home Designers',
+    title: 'Best Architects in Baner, Pune | Luxury Villa Designers',
     description: 'Looking for the best architects in Baner, Pune? Discover expert tips, architect fees, and the complete step-by-step guide to building your luxury dream home.',
     canonicalUrl: 'https://mivizarchitects.in/architects-in-baner-pune',
     schema: JSON.stringify([

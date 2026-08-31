@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const bestInteriorDecoratorsInPuneData: SEOPageData = {
   slug: 'best-interior-decorators-in-pune',
   head: {
-    title: 'Best Interior Decorators in Pune (2026): Read This Before Hiring',
+    title: 'Best Interior Decorators in Pune: Read Before Hiring',
     description: 'Looking for the best interior decorators in Pune? Learn the critical difference between a decorator and an interior architect, and how to hire for luxury homes.',
     canonicalUrl: 'https://mivizarchitects.in/best-interior-decorators-in-pune',
     schema: JSON.stringify([

@@ -4,7 +4,7 @@ export const completeHouseDesignProcessPuneData: SEOPageData = {
   slug: 'complete-house-design-process-pune',
   head: {
     title: 'Complete House Design Process in Pune: Step-by-Step Guide',
-    description: 'Learn the complete 6-step process of designing and building a house in Pune. An architect explains floor planning, PMC approvals, structural engineering, and construction.',
+    description: 'Learn the complete 6-step process of designing and building a house in Pune. An architect explains floor planning, PMC approvals, and structural designs.',
     canonicalUrl: 'https://mivizarchitects.in/complete-house-design-process-pune/',
     schema: JSON.stringify([
       {
@@ -12,7 +12,7 @@ export const completeHouseDesignProcessPuneData: SEOPageData = {
         "@type": "Article",
         "@id": "https://mivizarchitects.in/complete-house-design-process-pune/#article",
         "headline": "Complete House Design Process: Concept to Construction (2026)",
-        "description": "Learn the complete 6-step process of designing and building a house in Pune. An architect explains floor planning, PMC approvals, structural engineering, and construction.",
+        "description": "Learn the complete 6-step process of designing and building a house in Pune. An architect explains floor planning, PMC approvals, and structural designs.",
         "image": "https://mivizarchitects.in/images/complete-house-design-process-pune-hero.jpg",
         "author": {
           "@type": "Organization",

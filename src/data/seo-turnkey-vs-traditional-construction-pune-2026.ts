@@ -4,7 +4,7 @@ export const turnkeyVsTraditionalConstructionPune2026Data: SEOPageData = {
   slug: 'turnkey-vs-traditional-construction-pune-2026',
   head: {
     title: 'Turnkey vs Traditional Construction in Pune (2026)',
-    description: 'Building a home in Pune? Compare Turnkey vs Traditional construction costs, timelines, PMC/PCMC approvals, and pros & cons in this 2026 expert guide.',
+    description: 'Building a home in Pune? Compare Turnkey vs Traditional construction costs, timelines, PMC/PCMC approvals, and pros & cons in this new 2026 expert guide.',
     canonicalUrl: 'https://mivizarchitects.in/turnkey-vs-traditional-construction-pune-2026',
     schema: JSON.stringify([
       {

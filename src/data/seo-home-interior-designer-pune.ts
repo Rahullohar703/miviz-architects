@@ -4,7 +4,7 @@ export const homeInteriorDesignerPuneData: SEOPageData = {
   slug: 'home-interior-designer-pune',
   head: {
     title: 'Top Home Interior Designer in Pune (2026) | Luxury & Turnkey',
-    description: 'Looking for a home interior designer in Pune? Discover the ultimate guide to hiring luxury interior designers, comparing costs, and understanding turnkey interiors.',
+    description: 'Looking for a home interior designer in Pune? Discover the ultimate guide to hiring luxury interior designers, comparing costs, and understanding turnkey.',
     canonicalUrl: 'https://mivizarchitects.in/home-interior-designer-pune',
     schema: JSON.stringify([
       {

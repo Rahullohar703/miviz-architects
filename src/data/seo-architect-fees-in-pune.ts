@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const architectFeesInPuneData: SEOPageData = {
   slug: 'architect-fees-in-pune',
   head: {
-    title: 'Architect Fees in Pune (2026)',
+    title: 'A Complete Guide to Architect Fees in Pune for 2026',
     description: 'Building in Pune? Discover the exact 2026 architect fees, including per sq. ft. rates, percentage models, PMC approval charges, and hidden costs to avoid.',
     canonicalUrl: 'https://mivizarchitects.in/architect-fees-in-pune',
     schema: JSON.stringify([

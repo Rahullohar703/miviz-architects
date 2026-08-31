@@ -4,7 +4,7 @@ export const architectsInAundhData: SEOPageData = {
   slug: 'architects-in-aundh-pune',
   head: {
     title: 'Top Architects in Aundh, Pune | Luxury Villa Designers',
-    description: 'Looking for the best architects in Aundh, Pune? MIVIZ Architects specializes in custom luxury villas, turnkey construction, and premium interior design for Aundh homeowners.',
+    description: 'Looking for the best architects in Aundh, Pune? MIVIZ Architects specializes in custom luxury villas, turnkey construction, and premium interior design.',
     canonicalUrl: 'https://mivizarchitects.in/architects-in-aundh-pune',
     schema: JSON.stringify([
       {

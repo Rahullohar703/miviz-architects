@@ -3,8 +3,8 @@ import { SEOPageData } from '../SEOPage';
 export const threeInteriorStylesData: SEOPageData = {
   slug: '3-interior-styles-youve-never-heard-of',
   head: {
-    title: '3 Interior Styles You\'ve Probably Never Heard Of | Pune Architect',
-    description: 'Looking beyond modern and traditional? Architect Manohar reveals 3 unique interior design styles for your Pune home: Bauhaus, Mid-Century Modern, and Dopamine Decor.',
+    title: '3 Interior Styles You Have Never Heard Of Before (2026)'ve Probably Never Heard Of | Pune Architect',
+    description: 'Looking beyond modern and traditional? Architect Manohar reveals 3 unique interior design styles for your Pune home: Bauhaus, Mid-Century, and Dopamine.',
     canonicalUrl: 'https://mivizarchitects.in/3-interior-styles-youve-never-heard-of',
     schema: JSON.stringify([
       {
@@ -12,7 +12,7 @@ export const threeInteriorStylesData: SEOPageData = {
         "@type": "Article",
         "@id": "https://mivizarchitects.in/3-interior-styles-youve-never-heard-of/#article",
         "headline": "3 Interior Styles You've Probably Never Heard Of",
-        "description": "Looking beyond modern and traditional? Architect Manohar reveals 3 unique interior design styles for your Pune home: Bauhaus, Mid-Century Modern, and Dopamine Decor.",
+        "description": "Looking beyond modern and traditional? Architect Manohar reveals 3 unique interior design styles for your Pune home: Bauhaus, Mid-Century, and Dopamine.",
         "image": "https://mivizarchitects.in/images/dopamine-decor-interior-design.jpg",
         "author": {
           "@type": "Person",

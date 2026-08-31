@@ -3,7 +3,7 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const houseConstructionCostPuneData: SEOPageData = {
   slug: 'house-construction-cost-pune-2026',
   head: {
-    title: 'House Construction Cost in Pune (2026)',
+    title: 'House Construction Cost in Pune: A Complete 2026 Guide',
     description: 'Planning a home in Pune? Discover exact 2026 per sq ft construction rates, hidden PMC fees, soil-based foundation costs, and how to avoid contractor scams.',
     canonicalUrl: 'https://mivizarchitects.in/house-construction-cost-pune-2026',
     schema: JSON.stringify([

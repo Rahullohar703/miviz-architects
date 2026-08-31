@@ -4,7 +4,7 @@ export const top10ArchitectsInPuneData: SEOPageData = {
   slug: 'top-10-architects-in-pune',
   head: {
     title: 'Top 10 Architects in Pune (2026 Rankings & Fees) | MIVIZ',
-    description: 'Discover the top 10 architects in Pune for 2026. Compare the best residential firms, explore their fees, and learn how to hire the right architect for your luxury home.',
+    description: 'Discover the top 10 architects in Pune for 2026. Compare the best residential firms, explore their fees, and learn how to hire the right architect team.',
     canonicalUrl: 'https://mivizarchitects.in/top-10-architects-in-pune',
     schema: JSON.stringify([
       {

@@ -3,8 +3,8 @@ import { SEOPageData } from '../SEOPage';
 export const bestHouseDesignsPuneClimateData: SEOPageData = {
   slug: 'best-house-designs-pune-climate',
   head: {
-    title: 'Best House Designs for Pune\'s Climate: 2026 Guide',
-    description: 'Learn the best architectural house designs for Pune\'s climate. An architect explains cross-ventilation, AAC blocks, sloping roofs, and monsoon protection.',
+    title: 'The Best House Designs for the Pune Climate in 2026',
+    description: "Learn the best architectural house designs for Pune's unique climate. We explore ventilation, shading, and materials for sustainable modern homes in Pune.",
     canonicalUrl: 'https://mivizarchitects.in/best-house-designs-pune-climate/',
     schema: JSON.stringify([
       {

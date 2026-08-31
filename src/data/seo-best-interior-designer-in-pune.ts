@@ -4,7 +4,7 @@ export const bestInteriorDesignerInPuneData: SEOPageData = {
   slug: 'best-interior-designer-in-pune',
   head: {
     title: 'Who is the Best Interior Designer in Pune? (2026 Review)',
-    description: 'Searching for the best interior designer in Pune? Discover why luxury homeowners choose architectural turnkey firms over standard decorators for premium execution.',
+    description: 'Searching for the best interior designer in Pune? Discover why luxury homeowners choose architectural turnkey firms over standard decorators for premium.',
     canonicalUrl: 'https://mivizarchitects.in/best-interior-designer-in-pune',
     schema: JSON.stringify([
       {

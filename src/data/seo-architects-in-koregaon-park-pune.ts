@@ -3,8 +3,8 @@ import { SEOPageData } from '@/pages/SEOPage';
 export const architectsInKoregaonParkData: SEOPageData = {
   slug: 'architects-in-koregaon-park-pune',
   head: {
-    title: 'Top Architects in Koregaon Park, Pune | Luxury Villa Designers',
-    description: 'Looking for the best architects in Koregaon Park, Pune? MIVIZ Architects specializes in ultra-luxury villas, premium bungalow renovations, and bespoke interior design.',
+    title: 'Top Architects in Koregaon Park | Luxury Villa Designers',
+    description: 'Looking for the best architects in Koregaon Park, Pune? MIVIZ Architects specializes in ultra-luxury villas, premium bungalow renovations, and interiors.',
     canonicalUrl: 'https://mivizarchitects.in/architects-in-koregaon-park-pune',
     schema: JSON.stringify([
       {

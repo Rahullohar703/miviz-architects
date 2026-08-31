@@ -3,8 +3,8 @@ import { SEOPageData } from '../SEOPage';
 export const elderlyParentsBedroomDesignData: SEOPageData = {
   slug: 'elderly-parents-bedroom-design',
   head: {
-    title: 'Designing a Bedroom for Elderly Parents in Pune | Architect Guide',
-    description: 'Planning a bedroom for your elderly parents? Architect Manohar reveals 3 crucial design tips for safety and comfort: higher beds, rounded corners, and emergency buttons.',
+    title: 'How to Design a Bedroom for Elderly Parents in Pune',
+    description: 'Planning a bedroom for your elderly parents? Architect Manohar reveals 3 crucial design tips for safety and comfort: higher beds, and rounded corners.',
     canonicalUrl: 'https://mivizarchitects.in/elderly-parents-bedroom-design',
     schema: JSON.stringify([
       {
@@ -12,7 +12,7 @@ export const elderlyParentsBedroomDesignData: SEOPageData = {
         "@type": "Article",
         "@id": "https://mivizarchitects.in/elderly-parents-bedroom-design/#article",
         "headline": "Designing a Bedroom for Elderly Parents | Architect's Guide",
-        "description": "Planning a bedroom for your elderly parents? Architect Manohar reveals 3 crucial design tips for safety and comfort: higher beds, rounded corners, and emergency buttons.",
+        "description": "Planning a bedroom for your elderly parents? Architect Manohar reveals 3 crucial design tips for safety and comfort: higher beds, and rounded corners.",
         "image": "https://mivizarchitects.in/images/elderly-friendly-bedroom-design.jpg",
         "author": {
           "@type": "Person",
