@@ -11,7 +11,7 @@ export const architectsInPuneData: SEOPageData = {
         "@context": "https://schema.org",
         "@type": "Architect",
         "name": "MIVIZ Architects",
-        "image": "https://mivizarchitects.in/images/affordable_blueprint_planning_1786199099845.png",
+        "image": "https://mivizarchitects.in/images/luxury-facade-modern.png",
         "@id": "https://mivizarchitects.in",
         "url": "https://mivizarchitects.in",
 
