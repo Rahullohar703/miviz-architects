@@ -5,7 +5,7 @@ export const threeBHKHouseConstructionCostPune2026Data: SEOPageData = {
   head: {
     title: '3 BHK House Construction Cost in Pune (2026 Architect Guide)',
     description: 'Planning to build a 3 BHK in Pune? Discover the exact house construction cost per sq ft for 2026. Get room-wise estimates, material rates, and expert tips.',
-    canonicalUrl: 'https://mivizarchitects.in/3-bhk-house-construction-cost-pune-2026/',
+    canonicalUrl: 'https://mivizarchitects.in/3-bhk-house-construction-cost-pune-2026',
     schema: JSON.stringify([
       {
         "@context": "https://schema.org",
@@ -28,7 +28,7 @@ export const threeBHKHouseConstructionCostPune2026Data: SEOPageData = {
         "dateModified": "2026-08-28T08:00:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://mivizarchitects.in/3-bhk-house-construction-cost-pune-2026/"
+          "@id": "https://mivizarchitects.in/3-bhk-house-construction-cost-pune-2026"
         }
       },
       {

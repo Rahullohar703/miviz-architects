@@ -5,7 +5,7 @@ export const aacBlocksVsRedBricksPuneData: SEOPageData = {
   head: {
     title: 'AAC Blocks vs Red Bricks for House Construction in Pune',
     description: 'Confused between AAC blocks (Siporex) and red bricks? A Pune architect explains costs, thermal insulation, structural savings, and common masonry mistakes.',
-    canonicalUrl: 'https://mivizarchitects.in/aac-blocks-vs-red-bricks-pune/',
+    canonicalUrl: 'https://mivizarchitects.in/aac-blocks-vs-red-bricks-pune',
     schema: JSON.stringify([
       {
         "@context": "https://schema.org",
@@ -28,7 +28,7 @@ export const aacBlocksVsRedBricksPuneData: SEOPageData = {
         "dateModified": "2026-08-28T08:00:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://mivizarchitects.in/aac-blocks-vs-red-bricks-pune/"
+          "@id": "https://mivizarchitects.in/aac-blocks-vs-red-bricks-pune"
         }
       },
       {

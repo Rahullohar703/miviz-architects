@@ -5,7 +5,7 @@ export const reduceHouseConstructionCostsPuneData: SEOPageData = {
   head: {
     title: 'How to Reduce House Construction Costs in Pune (2026 Guide)',
     description: 'Want to save money building a house in Pune? An architect explains how to reduce construction costs by optimizing steel, using AAC blocks, and materials.',
-    canonicalUrl: 'https://mivizarchitects.in/reduce-house-construction-costs-pune/',
+    canonicalUrl: 'https://mivizarchitects.in/reduce-house-construction-costs-pune',
     schema: JSON.stringify([
       {
         "@context": "https://schema.org",
@@ -28,7 +28,7 @@ export const reduceHouseConstructionCostsPuneData: SEOPageData = {
         "dateModified": "2026-08-28T08:00:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://mivizarchitects.in/reduce-house-construction-costs-pune/"
+          "@id": "https://mivizarchitects.in/reduce-house-construction-costs-pune"
         }
       },
       {

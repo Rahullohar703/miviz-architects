@@ -5,7 +5,7 @@ export const whatToCheckBeforeBuyingPlotPuneData: SEOPageData = {
   head: {
     title: 'What to Check Before Buying a Plot in Pune (2026 Guide)',
     description: 'Avoid massive financial mistakes when buying land in Pune. An architect explains exactly what to check: NA order, Zone certificates, soil types, and FSI limits.',
-    canonicalUrl: 'https://mivizarchitects.in/what-to-check-before-buying-plot-pune/',
+    canonicalUrl: 'https://mivizarchitects.in/what-to-check-before-buying-plot-pune',
     schema: JSON.stringify([
       {
         "@context": "https://schema.org",
@@ -28,7 +28,7 @@ export const whatToCheckBeforeBuyingPlotPuneData: SEOPageData = {
         "dateModified": "2026-08-28T08:00:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://mivizarchitects.in/what-to-check-before-buying-plot-pune/"
+          "@id": "https://mivizarchitects.in/what-to-check-before-buying-plot-pune"
         }
       },
       {

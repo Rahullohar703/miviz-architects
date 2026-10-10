@@ -2,8 +2,17 @@ import { Link } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
 import mivizLogoLight from '@/assets/miviz-v-overlay.png';
 import mivizLogoDark from '@/assets/miviz-logo-dark.png';
+import { useEffect } from 'react';
 
 const Contact = () => {
+  useEffect(() => {
+    document.title = "Contact Us | MIVIZ Architects Pune";
+    const canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+      canonical.setAttribute('href', 'https://mivizarchitects.in/contact');
+    }
+  }, []);
+
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}

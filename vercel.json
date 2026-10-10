@@ -1,4 +1,18 @@
 {
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.mivizarchitects.in"
+        }
+      ],
+      "destination": "https://mivizarchitects.in/:path*",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/(.*)",

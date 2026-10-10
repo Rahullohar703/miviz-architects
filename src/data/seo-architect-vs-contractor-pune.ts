@@ -5,7 +5,7 @@ export const architectVsContractorPuneData: SEOPageData = {
   head: {
     title: 'Architect vs Contractor in Pune: Who Should You Hire? (2026)',
     description: 'Confused about hiring an architect vs a contractor in Pune? Learn the exact differences, risks of cheap quotes, and why Turnkey construction is the best choice.',
-    canonicalUrl: 'https://mivizarchitects.in/architect-vs-contractor-pune/',
+    canonicalUrl: 'https://mivizarchitects.in/architect-vs-contractor-pune',
     schema: JSON.stringify([
       {
         "@context": "https://schema.org",
@@ -28,7 +28,7 @@ export const architectVsContractorPuneData: SEOPageData = {
         "dateModified": "2026-08-28T08:00:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://mivizarchitects.in/architect-vs-contractor-pune/"
+          "@id": "https://mivizarchitects.in/architect-vs-contractor-pune"
         }
       },
       {

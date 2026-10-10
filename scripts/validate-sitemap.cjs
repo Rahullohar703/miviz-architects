@@ -55,10 +55,11 @@ while ((locMatch = locRegex.exec(sitemapContent)) !== null) {
 
 // 3. Check for missing URLs
 expectedSlugs.forEach(slug => {
-    const expectedUrl1 = `https://mivizarchitects.in${slug ? '/' + slug : ''}`;
-    const expectedUrl2 = `https://www.mivizarchitects.in${slug ? '/' + slug : ''}`;
+    const expectedUrl1 = `https://mivizarchitects.in${slug ? '/' + slug : '/'}`;
+    const expectedUrl2 = `https://www.mivizarchitects.in${slug ? '/' + slug : '/'}`;
+    const expectedUrlNoSlash = `https://mivizarchitects.in${slug ? '/' + slug : ''}`;
     
-    if (!foundUrls.has(expectedUrl1) && !foundUrls.has(expectedUrl2)) {
+    if (!foundUrls.has(expectedUrl1) && !foundUrls.has(expectedUrl2) && !foundUrls.has(expectedUrlNoSlash)) {
         console.error(`ERROR: Missing URL for slug '${slug}' in sitemap.xml`);
         hasErrors = true;
     }

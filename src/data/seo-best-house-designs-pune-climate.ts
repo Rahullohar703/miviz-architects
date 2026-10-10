@@ -5,7 +5,7 @@ export const bestHouseDesignsPuneClimateData: SEOPageData = {
   head: {
     title: 'The Best House Designs for the Pune Climate in 2026',
     description: "Learn the best architectural house designs for Pune's unique climate. We explore ventilation, shading, and materials for sustainable modern homes in Pune.",
-    canonicalUrl: 'https://mivizarchitects.in/best-house-designs-pune-climate/',
+    canonicalUrl: 'https://mivizarchitects.in/best-house-designs-pune-climate',
     schema: JSON.stringify([
       {
         "@context": "https://schema.org",
@@ -28,7 +28,7 @@ export const bestHouseDesignsPuneClimateData: SEOPageData = {
         "dateModified": "2026-08-28T08:00:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://mivizarchitects.in/best-house-designs-pune-climate/"
+          "@id": "https://mivizarchitects.in/best-house-designs-pune-climate"
         }
       },
       {

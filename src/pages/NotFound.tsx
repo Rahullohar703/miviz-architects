@@ -6,6 +6,26 @@ const NotFound = () => {
 
   useEffect(() => {
     console.error("404 Error: User attempted to access non-existent route:", location.pathname);
+    document.title = "404 - Page Not Found | MIVIZ Architects";
+
+    // Inform search engines this is a 404 page to prevent soft 404 indexing
+    const robots = document.querySelector('meta[name="robots"]');
+    const originalRobots = robots ? robots.getAttribute('content') : null;
+    if (robots) {
+      robots.setAttribute('content', 'noindex, nofollow');
+    } else {
+      const newRobots = document.createElement('meta');
+      newRobots.setAttribute('name', 'robots');
+      newRobots.setAttribute('content', 'noindex, nofollow');
+      document.head.appendChild(newRobots);
+    }
+
+    return () => {
+      const currentRobots = document.querySelector('meta[name="robots"]');
+      if (currentRobots && originalRobots) {
+        currentRobots.setAttribute('content', originalRobots);
+      }
+    };
   }, [location.pathname]);
 
   return (
