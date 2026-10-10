@@ -3,7 +3,7 @@ import { SEOPageData } from '../SEOPage';
 export const threeInteriorStylesData: SEOPageData = {
   slug: '3-interior-styles-youve-never-heard-of',
   head: {
-    title: '3 Interior Styles You Have Never Heard Of Before (2026)'ve Probably Never Heard Of | Pune Architect',
+    title: '3 Interior Styles You Have Never Heard Of Before (2026) | Pune Architect',
     description: 'Looking beyond modern and traditional? Architect Manohar reveals 3 unique interior design styles for your Pune home: Bauhaus, Mid-Century, and Dopamine.',
     canonicalUrl: 'https://mivizarchitects.in/3-interior-styles-youve-never-heard-of',
     schema: JSON.stringify([
