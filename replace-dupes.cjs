@@ -1,3 +1,4 @@
+
 const fs = require('fs');
 
 const files = fs.readdirSync('src/data').filter(f => f.endsWith('.ts'));
