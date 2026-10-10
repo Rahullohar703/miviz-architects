@@ -20,6 +20,12 @@ const NotFound = () => {
       document.head.appendChild(newRobots);
     }
 
+    // Remove canonical tag so 404 pages never report a canonical URL
+    const canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical && document.head.contains(canonical)) {
+      document.head.removeChild(canonical);
+    }
+
     return () => {
       const currentRobots = document.querySelector('meta[name="robots"]');
       if (currentRobots && originalRobots) {

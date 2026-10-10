@@ -7,9 +7,14 @@ import { useEffect } from 'react';
 const Contact = () => {
   useEffect(() => {
     document.title = "Contact Us | MIVIZ Architects Pune";
-    const canonical = document.querySelector('link[rel="canonical"]');
+    let canonical = document.querySelector('link[rel="canonical"]');
     if (canonical) {
       canonical.setAttribute('href', 'https://mivizarchitects.in/contact');
+    } else {
+      canonical = document.createElement('link');
+      canonical.setAttribute('rel', 'canonical');
+      canonical.setAttribute('href', 'https://mivizarchitects.in/contact');
+      document.head.appendChild(canonical);
     }
   }, []);
 

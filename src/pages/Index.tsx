@@ -14,9 +14,14 @@ import { useEffect } from 'react';
 const Index = () => {
   useEffect(() => {
     document.title = "MIVIZ Architects | Tech-Enabled Architecture & Interior Design in Pune";
-    const canonical = document.querySelector('link[rel="canonical"]');
+    let canonical = document.querySelector('link[rel="canonical"]');
     if (canonical) {
       canonical.setAttribute('href', 'https://mivizarchitects.in/');
+    } else {
+      canonical = document.createElement('link');
+      canonical.setAttribute('rel', 'canonical');
+      canonical.setAttribute('href', 'https://mivizarchitects.in/');
+      document.head.appendChild(canonical);
     }
   }, []);
 
