@@ -28,7 +28,7 @@ export const architectsInBanerPuneData: SEOPageData = {
         "dateModified": "2026-08-08T12:00:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://mivizarchitects.in/architects-in-baner-pune/"
+          "@id": "https://mivizarchitects.in/architects-in-baner-pune"
         }
       },
       {

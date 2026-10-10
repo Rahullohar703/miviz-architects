@@ -28,7 +28,7 @@ export const bestInteriorDecoratorsInPuneData: SEOPageData = {
         "dateModified": "2026-08-01T12:00:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://mivizarchitects.in/best-interior-decorators-in-pune/"
+          "@id": "https://mivizarchitects.in/best-interior-decorators-in-pune"
         }
       },
       {

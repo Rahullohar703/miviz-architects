@@ -28,7 +28,7 @@ export const affordableArchitectNearMeData: SEOPageData = {
         "dateModified": "2026-08-01T12:00:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://mivizarchitects.in/affordable-architect-near-me/"
+          "@id": "https://mivizarchitects.in/affordable-architect-near-me"
         }
       },
       {
