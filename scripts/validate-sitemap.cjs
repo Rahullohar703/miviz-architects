@@ -30,6 +30,10 @@ let hasErrors = false;
 
 while ((locMatch = locRegex.exec(sitemapContent)) !== null) {
     const url = locMatch[1].trim();
+    if (foundUrls.has(url)) {
+        console.error(`ERROR: Duplicate URL found in sitemap: ${url}`);
+        hasErrors = true;
+    }
     foundUrls.add(url);
     
     // Check if domain is exactly https://mivizarchitects.in
@@ -67,5 +71,7 @@ expectedSlugs.forEach(slug => {
 
 if (!hasErrors) {
     console.log("Sitemap validation passed. All URLs are correct and account for all slugs.");
+} else {
+    console.error("Sitemap validation failed with errors.");
+    process.exit(1);
 }
-

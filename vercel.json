@@ -15,7 +15,231 @@
   ],
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/15-mistakes-building-home-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/3-bhk-house-construction-cost-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/3-interior-styles-youve-never-heard-of",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/3-things-to-make-kitchen-premium",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/3-things-to-make-villa-premium",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/4-bhk-house-construction-cost-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/aac-blocks-vs-red-bricks-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/affordable-architect-near-me",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architect-fees-in-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architect-fees-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architect-vs-contractor-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-aundh-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-baner-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-bavdhan-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-boat-club-road-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-kalyani-nagar-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-kharadi-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-koregaon-park-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-pashan-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architects-in-viman-nagar-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architecture-firm-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/architecture-vs-interior-design-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/best-architect-near-me",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/best-house-designs-pune-climate",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/best-interior-decorators-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/best-interior-designer-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/best-interiors-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/commercial-architects-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/complete-house-design-process-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/elderly-parents-bedroom-design",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/elevation-design-mistakes-to-avoid",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/good-architects-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/good-interior-designers-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/home-construction-timeline-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/home-interior-designer-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/house-construction-cost-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/house-plans-small-plots-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/interior-designers-in-baner-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/interior-designers-in-koregaon-park-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/interior-designers-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/luxury-villa-design-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/modern-luxury-villa-design-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/modern-vastu-tips-homes-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/reduce-house-construction-costs-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/residential-architects-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/restaurant-interior-design-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/top-10-architects-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/top-10-interior-designers-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/top-interior-designers-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/top-ten-architects-in-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/turnkey-architecture-pune",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/turnkey-construction-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/turnkey-vs-traditional-construction-pune-2026",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/what-to-check-before-buying-plot-pune",
       "destination": "/index.html"
     }
   ]
